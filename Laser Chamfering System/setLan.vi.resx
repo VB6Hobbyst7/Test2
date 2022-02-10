@@ -1,0 +1,1596 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AAlignUseable" xml:space="preserve">
+    <value>A Canh lề Có sẵn</value>
+  </data>
+  <data name="AAxisXMoveRequest" xml:space="preserve">
+    <value>A Axis X Di chuyển.  yêu cầu</value>
+  </data>
+  <data name="AAxisYMoveRequest" xml:space="preserve">
+    <value>A Axis Y Di chuyển. yêu cầu</value>
+  </data>
+  <data name="ACameraZMoveRequest" xml:space="preserve">
+    <value>A máy chụp ảnh Di chuyển. Request</value>
+  </data>
+  <data name="ACuttingPosmm" xml:space="preserve">
+    <value>A Cắt vị trí</value>
+  </data>
+  <data name="AdjustAngle" xml:space="preserve">
+    <value>Điều chỉnh. Angle</value>
+  </data>
+  <data name="AdjustPosX" xml:space="preserve">
+    <value>Vị trí Điều chỉnh. X</value>
+  </data>
+  <data name="AdjustPosY" xml:space="preserve">
+    <value>Vị trí Điều chỉnh. Y</value>
+  </data>
+  <data name="Alarm" xml:space="preserve">
+    <value>báo động</value>
+  </data>
+  <data name="AlarmCode" xml:space="preserve">
+    <value>Mã báo động</value>
+  </data>
+  <data name="AlarmDescript" xml:space="preserve">
+    <value>giải thích báo động</value>
+  </data>
+  <data name="AlarmName" xml:space="preserve">
+    <value>Tên báo động</value>
+  </data>
+  <data name="AlarmType" xml:space="preserve">
+    <value>Tybe báo động</value>
+  </data>
+  <data name="ALaserBusy" xml:space="preserve">
+    <value>A Laser Busy</value>
+  </data>
+  <data name="Align" xml:space="preserve">
+    <value>Canh lề </value>
+  </data>
+  <data name="AlignA1Check" xml:space="preserve">
+    <value>Canh lề A1 kiểm tra</value>
+  </data>
+  <data name="AlignA1Comp" xml:space="preserve">
+    <value>Canh lề A1 Hoàn thành.</value>
+  </data>
+  <data name="AlignA1RequsetPLCB320" xml:space="preserve">
+    <value>Canh lề A1 yêu cầu</value>
+  </data>
+  <data name="AlignA2Check" xml:space="preserve">
+    <value>Canh lề A2 kiểm tra</value>
+  </data>
+  <data name="AlignA2Comp" xml:space="preserve">
+    <value>Canh lề A2 Hoàn thành.</value>
+  </data>
+  <data name="AlignA2RequsetPLCB321" xml:space="preserve">
+    <value>Canh lề A2 yêu cầu</value>
+  </data>
+  <data name="AlignA3Check" xml:space="preserve">
+    <value>Canh lề A3 kiểm tra</value>
+  </data>
+  <data name="AlignA3Comp" xml:space="preserve">
+    <value>Canh lề A3 Hoàn thành.</value>
+  </data>
+  <data name="AlignA3RequsetPLCB322" xml:space="preserve">
+    <value>Canh lề A3 yêu cầu</value>
+  </data>
+  <data name="AlignA4Check" xml:space="preserve">
+    <value>Canh lề A4 kiểm tra</value>
+  </data>
+  <data name="AlignA4Comp" xml:space="preserve">
+    <value>Canh lề A4 Hoàn thành.</value>
+  </data>
+  <data name="AlignA4RequsetPLCB323" xml:space="preserve">
+    <value>Canh lề A4 yêu cầu</value>
+  </data>
+  <data name="AlignB1Check" xml:space="preserve">
+    <value>Canh lề B1 kiểm tra</value>
+  </data>
+  <data name="AlignB1Comp" xml:space="preserve">
+    <value>Canh lề B1 Hoàn thành.</value>
+  </data>
+  <data name="AlignB1RequsetPLCB340" xml:space="preserve">
+    <value>Canh lề B1 yêu cầu</value>
+  </data>
+  <data name="AlignB2Check" xml:space="preserve">
+    <value>Canh lề B2 kiểm tra</value>
+  </data>
+  <data name="AlignB2Comp" xml:space="preserve">
+    <value>Canh lề B2 Hoàn thành.</value>
+  </data>
+  <data name="AlignB2RequsetPLCB341" xml:space="preserve">
+    <value>Canh lề B2 yêu cầu</value>
+  </data>
+  <data name="AlignB3Check" xml:space="preserve">
+    <value>Canh lề B3 kiểm tra</value>
+  </data>
+  <data name="AlignB3Comp" xml:space="preserve">
+    <value>Canh lề B3 Hoàn thành.</value>
+  </data>
+  <data name="AlignB3RequsetPLCB342" xml:space="preserve">
+    <value>Canh lề B3 yêu cầu</value>
+  </data>
+  <data name="AlignB4Check" xml:space="preserve">
+    <value>Canh lề B4 kiểm tra</value>
+  </data>
+  <data name="AlignB4Comp" xml:space="preserve">
+    <value>Canh lề B4 Hoàn thành.</value>
+  </data>
+  <data name="AlignB4RequsetPLCB343" xml:space="preserve">
+    <value>Canh lề B4 yêu cầu</value>
+  </data>
+  <data name="ALIGNMARKSETTING" xml:space="preserve">
+    <value>sắp hàng dấu cài đặt</value>
+  </data>
+  <data name="alignsettingunitmm" xml:space="preserve">
+    <value>Canh lề Thiết lập unit [mm]</value>
+  </data>
+  <data name="AlignTacs" xml:space="preserve">
+    <value>Canh lề tact thời gian[s]</value>
+  </data>
+  <data name="AlignTacs1" xml:space="preserve">
+    <value>Canh lề tact thời gian[s]</value>
+  </data>
+  <data name="ALine" xml:space="preserve">
+    <value>A đường dây</value>
+  </data>
+  <data name="ALineAlignImagePath" xml:space="preserve">
+    <value>A đường dây Canh lề  Image Path :</value>
+  </data>
+  <data name="Alive" xml:space="preserve">
+    <value>còn sống</value>
+  </data>
+  <data name="ALLINIT" xml:space="preserve">
+    <value>tất cả khởi</value>
+  </data>
+  <data name="AManualAlign" xml:space="preserve">
+    <value>A bằng tay Canh lề</value>
+  </data>
+  <data name="AMark1AlignForcedOK" xml:space="preserve">
+    <value>A dấu1 Forced Canh lề OK</value>
+  </data>
+  <data name="AMark1AlignNG" xml:space="preserve">
+    <value>A dấu1 Canh lề NG</value>
+  </data>
+  <data name="AMark1AlignOK" xml:space="preserve">
+    <value>B dấu1 Canh lề OK</value>
+  </data>
+  <data name="AMark2AlignForcedOK" xml:space="preserve">
+    <value>A dấu2 Forced Canh lề  OK</value>
+  </data>
+  <data name="AMark2AlignNG" xml:space="preserve">
+    <value>A dấu2 Canh lề NG</value>
+  </data>
+  <data name="AMark2AlignOK" xml:space="preserve">
+    <value>A dấu2 Canh lề OK</value>
+  </data>
+  <data name="Angle" xml:space="preserve">
+    <value>góc</value>
+  </data>
+  <data name="APowerMeterMoveRequest" xml:space="preserve">
+    <value>Năng lượng.  đo cụ B  Di chuyển. yêu cầu</value>
+  </data>
+  <data name="Apply" xml:space="preserve">
+    <value>ứng dụng</value>
+  </data>
+  <data name="Applycurrentpos" xml:space="preserve">
+    <value>hiện tại vị trí ứng dụng</value>
+  </data>
+  <data name="Applycurrentpos1" xml:space="preserve">
+    <value>hiện tại vị trí ứng dụng</value>
+  </data>
+  <data name="ApplyScannerParameter" xml:space="preserve">
+    <value>Apply Scanner thông số</value>
+  </data>
+  <data name="APreAlignComplete" xml:space="preserve">
+    <value>A PreAlign Hoàn thành. </value>
+  </data>
+  <data name="APreAlignMoveRequest" xml:space="preserve">
+    <value>A PreAlign Di chuyển.  yêu cầu</value>
+  </data>
+  <data name="APreAlignNG" xml:space="preserve">
+    <value>A PreAlign NG</value>
+  </data>
+  <data name="Attenuation" xml:space="preserve">
+    <value>Attenuation(%) :</value>
+  </data>
+  <data name="Attenuator0100" xml:space="preserve">
+    <value>Attenuator 0~100[%]</value>
+  </data>
+  <data name="AutoStatus" xml:space="preserve">
+    <value>Tự động.  tình trạng</value>
+  </data>
+  <data name="AvgVal" xml:space="preserve">
+    <value>Avg Val</value>
+  </data>
+  <data name="AxisY" xml:space="preserve">
+    <value>Axis Y</value>
+  </data>
+  <data name="BAlignUseable" xml:space="preserve">
+    <value>B Canh lề Có sẵn</value>
+  </data>
+  <data name="BAxisXMoveRequest" xml:space="preserve">
+    <value>B Axis X Di chuyển. yêu cầu</value>
+  </data>
+  <data name="BAxisYMoveRequest" xml:space="preserve">
+    <value>B Axis Y Di chuyển.  yêu cầu</value>
+  </data>
+  <data name="BCameraZMoveRequest" xml:space="preserve">
+    <value>B máy chụp ảnh Z Di chuyển. yêu cầu</value>
+  </data>
+  <data name="BCuttingPosmm" xml:space="preserve">
+    <value>B Cắt vị trí</value>
+  </data>
+  <data name="BINARIZE" xml:space="preserve">
+    <value>BINARIZE</value>
+  </data>
+  <data name="bit" xml:space="preserve">
+    <value>bit</value>
+  </data>
+  <data name="Bitmm" xml:space="preserve">
+    <value>Bit / mm : </value>
+  </data>
+  <data name="BLaserBusy" xml:space="preserve">
+    <value>B Laser Busy</value>
+  </data>
+  <data name="BLine" xml:space="preserve">
+    <value>B đường dây</value>
+  </data>
+  <data name="BLine1" xml:space="preserve">
+    <value>đường dây-B</value>
+  </data>
+  <data name="BLineAlignImagePath" xml:space="preserve">
+    <value>B đường dây Canh lề Image Path :</value>
+  </data>
+  <data name="BManualAlign" xml:space="preserve">
+    <value>B bằng tay Canh lề</value>
+  </data>
+  <data name="BMark1AlignForcedOK" xml:space="preserve">
+    <value>B dấu1 Forced Canh lề OK</value>
+  </data>
+  <data name="BMark1AlignNG" xml:space="preserve">
+    <value>B dấu1 Canh lề NG</value>
+  </data>
+  <data name="BMark1AlignOK" xml:space="preserve">
+    <value>B dấu1 Canh lề OK</value>
+  </data>
+  <data name="BMark2AlignForcedOK" xml:space="preserve">
+    <value>B dấu2 Forced Canh lề  OK</value>
+  </data>
+  <data name="BMark2AlignNG" xml:space="preserve">
+    <value>B dấu2 Canh lề NG</value>
+  </data>
+  <data name="BMark2AlignOK" xml:space="preserve">
+    <value>B dấu2 Canh lề OK</value>
+  </data>
+  <data name="BoxLight" xml:space="preserve">
+    <value>chiếu sáng BOX</value>
+  </data>
+  <data name="BPowerMeterMoveRequest" xml:space="preserve">
+    <value>Năng lượng.  đo cụ B  Di chuyển. yêu cầu</value>
+  </data>
+  <data name="BPreAlignComplete" xml:space="preserve">
+    <value>B PreAlign Hoàn thành. </value>
+  </data>
+  <data name="BPreAlignMoveRequest" xml:space="preserve">
+    <value>B PreAlign Di chuyển.  yêu cầu</value>
+  </data>
+  <data name="BPreAlignNG" xml:space="preserve">
+    <value>B PreAlign NG</value>
+  </data>
+  <data name="Button2" xml:space="preserve">
+    <value>Max Val</value>
+  </data>
+  <data name="Calibration" xml:space="preserve">
+    <value>Calibration</value>
+  </data>
+  <data name="Calibration1" xml:space="preserve">
+    <value>Calibration</value>
+  </data>
+  <data name="CalibrationMarking" xml:space="preserve">
+    <value>Calibration Marking</value>
+  </data>
+  <data name="CalibrationMarkingInfo" xml:space="preserve">
+    <value>Calibration Marking Info</value>
+  </data>
+  <data name="Cancel" xml:space="preserve">
+    <value>Hủy bỏ</value>
+  </data>
+  <data name="Cancel1" xml:space="preserve">
+    <value>Hủy</value>
+  </data>
+  <data name="CenterPositionVisionLaser1" xml:space="preserve">
+    <value>trung tâm vị trí / Vision-&gt;Laser1</value>
+  </data>
+  <data name="CenterPositionVisionLaser11" xml:space="preserve">
+    <value>trung tâm vị trí / Vision-&gt;Laser1</value>
+  </data>
+  <data name="CenterPositionVisionLaser2" xml:space="preserve">
+    <value>trung tâm vị trí / Vision-&gt;Laser2</value>
+  </data>
+  <data name="CenterPositionVisionLaser21" xml:space="preserve">
+    <value>trung tâm vị trí / Vision-&gt;Laser2</value>
+  </data>
+  <data name="CenterPositionVisionLaser3" xml:space="preserve">
+    <value>trung tâm vị trí / Vision-&gt;Laser3</value>
+  </data>
+  <data name="CenterPositionVisionLaser31" xml:space="preserve">
+    <value>trung tâm vị trí / Vision-&gt;Laser3</value>
+  </data>
+  <data name="CenterPositionVisionLaser4" xml:space="preserve">
+    <value>trung tâm vị trí / Vision-&gt;Laser4</value>
+  </data>
+  <data name="CenterPositionVisionLaser41" xml:space="preserve">
+    <value>trung tâm vị trí / Vision-&gt;Laser4</value>
+  </data>
+  <data name="CentralPointSetting" xml:space="preserve">
+    <value>Tâm điểm Thiết lập </value>
+  </data>
+  <data name="Chamfering_System" xml:space="preserve">
+    <value>Chamfering System</value>
+  </data>
+  <data name="ChangePassword" xml:space="preserve">
+    <value>mật khẩu thay đổi</value>
+  </data>
+  <data name="ChangePassword1" xml:space="preserve">
+    <value>mật khẩu thay đổi</value>
+  </data>
+  <data name="ChangePassword2" xml:space="preserve">
+    <value>mật khẩu thay đổi</value>
+  </data>
+  <data name="check" xml:space="preserve">
+    <value>xin vui lòng sự xác nhận</value>
+  </data>
+  <data name="checkfile" xml:space="preserve">
+    <value>hồ sơ sự xác nhận xin vui lòng </value>
+  </data>
+  <data name="CheckGlassA1PLCB310" xml:space="preserve">
+    <value>kiểm tra Glass A1    [ PLC B310 ]</value>
+  </data>
+  <data name="CheckGlassA2PLCB311" xml:space="preserve">
+    <value>kiểm tra Glass A2    [ PLC B311 ]</value>
+  </data>
+  <data name="CheckGlassA3PLCB312" xml:space="preserve">
+    <value>kiểm tra Glass A3    [ PLC B312 ]</value>
+  </data>
+  <data name="CheckGlassA4PLCB313" xml:space="preserve">
+    <value>kiểm tra Glass A4    [ PLC B313 ]</value>
+  </data>
+  <data name="CheckGlassB1PLCB330" xml:space="preserve">
+    <value>kiểm tra Glass B1    [ PLC B330 ]</value>
+  </data>
+  <data name="CheckGlassB2PLCB331" xml:space="preserve">
+    <value>kiểm tra Glass B2    [ PLC B331 ]</value>
+  </data>
+  <data name="CheckGlassB3PLCB332" xml:space="preserve">
+    <value>kiểm tra Glass B3    [ PLC B332 ]</value>
+  </data>
+  <data name="CheckGlassB4PLCB333" xml:space="preserve">
+    <value>kiểm tra Glass B4    [ PLC B333 ]</value>
+  </data>
+  <data name="Chiller" xml:space="preserve">
+    <value>Chiller</value>
+  </data>
+  <data name="Chiller1" xml:space="preserve">
+    <value>Chiller1</value>
+  </data>
+  <data name="Chiller2" xml:space="preserve">
+    <value>Chiller2</value>
+  </data>
+  <data name="Chiller3" xml:space="preserve">
+    <value>Chiller3</value>
+  </data>
+  <data name="Chiller4" xml:space="preserve">
+    <value>Chiller4</value>
+  </data>
+  <data name="ChillerMaintainSet" xml:space="preserve">
+    <value>Chiller Maintain Set</value>
+  </data>
+  <data name="ChillerMaintenanceDay" xml:space="preserve">
+    <value>Chiller Maintenance (Day)</value>
+  </data>
+  <data name="Circle" xml:space="preserve">
+    <value>Circle</value>
+  </data>
+  <data name="Clear" xml:space="preserve">
+    <value>Clear</value>
+  </data>
+  <data name="ClearAlarmClose" xml:space="preserve">
+    <value>Báo động xóa &amp;&amp; gần</value>
+  </data>
+  <data name="Cmd" xml:space="preserve">
+    <value>Cmd</value>
+  </data>
+  <data name="Connect" xml:space="preserve">
+    <value>liên kết</value>
+  </data>
+  <data name="Connected" xml:space="preserve">
+    <value>Đã kết nối</value>
+  </data>
+  <data name="Continous" xml:space="preserve">
+    <value>liên tục</value>
+  </data>
+  <data name="Copy" xml:space="preserve">
+    <value>bản sao</value>
+  </data>
+  <data name="CorrectionFile" xml:space="preserve">
+    <value>Correction File : </value>
+  </data>
+  <data name="CTBFileLoad" xml:space="preserve">
+    <value>CTB hồ sơ Đang nạp</value>
+  </data>
+  <data name="CurrentPower" xml:space="preserve">
+    <value>hiện nay Năng lượng.</value>
+  </data>
+  <data name="Data" xml:space="preserve">
+    <value>Data</value>
+  </data>
+  <data name="DataFileSave" xml:space="preserve">
+    <value>Data hồ sơ Lưu</value>
+  </data>
+  <data name="DataLoad" xml:space="preserve">
+    <value>Data Load</value>
+  </data>
+  <data name="Defult0" xml:space="preserve">
+    <value>vỡ nợ 0</value>
+  </data>
+  <data name="Degree" xml:space="preserve">
+    <value>Degree</value>
+  </data>
+  <data name="DeleteAfter" xml:space="preserve">
+    <value>xóa bỏ After</value>
+  </data>
+  <data name="Displace" xml:space="preserve">
+    <value>thay thế cảm biến</value>
+  </data>
+  <data name="displacementmsresult" xml:space="preserve">
+    <value>displacement đo kết quả</value>
+  </data>
+  <data name="doubleclickaftersetmark" xml:space="preserve">
+    <value>setdấu sau nhấn đúp chuột</value>
+  </data>
+  <data name="Downpowermeterms" xml:space="preserve">
+    <value>Down Năng lượng. đo cụ Đo</value>
+  </data>
+  <data name="Dust1" xml:space="preserve">
+    <value>Dust1 :</value>
+  </data>
+  <data name="Dust2" xml:space="preserve">
+    <value>Dust2 :</value>
+  </data>
+  <data name="DustCollector" xml:space="preserve">
+    <value>hút bụi.</value>
+  </data>
+  <data name="DustCollectorAlarmReport" xml:space="preserve">
+    <value>máy hút bụi báo động Report</value>
+  </data>
+  <data name="DustCollectorOff" xml:space="preserve">
+    <value>máy hút bụi Off</value>
+  </data>
+  <data name="DustCollectorOn" xml:space="preserve">
+    <value>máy hút bụi On</value>
+  </data>
+  <data name="Edit" xml:space="preserve">
+    <value>biên soạn</value>
+  </data>
+  <data name="ERROR0" xml:space="preserve">
+    <value>ERROR</value>
+  </data>
+  <data name="ExistingPassword" xml:space="preserve">
+    <value>mật khẩu</value>
+  </data>
+  <data name="FilePath" xml:space="preserve">
+    <value>File Path</value>
+  </data>
+  <data name="Filter" xml:space="preserve">
+    <value>Bộ lọc </value>
+  </data>
+  <data name="FindServers" xml:space="preserve">
+    <value>Find Servers</value>
+  </data>
+  <data name="First" xml:space="preserve">
+    <value>First</value>
+  </data>
+  <data name="FiterDDay" xml:space="preserve">
+    <value>Bộ lọc D-Day</value>
+  </data>
+  <data name="Frequencykhz" xml:space="preserve">
+    <value>Frequency(khz) :</value>
+  </data>
+  <data name="Gap" xml:space="preserve">
+    <value>Gap :</value>
+  </data>
+  <data name="Glass1" xml:space="preserve">
+    <value>Glass 1</value>
+  </data>
+  <data name="GlassAlignandTrimmingALine" xml:space="preserve">
+    <value>Glass Canh lề &amp; Trimming A đường dây</value>
+  </data>
+  <data name="GlassAlignandTrimmingBLine" xml:space="preserve">
+    <value>Glass Canh lề &amp; Trimming B đường dây</value>
+  </data>
+  <data name="GoMark" xml:space="preserve">
+    <value>Go dấu</value>
+  </data>
+  <data name="Group" xml:space="preserve">
+    <value>nhóm : </value>
+  </data>
+  <data name="GroupBox1" xml:space="preserve">
+    <value>Manual</value>
+  </data>
+  <data name="GroupEditer" xml:space="preserve">
+    <value>Group biên soạn</value>
+  </data>
+  <data name="HalfPulsePeriod" xml:space="preserve">
+    <value>Half Pulse Period :</value>
+  </data>
+  <data name="HeavyAlarm" xml:space="preserve">
+    <value>Heavy Alarm</value>
+  </data>
+  <data name="Idx" xml:space="preserve">
+    <value>Index</value>
+  </data>
+  <data name="Image" xml:space="preserve">
+    <value>Image :</value>
+  </data>
+  <data name="ImageLoad" xml:space="preserve">
+    <value>hình ảnh Đang nạp  </value>
+  </data>
+  <data name="ImageSave" xml:space="preserve">
+    <value>hình ảnh Lưu </value>
+  </data>
+  <data name="indesktop" xml:space="preserve">
+    <value>in desktop</value>
+  </data>
+  <data name="Init" xml:space="preserve">
+    <value>khởi</value>
+  </data>
+  <data name="InitScanner1" xml:space="preserve">
+    <value>Init Scanner #1</value>
+  </data>
+  <data name="interfacemode" xml:space="preserve">
+    <value>interface chế độ</value>
+  </data>
+  <data name="IRBOX1" xml:space="preserve">
+    <value>IRBOX1</value>
+  </data>
+  <data name="IRBOX2" xml:space="preserve">
+    <value>IRBOX2</value>
+  </data>
+  <data name="IRBOX3" xml:space="preserve">
+    <value>IRBOX3</value>
+  </data>
+  <data name="IRBOX4" xml:space="preserve">
+    <value>IRBOX4</value>
+  </data>
+  <data name="IRPower" xml:space="preserve">
+    <value>IR Năng lượng. </value>
+  </data>
+  <data name="Jump" xml:space="preserve">
+    <value>Jump :</value>
+  </data>
+  <data name="JumpDelay" xml:space="preserve">
+    <value>Jump Delay :</value>
+  </data>
+  <data name="JumpSpeed" xml:space="preserve">
+    <value>nhảy tốc độ</value>
+  </data>
+  <data name="KeyStatus" xml:space="preserve">
+    <value>Key Status</value>
+  </data>
+  <data name="Laser" xml:space="preserve">
+    <value>Laser</value>
+  </data>
+  <data name="Laser1" xml:space="preserve">
+    <value>Laser1</value>
+  </data>
+  <data name="Laser1OffReport" xml:space="preserve">
+    <value>Laser1 Off Report</value>
+  </data>
+  <data name="Laser1OnReport" xml:space="preserve">
+    <value>Laser1 On Report</value>
+  </data>
+  <data name="Laser1ShutterCloseReport" xml:space="preserve">
+    <value>Laser1 Shutter Đóng Report</value>
+  </data>
+  <data name="Laser1ShutterOpenReport" xml:space="preserve">
+    <value>Laser1 Shutter mở Report</value>
+  </data>
+  <data name="Laser2" xml:space="preserve">
+    <value>Laser2</value>
+  </data>
+  <data name="Laser2OffReport" xml:space="preserve">
+    <value>Laser2 Off Report</value>
+  </data>
+  <data name="Laser2OnReport" xml:space="preserve">
+    <value>Laser2 On Report</value>
+  </data>
+  <data name="Laser2ShutterCloseReport" xml:space="preserve">
+    <value>Laser2 Shutter Đóng Report</value>
+  </data>
+  <data name="Laser2ShutterOpenReport" xml:space="preserve">
+    <value>Laser2 Shutter mở Report</value>
+  </data>
+  <data name="Laser3" xml:space="preserve">
+    <value>Laser3</value>
+  </data>
+  <data name="Laser4" xml:space="preserve">
+    <value>Laser4</value>
+  </data>
+  <data name="LaserAlarmReport" xml:space="preserve">
+    <value>Laser báo động Report</value>
+  </data>
+  <data name="LaserOffDelay" xml:space="preserve">
+    <value>Laser Off Delay :</value>
+  </data>
+  <data name="LaserOnDelay" xml:space="preserve">
+    <value>Laser On Delay :</value>
+  </data>
+  <data name="LaserParameter" xml:space="preserve">
+    <value>Laser thông số</value>
+  </data>
+  <data name="LaserShot" xml:space="preserve">
+    <value>Laser Shot</value>
+  </data>
+  <data name="LaserStartL1RequestB350" xml:space="preserve">
+    <value>Laser bắt đầu L1 yêu cầu [B350]</value>
+  </data>
+  <data name="LaserStartL1RequestB354" xml:space="preserve">
+    <value>Laser bắt đầu L1 yêu cầu [B354]</value>
+  </data>
+  <data name="LaserStartL2RequestB351" xml:space="preserve">
+    <value>Laser bắt đầu L2 yêu cầu [B351]</value>
+  </data>
+  <data name="LaserStartL2RequestB355" xml:space="preserve">
+    <value>Laser bắt đầu L2 yêu cầu [B355]</value>
+  </data>
+  <data name="LaserStartL3RequestB352" xml:space="preserve">
+    <value>Laser bắt đầu L3 yêu cầu [B352]</value>
+  </data>
+  <data name="LaserStartL3RequestB356" xml:space="preserve">
+    <value>Laser bắt đầu L3 yêu cầu [B356]</value>
+  </data>
+  <data name="LaserStartL4RequestB353" xml:space="preserve">
+    <value>Laser bắt đầu L4 yêu cầu [B353]</value>
+  </data>
+  <data name="LaserStartL4RequestB357" xml:space="preserve">
+    <value>Laser bắt đầu L4 yêu cầu [B357]</value>
+  </data>
+  <data name="LaserStatus" xml:space="preserve">
+    <value>TÌNH TRẠNG. Laser </value>
+  </data>
+  <data name="LaserZmm" xml:space="preserve">
+    <value>Laser_Z[mm]:</value>
+  </data>
+  <data name="LIGHT" xml:space="preserve">
+    <value>chiếu sáng</value>
+  </data>
+  <data name="Light1" xml:space="preserve">
+    <value>Ánh sáng</value>
+  </data>
+  <data name="LightAlarm" xml:space="preserve">
+    <value>Light Alarm</value>
+  </data>
+  <data name="Lightbrightnesssetting" xml:space="preserve">
+    <value>chiếu sáng Độ sáng Thiết lập </value>
+  </data>
+  <data name="Lightbrightnesssetting1" xml:space="preserve">
+    <value>chiếu sáng Độ sáng Thiết lập </value>
+  </data>
+  <data name="LightONOFFUSE" xml:space="preserve">
+    <value>Light ON/OFF USE</value>
+  </data>
+  <data name="LightSet" xml:space="preserve">
+    <value>chiếu sáng Set</value>
+  </data>
+  <data name="Line" xml:space="preserve">
+    <value>đường dây</value>
+  </data>
+  <data name="LINEA" xml:space="preserve">
+    <value>Line A</value>
+  </data>
+  <data name="LineACamera1" xml:space="preserve">
+    <value>đường dây A máy chụp ảnh 1</value>
+  </data>
+  <data name="LineACamera2" xml:space="preserve">
+    <value>đường dây A máy chụp ảnh 2</value>
+  </data>
+  <data name="LineALaserZ1" xml:space="preserve">
+    <value>A đường dây Laser Z1</value>
+  </data>
+  <data name="LineALaserZ2" xml:space="preserve">
+    <value>A đường dây Laser Z2</value>
+  </data>
+  <data name="LineAStageX" xml:space="preserve">
+    <value>A đường dây sân khấu X</value>
+  </data>
+  <data name="LineAStageY" xml:space="preserve">
+    <value>A đường dây sân khấu Y</value>
+  </data>
+  <data name="LineAVisionZ" xml:space="preserve">
+    <value>A đường dây thị lực Z</value>
+  </data>
+  <data name="LINEB" xml:space="preserve">
+    <value>Line B</value>
+  </data>
+  <data name="LineBCamera1" xml:space="preserve">
+    <value>đường dây B máy chụp ảnh 1</value>
+  </data>
+  <data name="LineBCamera2" xml:space="preserve">
+    <value>đường dây B máy chụp ảnh 2</value>
+  </data>
+  <data name="LineBLaserZ1" xml:space="preserve">
+    <value>B đường dây Laser Z1</value>
+  </data>
+  <data name="LineBLaserZ2" xml:space="preserve">
+    <value>B đường dây Laser Z2</value>
+  </data>
+  <data name="LineBStageX" xml:space="preserve">
+    <value>B đường dây sân khấu X</value>
+  </data>
+  <data name="LineBStageY" xml:space="preserve">
+    <value>B đường dây sân khấu Y</value>
+  </data>
+  <data name="LineBVisionZ" xml:space="preserve">
+    <value>B đường dây thị lực Z</value>
+  </data>
+  <data name="Load" xml:space="preserve">
+    <value>Đang nạp</value>
+  </data>
+  <data name="Log" xml:space="preserve">
+    <value>Log :</value>
+  </data>
+  <data name="LogIn" xml:space="preserve">
+    <value>Đăng nhập</value>
+  </data>
+  <data name="Main" xml:space="preserve">
+    <value>chủ yếu</value>
+  </data>
+  <data name="MakrSave" xml:space="preserve">
+    <value>dấu Lưu </value>
+  </data>
+  <data name="ManualAlignNG" xml:space="preserve">
+    <value>Bằng tay. Canh lề  NG</value>
+  </data>
+  <data name="ManualAlignOK" xml:space="preserve">
+    <value>Bằng tay. Canh lề  OK</value>
+  </data>
+  <data name="ManualStatus" xml:space="preserve">
+    <value>bằng tay tình trạng</value>
+  </data>
+  <data name="Mark" xml:space="preserve">
+    <value>Mark</value>
+  </data>
+  <data name="Mark1" xml:space="preserve">
+    <value>Mark #1</value>
+  </data>
+  <data name="Mark2" xml:space="preserve">
+    <value>Mark #2</value>
+  </data>
+  <data name="Mark3" xml:space="preserve">
+    <value>Mark #3</value>
+  </data>
+  <data name="MarkArea" xml:space="preserve">
+    <value>dấu khu vực</value>
+  </data>
+  <data name="MarkData" xml:space="preserve">
+    <value>dấu Data</value>
+  </data>
+  <data name="MarkDataChange" xml:space="preserve">
+    <value>Đánh dấu dữ liệu thay đổi</value>
+  </data>
+  <data name="MarkDataEditer" xml:space="preserve">
+    <value>dấu Data biên soạn</value>
+  </data>
+  <data name="MarkDataPreview" xml:space="preserve">
+    <value>Xem trước dấu Dữ liệu </value>
+  </data>
+  <data name="MarkDelay" xml:space="preserve">
+    <value>Mark Delay :</value>
+  </data>
+  <data name="Markdistance" xml:space="preserve">
+    <value>dấu khoảng cách</value>
+  </data>
+  <data name="Markdistancemistake" xml:space="preserve">
+    <value>dấu khoảng cách mistake</value>
+  </data>
+  <data name="Marking" xml:space="preserve">
+    <value>Đánh dấu</value>
+  </data>
+  <data name="MarkingStart" xml:space="preserve">
+    <value>Marking bắt đầu</value>
+  </data>
+  <data name="MarkSpeed" xml:space="preserve">
+    <value>dấu tốc độ</value>
+  </data>
+  <data name="MarkSpeedSetbit" xml:space="preserve">
+    <value>Mark tốc độ Set (bit)</value>
+  </data>
+  <data name="MaskProcessing" xml:space="preserve">
+    <value>Mặt nạ Chế biến</value>
+  </data>
+  <data name="MaskSizeSetting" xml:space="preserve">
+    <value>Mặt nạ kích thước cài đặt</value>
+  </data>
+  <data name="matchingrate" xml:space="preserve">
+    <value>Khớp  Tỷ lệ </value>
+  </data>
+  <data name="matchingrateformal" xml:space="preserve">
+    <value>Khớp  Tỷ lệ </value>
+  </data>
+  <data name="MatrixSet" xml:space="preserve">
+    <value>Matrix Set</value>
+  </data>
+  <data name="MaxDev" xml:space="preserve">
+    <value>Max Dev</value>
+  </data>
+  <data name="MaxVal" xml:space="preserve">
+    <value>Max Val</value>
+  </data>
+  <data name="Measure" xml:space="preserve">
+    <value>đo lường</value>
+  </data>
+  <data name="measurestop" xml:space="preserve">
+    <value>đo hấm dứt</value>
+  </data>
+  <data name="measuretime" xml:space="preserve">
+    <value>đo thời gian </value>
+  </data>
+  <data name="Message" xml:space="preserve">
+    <value>thông điệp</value>
+  </data>
+  <data name="MinMax" xml:space="preserve">
+    <value>Min-Max</value>
+  </data>
+  <data name="MinVal" xml:space="preserve">
+    <value>Min Val</value>
+  </data>
+  <data name="Mode" xml:space="preserve">
+    <value>chế độ</value>
+  </data>
+  <data name="ModelApply" xml:space="preserve">
+    <value>Mô hình ứng dụng</value>
+  </data>
+  <data name="ModelInformation" xml:space="preserve">
+    <value>Mô hình Thông tin</value>
+  </data>
+  <data name="ModelSave" xml:space="preserve">
+    <value>Mô hình  Lưu </value>
+  </data>
+  <data name="MotionABSMOVE" xml:space="preserve">
+    <value>Motion (ABS Di chuyển)</value>
+  </data>
+  <data name="MotionStatus" xml:space="preserve">
+    <value>Tình thế. động cơ</value>
+  </data>
+  <data name="Move" xml:space="preserve">
+    <value>Di chuyển</value>
+  </data>
+  <data name="MoveVisionA1" xml:space="preserve">
+    <value>Di chuyển. Vision A1</value>
+  </data>
+  <data name="MoveVisionA2" xml:space="preserve">
+    <value>Di chuyển. Vision A2</value>
+  </data>
+  <data name="MoveVisionB1" xml:space="preserve">
+    <value>Di chuyển. Vision B1</value>
+  </data>
+  <data name="MoveVisionB2" xml:space="preserve">
+    <value>Di chuyển. Vision B2</value>
+  </data>
+  <data name="MSPOS1Lightbrightness" xml:space="preserve">
+    <value>đo lường vị trí 1 chiếu sáng Độ sáng</value>
+  </data>
+  <data name="MSPOS2Lightbrightness" xml:space="preserve">
+    <value>đo lường vị trí 2 chiếu sáng Độ sáng</value>
+  </data>
+  <data name="msresult" xml:space="preserve">
+    <value>đo kết quả</value>
+  </data>
+  <data name="NewPasswodr" xml:space="preserve">
+    <value>mới Mật khẩu</value>
+  </data>
+  <data name="No" xml:space="preserve">
+    <value>No</value>
+  </data>
+  <data name="Normal" xml:space="preserve">
+    <value>Normal</value>
+  </data>
+  <data name="NotConnected" xml:space="preserve">
+    <value>liên quan không</value>
+  </data>
+  <data name="NotKnow" xml:space="preserve">
+    <value>không biết</value>
+  </data>
+  <data name="NOTREADY" xml:space="preserve">
+    <value>NOT chuẩn bị</value>
+  </data>
+  <data name="Number" xml:space="preserve">
+    <value>số</value>
+  </data>
+  <data name="Off" xml:space="preserve">
+    <value>Off</value>
+  </data>
+  <data name="OffsetX" xml:space="preserve">
+    <value>X bù lại</value>
+  </data>
+  <data name="OffsetY" xml:space="preserve">
+    <value>Y bù lại</value>
+  </data>
+  <data name="OK" xml:space="preserve">
+    <value>Ok.</value>
+  </data>
+  <data name="OldDataLoad" xml:space="preserve">
+    <value>Old Data Load</value>
+  </data>
+  <data name="on1" xml:space="preserve">
+    <value>on</value>
+  </data>
+  <data name="oncemeasure" xml:space="preserve">
+    <value>đo một lần </value>
+  </data>
+  <data name="Open" xml:space="preserve">
+    <value>mở</value>
+  </data>
+  <data name="OutputPower" xml:space="preserve">
+    <value>Đầu ra  Năng lượng. </value>
+  </data>
+  <data name="OutputPowerW" xml:space="preserve">
+    <value>Output Năng lượng.  (W)</value>
+  </data>
+  <data name="Panel1" xml:space="preserve">
+    <value>Panel #1</value>
+  </data>
+  <data name="Panel2" xml:space="preserve">
+    <value>Panel #2</value>
+  </data>
+  <data name="Panel3" xml:space="preserve">
+    <value>Panel #3</value>
+  </data>
+  <data name="Panel4" xml:space="preserve">
+    <value>Panel #4</value>
+  </data>
+  <data name="Panelsettingposset" xml:space="preserve">
+    <value>Panel setting Vị trí  set</value>
+  </data>
+  <data name="Password" xml:space="preserve">
+    <value>Mật khẩu</value>
+  </data>
+  <data name="Pen" xml:space="preserve">
+    <value>Pen : </value>
+  </data>
+  <data name="PenDataEditer" xml:space="preserve">
+    <value>biên soạn Pen Dữ liệu </value>
+  </data>
+  <data name="PenDataView" xml:space="preserve">
+    <value>Xem Pen Dữ liệu  </value>
+  </data>
+  <data name="PenNumber" xml:space="preserve">
+    <value>Pen số</value>
+  </data>
+  <data name="PLC" xml:space="preserve">
+    <value>PLC</value>
+  </data>
+  <data name="PLCInterface" xml:space="preserve">
+    <value>PLC Thông tin liên lạc</value>
+  </data>
+  <data name="PLC_A_Manual" xml:space="preserve">
+    <value>PLC A - Sổ tay</value>
+  </data>
+  <data name="PLC_B_Manual" xml:space="preserve">
+    <value>PLC B - Sổ tay</value>
+  </data>
+  <data name="PLC_Control_Stage" xml:space="preserve">
+    <value>PLC Giai đoạn kiểm soát</value>
+  </data>
+  <data name="PolygonDelay" xml:space="preserve">
+    <value>Polygon Delay :</value>
+  </data>
+  <data name="PositionData" xml:space="preserve">
+    <value>vị trí Data</value>
+  </data>
+  <data name="PosX" xml:space="preserve">
+    <value>X vị trí</value>
+  </data>
+  <data name="PosY" xml:space="preserve">
+    <value>Y vị trí</value>
+  </data>
+  <data name="Power0100" xml:space="preserve">
+    <value>Năng lượng.  0~100[%]</value>
+  </data>
+  <data name="PowerMeter" xml:space="preserve">
+    <value>Năng lượng.  đo cụ</value>
+  </data>
+  <data name="PowerMeter1" xml:space="preserve">
+    <value>Năng lượng.  đo cụ 1</value>
+  </data>
+  <data name="PowerMeter2" xml:space="preserve">
+    <value>Năng lượng.  đo cụ 2</value>
+  </data>
+  <data name="PowerMeter3" xml:space="preserve">
+    <value>Năng lượng.  đo cụ 3</value>
+  </data>
+  <data name="PowerMeter4" xml:space="preserve">
+    <value>Năng lượng.  đo cụ 4</value>
+  </data>
+  <data name="PowerMeterLog" xml:space="preserve">
+    <value>Năng lượng.  đo cụ kỷ lục</value>
+  </data>
+  <data name="Powermetermanualuse" xml:space="preserve">
+    <value>Năng lượng. đo cụ manual use</value>
+  </data>
+  <data name="PowerMeterMeasureRequest" xml:space="preserve">
+    <value>Năng lượng.  đo cụ đo lường yêu cầu</value>
+  </data>
+  <data name="POWERMETEROFF" xml:space="preserve">
+    <value>Năng lượng.  đo cụ OFF</value>
+  </data>
+  <data name="PowerMeterStage" xml:space="preserve">
+    <value>sân khấu Năng lượng.  đo cụ</value>
+  </data>
+  <data name="PowerMeterTimems" xml:space="preserve">
+    <value> Năng lượng. đo cụ thời gian (ms)</value>
+  </data>
+  <data name="PowerStage" xml:space="preserve">
+    <value>Năng lượng._Stage:</value>
+  </data>
+  <data name="ProgramVersion" xml:space="preserve">
+    <value>chương trình phiên bản</value>
+  </data>
+  <data name="PulseWidth1" xml:space="preserve">
+    <value>Pulse Width 1 :</value>
+  </data>
+  <data name="PulseWidth2" xml:space="preserve">
+    <value>Pulse Width 2 :</value>
+  </data>
+  <data name="RBxy" xml:space="preserve">
+    <value>RB(x,y)</value>
+  </data>
+  <data name="Read" xml:space="preserve">
+    <value>Read</value>
+  </data>
+  <data name="Recipe" xml:space="preserve">
+    <value>công thức</value>
+  </data>
+  <data name="RecipeChangeReport" xml:space="preserve">
+    <value>Recipe thay đổi Report</value>
+  </data>
+  <data name="RecipeChoice" xml:space="preserve">
+    <value>sự lựa chọn</value>
+  </data>
+  <data name="RecipeName" xml:space="preserve">
+    <value>Recipe tên</value>
+  </data>
+  <data name="RecipeNameLoad" xml:space="preserve">
+    <value>Recipe tên Đang nạp </value>
+  </data>
+  <data name="Rect" xml:space="preserve">
+    <value>Rect</value>
+  </data>
+  <data name="RefPoint" xml:space="preserve">
+    <value>RefPoint</value>
+  </data>
+  <data name="Refxy" xml:space="preserve">
+    <value>Ref(x,y)</value>
+  </data>
+  <data name="Repeat" xml:space="preserve">
+    <value>lặp lại</value>
+  </data>
+  <data name="RepetitionRate" xml:space="preserve">
+    <value>lặp lại Tỷ lệ</value>
+  </data>
+  <data name="RepetitionRatekhz" xml:space="preserve">
+    <value>Repetition Rate (khz)</value>
+  </data>
+  <data name="Reset" xml:space="preserve">
+    <value>Reset</value>
+  </data>
+  <data name="result" xml:space="preserve">
+    <value>kết quả</value>
+  </data>
+  <data name="Retry" xml:space="preserve">
+    <value>thử lại :</value>
+  </data>
+  <data name="RFPercentLevel0100" xml:space="preserve">
+    <value>RF Percent Level 0~100[%]</value>
+  </data>
+  <data name="RLPower" xml:space="preserve">
+    <value>Năng lượng. RL</value>
+  </data>
+  <data name="ROIArea" xml:space="preserve">
+    <value>ROI khu vực</value>
+  </data>
+  <data name="ROIInformation" xml:space="preserve">
+    <value>ROI Thông tin</value>
+  </data>
+  <data name="ROISave" xml:space="preserve">
+    <value>ROI Lưu </value>
+  </data>
+  <data name="Run" xml:space="preserve">
+    <value>Run</value>
+  </data>
+  <data name="RUNA" xml:space="preserve">
+    <value>xuất phát_A</value>
+  </data>
+  <data name="RUNB" xml:space="preserve">
+    <value>xuất phát_B</value>
+  </data>
+  <data name="Save" xml:space="preserve">
+    <value>tiết kiệm</value>
+  </data>
+  <data name="SaveMarkData" xml:space="preserve">
+    <value>dấu Data Lưu</value>
+  </data>
+  <data name="SaveSystemParam" xml:space="preserve">
+    <value>Lưu hệ thống thông số</value>
+  </data>
+  <data name="Scanner" xml:space="preserve">
+    <value>Scanner</value>
+  </data>
+  <data name="Scanner1" xml:space="preserve">
+    <value>Scanner#1</value>
+  </data>
+  <data name="Scanner1ZMoveRequest" xml:space="preserve">
+    <value>Scanner1 Z Di chuyển. yêu cầu</value>
+  </data>
+  <data name="Scanner2" xml:space="preserve">
+    <value>Scanner2</value>
+  </data>
+  <data name="Scanner2ZMoveRequest" xml:space="preserve">
+    <value>Scanner2 Z Di chuyển. yêu cầu</value>
+  </data>
+  <data name="Scanner3" xml:space="preserve">
+    <value>Scanner3</value>
+  </data>
+  <data name="Scanner4" xml:space="preserve">
+    <value>Scanner4</value>
+  </data>
+  <data name="ScannerAxisParameter" xml:space="preserve">
+    <value>Scanner Axis thông số</value>
+  </data>
+  <data name="ScannerLaserParameter" xml:space="preserve">
+    <value>Scanner Laser thông số</value>
+  </data>
+  <data name="ScannerMinimumSpeed" xml:space="preserve">
+    <value>Scanner Minimum tốc độ</value>
+  </data>
+  <data name="ScannerOffsetParameter" xml:space="preserve">
+    <value>Scanner bù lại thông số</value>
+  </data>
+  <data name="ScannerSettingPath" xml:space="preserve">
+    <value>Scanner Setting Path :</value>
+  </data>
+  <data name="ScannerStatus" xml:space="preserve">
+    <value>Tình thế. Scanner</value>
+  </data>
+  <data name="Score" xml:space="preserve">
+    <value>số điểm</value>
+  </data>
+  <data name="Score00000" xml:space="preserve">
+    <value>Score : 00.000</value>
+  </data>
+  <data name="Select1" xml:space="preserve">
+    <value>lựa chọn</value>
+  </data>
+  <data name="SelectScanner" xml:space="preserve">
+    <value> Scanner lựa chọn</value>
+  </data>
+  <data name="SelectVision" xml:space="preserve">
+    <value>lựa chọn Vision</value>
+  </data>
+  <data name="Set0" xml:space="preserve">
+    <value>Set</value>
+  </data>
+  <data name="SetPort" xml:space="preserve">
+    <value>Set Port</value>
+  </data>
+  <data name="Setting" xml:space="preserve">
+    <value>cài đặt</value>
+  </data>
+  <data name="SettingCancel" xml:space="preserve">
+    <value>Setting hủy bỏ</value>
+  </data>
+  <data name="SettingCheck" xml:space="preserve">
+    <value>Setting Check</value>
+  </data>
+  <data name="SettingChoice" xml:space="preserve">
+    <value>thiết lập sự lựa chọn</value>
+  </data>
+  <data name="settingmode" xml:space="preserve">
+    <value>setting chế độ</value>
+  </data>
+  <data name="SHGTemp" xml:space="preserve">
+    <value>SHG Nhiệt độ </value>
+  </data>
+  <data name="Shot1" xml:space="preserve">
+    <value>Shot 1</value>
+  </data>
+  <data name="Show" xml:space="preserve">
+    <value>buổi diễn</value>
+  </data>
+  <data name="ShowScale" xml:space="preserve">
+    <value>buổi diễn Scale : </value>
+  </data>
+  <data name="ShowShow" xml:space="preserve">
+    <value>buổi diễn/buổi diễn</value>
+  </data>
+  <data name="Shutter" xml:space="preserve">
+    <value>Shutter </value>
+  </data>
+  <data name="SHUTTERCLOSE" xml:space="preserve">
+    <value>SHUTTER CLOSE</value>
+  </data>
+  <data name="SHUTTEROPEN" xml:space="preserve">
+    <value>SHUTTER OPEN</value>
+  </data>
+  <data name="SimpleLaserMarking" xml:space="preserve">
+    <value>Simple Laser Marking</value>
+  </data>
+  <data name="Size" xml:space="preserve">
+    <value>kích thước</value>
+  </data>
+  <data name="SizeX" xml:space="preserve">
+    <value>X kích thước :</value>
+  </data>
+  <data name="SizeY" xml:space="preserve">
+    <value>Y kích thước :</value>
+  </data>
+  <data name="Spec" xml:space="preserve">
+    <value>Spec</value>
+  </data>
+  <data name="Speed" xml:space="preserve">
+    <value>tốc độ</value>
+  </data>
+  <data name="SpotLight" xml:space="preserve">
+    <value>chiếu sáng the same axle </value>
+  </data>
+  <data name="StagePower" xml:space="preserve">
+    <value>sân khấu Năng lượng. </value>
+  </data>
+  <data name="StagePower1" xml:space="preserve">
+    <value>sân khấu Năng lượng. </value>
+  </data>
+  <data name="Start" xml:space="preserve">
+    <value>Start</value>
+  </data>
+  <data name="StartX" xml:space="preserve">
+    <value>X xuất phát :</value>
+  </data>
+  <data name="StartY" xml:space="preserve">
+    <value>Y xuất phát:</value>
+  </data>
+  <data name="Statusmm" xml:space="preserve">
+    <value>Status (mm)</value>
+  </data>
+  <data name="Stop1" xml:space="preserve">
+    <value>Dừng</value>
+  </data>
+  <data name="STOPA" xml:space="preserve">
+    <value>dừng_A</value>
+  </data>
+  <data name="StopAll" xml:space="preserve">
+    <value>điểm dừng (stop)</value>
+  </data>
+  <data name="STOPB" xml:space="preserve">
+    <value>dừng_B</value>
+  </data>
+  <data name="SWExit" xml:space="preserve">
+    <value>S/W Lối thoát</value>
+  </data>
+  <data name="System" xml:space="preserve">
+    <value>s</value>
+  </data>
+  <data name="SystemALineOffsetSetting" xml:space="preserve">
+    <value>hệ thống A-đường dây bù lại Setting</value>
+  </data>
+  <data name="SystemBLineOffsetSetting" xml:space="preserve">
+    <value>hệ thống B-đường dây bù lại Setting</value>
+  </data>
+  <data name="SystemFaultStauts" xml:space="preserve">
+    <value>hệ thống lỗi trạng thái</value>
+  </data>
+  <data name="SystemLog" xml:space="preserve">
+    <value>hệ thống kỷ lục</value>
+  </data>
+  <data name="SystemLogPath" xml:space="preserve">
+    <value>hệ thống Log Path :</value>
+  </data>
+  <data name="SystemParam" xml:space="preserve">
+    <value>hệ thống thông số</value>
+  </data>
+  <data name="SystemPath" xml:space="preserve">
+    <value>hệ thống Path :</value>
+  </data>
+  <data name="SystemPort" xml:space="preserve">
+    <value>hệ thống Port </value>
+  </data>
+  <data name="SystemState" xml:space="preserve">
+    <value>hệ thống trạng thái</value>
+  </data>
+  <data name="SYSTEMSTATUS" xml:space="preserve">
+    <value>HỆ THỐNG TÌNH TRẠNG</value>
+  </data>
+  <data name="System_need_to_Init" xml:space="preserve">
+    <value>System need to Init</value>
+  </data>
+  <data name="Test" xml:space="preserve">
+    <value>thử</value>
+  </data>
+  <data name="thesameaxle1" xml:space="preserve">
+    <value>the same axle 1</value>
+  </data>
+  <data name="thesameaxle2" xml:space="preserve">
+    <value>the same axle 2</value>
+  </data>
+  <data name="thesameaxle3" xml:space="preserve">
+    <value>the same axle 3</value>
+  </data>
+  <data name="thesameaxle4" xml:space="preserve">
+    <value>the same axle 4</value>
+  </data>
+  <data name="THGTemp" xml:space="preserve">
+    <value>THG Nhiệt độ </value>
+  </data>
+  <data name="Time" xml:space="preserve">
+    <value>thời gian</value>
+  </data>
+  <data name="Timer" xml:space="preserve">
+    <value>Timer :</value>
+  </data>
+  <data name="TimeSyncComplete" xml:space="preserve">
+    <value>Time Sync Complete</value>
+  </data>
+  <data name="TLxy" xml:space="preserve">
+    <value>TL(x,y)</value>
+  </data>
+  <data name="TopPower" xml:space="preserve">
+    <value>Năng lượng.  Cao nhất. </value>
+  </data>
+  <data name="TriggerModePM" xml:space="preserve">
+    <value>Trigger chế độ (PM)</value>
+  </data>
+  <data name="TrimmingCompleteA" xml:space="preserve">
+    <value>Trimming Hoàn thành.</value>
+  </data>
+  <data name="TrimmingCompleteB" xml:space="preserve">
+    <value>Trimming Hoàn thành.</value>
+  </data>
+  <data name="TrimmingDelayms" xml:space="preserve">
+    <value>Trimming Delay (ms)</value>
+  </data>
+  <data name="TrimmingTacs" xml:space="preserve">
+    <value>Trimming tact thời gian[s]</value>
+  </data>
+  <data name="tryagain" xml:space="preserve">
+    <value>thử lại</value>
+  </data>
+  <data name="Updatacontants" xml:space="preserve">
+    <value>Nội dung cập nhật </value>
+  </data>
+  <data name="UpPowermeterms" xml:space="preserve">
+    <value>Up Năng lượng.  đo cụ  đo</value>
+  </data>
+  <data name="Use" xml:space="preserve">
+    <value>Use</value>
+  </data>
+  <data name="UseBinarize" xml:space="preserve">
+    <value>dùng BINARIZE</value>
+  </data>
+  <data name="User" xml:space="preserve">
+    <value>Người dùng.</value>
+  </data>
+  <data name="UserName" xml:space="preserve">
+    <value>Người dùng.  tên</value>
+  </data>
+  <data name="UseSecurity" xml:space="preserve">
+    <value>Use Security</value>
+  </data>
+  <data name="ValueAngle" xml:space="preserve">
+    <value>Giá trị  góc</value>
+  </data>
+  <data name="ValueApplyApply" xml:space="preserve">
+    <value>Giá trị   ứng dụng/ứng dụng</value>
+  </data>
+  <data name="ValueX" xml:space="preserve">
+    <value>Giá trị  X</value>
+  </data>
+  <data name="ValueY" xml:space="preserve">
+    <value>Giá trị  Y</value>
+  </data>
+  <data name="Ver" xml:space="preserve">
+    <value>Phiên bản</value>
+  </data>
+  <data name="ver3020170319" xml:space="preserve">
+    <value>ver 3.0_20170319</value>
+  </data>
+  <data name="Verify" xml:space="preserve">
+    <value>Xác thực  </value>
+  </data>
+  <data name="VisionA1" xml:space="preserve">
+    <value>Vision  A1</value>
+  </data>
+  <data name="VisionA2" xml:space="preserve">
+    <value>Vision  A2</value>
+  </data>
+  <data name="VisionB1" xml:space="preserve">
+    <value>Vision  B1</value>
+  </data>
+  <data name="VisionB2" xml:space="preserve">
+    <value>Vision  B2</value>
+  </data>
+  <data name="VisionDelayms" xml:space="preserve">
+    <value>Vision Delay (ms)</value>
+  </data>
+  <data name="VisionZmm" xml:space="preserve">
+    <value>Ảnh_Z[mm]</value>
+  </data>
+  <data name="VLineData" xml:space="preserve">
+    <value>V-đường dây Data</value>
+  </data>
+  <data name="Water" xml:space="preserve">
+    <value>Water :</value>
+  </data>
+  <data name="WaterDDay" xml:space="preserve">
+    <value>Water D-Day :</value>
+  </data>
+  <data name="Write" xml:space="preserve">
+    <value>Write</value>
+  </data>
+  <data name="X1" xml:space="preserve">
+    <value>X1 :</value>
+  </data>
+  <data name="X2" xml:space="preserve">
+    <value>X2 :</value>
+  </data>
+  <data name="XCurruntPos" xml:space="preserve">
+    <value>X Currunt Pos</value>
+  </data>
+  <data name="XEndpos" xml:space="preserve">
+    <value>X chấm dứt vị trí </value>
+  </data>
+  <data name="XNumberoftime" xml:space="preserve">
+    <value>X of thời gian</value>
+  </data>
+  <data name="XStartpos" xml:space="preserve">
+    <value>X bắt đầu vị trí </value>
+  </data>
+  <data name="Y" xml:space="preserve">
+    <value>Y :</value>
+  </data>
+  <data name="YCurruntPos" xml:space="preserve">
+    <value>Y Currunt Pos</value>
+  </data>
+  <data name="YEndpos" xml:space="preserve">
+    <value>Y chấm dứt vị trí </value>
+  </data>
+  <data name="YNumberoftimes" xml:space="preserve">
+    <value>Y of thời gian</value>
+  </data>
+  <data name="YStartpos" xml:space="preserve">
+    <value>Y bắt đầu vị trí </value>
+  </data>
+  <data name="zeropointdel" xml:space="preserve">
+    <value>zero point del</value>
+  </data>
+  <data name="zeropointset" xml:space="preserve">
+    <value>zero point set</value>
+  </data>
+  <data name="Zoom" xml:space="preserve">
+    <value>thu phóng</value>
+  </data>
+</root>

@@ -1,0 +1,1761 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="A1GlassonStage" xml:space="preserve">
+    <value>A1 Glass on Stage</value>
+  </data>
+  <data name="A1PreAlignGlassonBuffer" xml:space="preserve">
+    <value>A1 PreAlign Glass on Buffer</value>
+  </data>
+  <data name="A1TrimmingRequest" xml:space="preserve">
+    <value>A1 Trimming Request</value>
+  </data>
+  <data name="A2GlassonStage" xml:space="preserve">
+    <value>A2 Glass on Stage</value>
+  </data>
+  <data name="A2PreAlignGlassonBuffer" xml:space="preserve">
+    <value>A2 PreAlign Glass on Buffer</value>
+  </data>
+  <data name="A2TrimmingRequest" xml:space="preserve">
+    <value>A2 Trimming Request</value>
+  </data>
+  <data name="AAlignPositionMoveComplete" xml:space="preserve">
+    <value>A Align 위치이동 완료</value>
+  </data>
+  <data name="AAlignUseable" xml:space="preserve">
+    <value>A Align Useable</value>
+  </data>
+  <data name="AAxisXHomeComlete" xml:space="preserve">
+    <value>A Axis X Home 완료</value>
+  </data>
+  <data name="AAxisXMoveComplete" xml:space="preserve">
+    <value>A Axis X 이동완료</value>
+  </data>
+  <data name="AAxisXMoveRequest" xml:space="preserve">
+    <value>A Axis X Move Request</value>
+  </data>
+  <data name="AAxisYHomeComlete" xml:space="preserve">
+    <value>A Axis Y Home 완료</value>
+  </data>
+  <data name="AAxisYMoveComplete" xml:space="preserve">
+    <value>A Axis Y 이동완료</value>
+  </data>
+  <data name="AAxisYMoveRequest" xml:space="preserve">
+    <value>A Axis Y Move Request</value>
+  </data>
+  <data name="ACameraZMoveComplete" xml:space="preserve">
+    <value>A Camera Z 이동완료</value>
+  </data>
+  <data name="ACameraZMoveRequest" xml:space="preserve">
+    <value>A Camera Z Move Request</value>
+  </data>
+  <data name="AdjustAngle" xml:space="preserve">
+    <value>Adjust Angle</value>
+  </data>
+  <data name="AdjustPosX" xml:space="preserve">
+    <value>Adjust Pos X</value>
+  </data>
+  <data name="AdjustPosY" xml:space="preserve">
+    <value>Adjust Pos Y</value>
+  </data>
+  <data name="Alarm" xml:space="preserve">
+    <value>알람</value>
+  </data>
+  <data name="AlarmCode" xml:space="preserve">
+    <value>알람 코드</value>
+  </data>
+  <data name="AlarmDescript" xml:space="preserve">
+    <value>알람 설명</value>
+  </data>
+  <data name="AlarmName" xml:space="preserve">
+    <value>알람 이름</value>
+  </data>
+  <data name="AlarmType" xml:space="preserve">
+    <value>알람 타입</value>
+  </data>
+  <data name="ALaserBusy" xml:space="preserve">
+    <value>A Laser Busy</value>
+  </data>
+  <data name="Align" xml:space="preserve">
+    <value>Align</value>
+  </data>
+  <data name="AlignA1Check" xml:space="preserve">
+    <value>어라인 A1 체크</value>
+  </data>
+  <data name="AlignA1Comp" xml:space="preserve">
+    <value>어라인 1 완료.</value>
+  </data>
+  <data name="AlignA1RequsetPLCB320" xml:space="preserve">
+    <value>어라인 A1 Requset    [PLC B320]</value>
+  </data>
+  <data name="AlignA2Check" xml:space="preserve">
+    <value>어라인 A2 체크</value>
+  </data>
+  <data name="AlignA2Comp" xml:space="preserve">
+    <value>어라인 2 완료.</value>
+  </data>
+  <data name="AlignA2RequsetPLCB321" xml:space="preserve">
+    <value>어라인 A2 Requset    [PLC B321]</value>
+  </data>
+  <data name="AlignA3Check" xml:space="preserve">
+    <value>어라인 A3 체크</value>
+  </data>
+  <data name="AlignA3Comp" xml:space="preserve">
+    <value>어라인 3 완료.</value>
+  </data>
+  <data name="AlignA3RequsetPLCB322" xml:space="preserve">
+    <value>어라인 A3 Requset    [PLC B322]</value>
+  </data>
+  <data name="AlignA4Check" xml:space="preserve">
+    <value>어라인 A4 체크</value>
+  </data>
+  <data name="AlignA4Comp" xml:space="preserve">
+    <value>어라인 4 완료.</value>
+  </data>
+  <data name="AlignA4RequsetPLCB323" xml:space="preserve">
+    <value>어라인 A4 Requset    [PLC B323]</value>
+  </data>
+  <data name="AlignB1Check" xml:space="preserve">
+    <value>어라인 B1 체크</value>
+  </data>
+  <data name="AlignB1Comp" xml:space="preserve">
+    <value>어라인 1 완료.</value>
+  </data>
+  <data name="AlignB1RequsetPLCB340" xml:space="preserve">
+    <value>어라인 B1 Requset    [PLC B340]</value>
+  </data>
+  <data name="AlignB2Check" xml:space="preserve">
+    <value>어라인 B2 체크</value>
+  </data>
+  <data name="AlignB2Comp" xml:space="preserve">
+    <value>어라인 2 완료.</value>
+  </data>
+  <data name="AlignB2RequsetPLCB341" xml:space="preserve">
+    <value>어라인 B2 Requset    [PLC B341]</value>
+  </data>
+  <data name="AlignB3Check" xml:space="preserve">
+    <value>어라인 B3 체크</value>
+  </data>
+  <data name="AlignB3Comp" xml:space="preserve">
+    <value>어라인 3 완료.</value>
+  </data>
+  <data name="AlignB3RequsetPLCB342" xml:space="preserve">
+    <value>어라인 B3 Requset    [PLC B342]</value>
+  </data>
+  <data name="AlignB4Check" xml:space="preserve">
+    <value>어라인 B4 체크</value>
+  </data>
+  <data name="AlignB4Comp" xml:space="preserve">
+    <value>어라인 4 완료.</value>
+  </data>
+  <data name="AlignB4RequsetPLCB343" xml:space="preserve">
+    <value>어라인 B4 Requset    [PLC B343]</value>
+  </data>
+  <data name="ALIGNMARKSETTING" xml:space="preserve">
+    <value>어라인 마크 설정</value>
+  </data>
+  <data name="alignsettingunitmm" xml:space="preserve">
+    <value>Align setting unit[mm]</value>
+  </data>
+  <data name="AlignTacs" xml:space="preserve">
+    <value>얼라인 택[초]</value>
+  </data>
+  <data name="ALine" xml:space="preserve">
+    <value>A Line</value>
+  </data>
+  <data name="ALineAlignImagePath" xml:space="preserve">
+    <value>A Line Align Image Path :</value>
+  </data>
+  <data name="ALineAlignResultCheck" xml:space="preserve">
+    <value>A Line Align Result Check</value>
+  </data>
+  <data name="ALineAutoStatus" xml:space="preserve">
+    <value>A Line Auto Status</value>
+  </data>
+  <data name="ALineManualStatus" xml:space="preserve">
+    <value>A Line Manual Status</value>
+  </data>
+  <data name="ALineUseable" xml:space="preserve">
+    <value>A Line Useable</value>
+  </data>
+  <data name="ALineVision" xml:space="preserve">
+    <value>A Line Vision</value>
+  </data>
+  <data name="Alive" xml:space="preserve">
+    <value>연결성공</value>
+  </data>
+  <data name="ALLINIT" xml:space="preserve">
+    <value>전체 초기화</value>
+  </data>
+  <data name="AManualAlign" xml:space="preserve">
+    <value>A 수동 어라인</value>
+  </data>
+  <data name="AMark1AlignForcedOK" xml:space="preserve">
+    <value>A Mark1 Align Forced OK</value>
+  </data>
+  <data name="AMark1AlignNG" xml:space="preserve">
+    <value>A Mark1 Align NG</value>
+  </data>
+  <data name="AMark1AlignOK" xml:space="preserve">
+    <value>A Mark1 Align OK</value>
+  </data>
+  <data name="AMark1AlignRequest" xml:space="preserve">
+    <value>A Mark1 Align Request</value>
+  </data>
+  <data name="AMark2AlignForcedOK" xml:space="preserve">
+    <value>A Mark2 Align Forced OK</value>
+  </data>
+  <data name="AMark2AlignNG" xml:space="preserve">
+    <value>A Mark2 Align NG</value>
+  </data>
+  <data name="AMark2AlignOK" xml:space="preserve">
+    <value>A Mark2 Align OK</value>
+  </data>
+  <data name="AMark2AlignRequest" xml:space="preserve">
+    <value>A Mark2 Align Request</value>
+  </data>
+  <data name="Angle" xml:space="preserve">
+    <value>Angle :</value>
+  </data>
+  <data name="APowerMeterMoveRequest" xml:space="preserve">
+    <value>A Power Meter Move Request</value>
+  </data>
+  <data name="Apply" xml:space="preserve">
+    <value>적용</value>
+  </data>
+  <data name="ApplyScannerParameter" xml:space="preserve">
+    <value>Apply Scanner Parameter</value>
+  </data>
+  <data name="APreAlignCheck" xml:space="preserve">
+    <value>A PreAlign Check</value>
+  </data>
+  <data name="APreAlignComplete" xml:space="preserve">
+    <value>A PreAlign 완료</value>
+  </data>
+  <data name="APreAlignMoveComplete" xml:space="preserve">
+    <value>A PreAlign 이동완료</value>
+  </data>
+  <data name="APreAlignMoveRequest" xml:space="preserve">
+    <value>A PreAlign Move Request</value>
+  </data>
+  <data name="APreAlignNG" xml:space="preserve">
+    <value>A PreAlign NG</value>
+  </data>
+  <data name="APreAlignNGCheck" xml:space="preserve">
+    <value>A PreAlign NG Check</value>
+  </data>
+  <data name="APreAlignRequest" xml:space="preserve">
+    <value>A PreAlign Request</value>
+  </data>
+  <data name="Attenuation" xml:space="preserve">
+    <value>Attenuation(%) :</value>
+  </data>
+  <data name="Attenuator0100" xml:space="preserve">
+    <value>Attenuator 0~100[%]</value>
+  </data>
+  <data name="AutoStatus" xml:space="preserve">
+    <value>Auto Status</value>
+  </data>
+  <data name="AvgVal" xml:space="preserve">
+    <value>Avg Val</value>
+  </data>
+  <data name="AxisY" xml:space="preserve">
+    <value>Axis Y</value>
+  </data>
+  <data name="A컷팅위치mm" xml:space="preserve">
+    <value>A 컷팅위치(mm)</value>
+  </data>
+  <data name="B1GlassonStage" xml:space="preserve">
+    <value>B1 Glass on Stage</value>
+  </data>
+  <data name="B1PreAlignGlassonBuffer" xml:space="preserve">
+    <value>B1 PreAlign Glass on Buffer</value>
+  </data>
+  <data name="B1TrimmingRequest" xml:space="preserve">
+    <value>B1 Trimming Request</value>
+  </data>
+  <data name="B2GlassonStage" xml:space="preserve">
+    <value>B2 Glass on Stage</value>
+  </data>
+  <data name="B2PreAlignGlassonBuffer" xml:space="preserve">
+    <value>B2 PreAlign Glass on Buffer</value>
+  </data>
+  <data name="B2TrimmingRequest" xml:space="preserve">
+    <value>B2 Trimming Request</value>
+  </data>
+  <data name="BAlignPositionMoveComplete" xml:space="preserve">
+    <value>B Align 위치이동 완료</value>
+  </data>
+  <data name="BAlignUseable" xml:space="preserve">
+    <value>B 어라인 Useable</value>
+  </data>
+  <data name="BAxisXHomeComlete" xml:space="preserve">
+    <value>B Axis X Home 완료</value>
+  </data>
+  <data name="BAxisXMoveComplete" xml:space="preserve">
+    <value>B Axis X 이동완료</value>
+  </data>
+  <data name="BAxisXMoveRequest" xml:space="preserve">
+    <value>B Axis X 이동 Request</value>
+  </data>
+  <data name="BAxisYHomeComlete" xml:space="preserve">
+    <value>B Axis Y Home 완료</value>
+  </data>
+  <data name="BAxisYMoveComplete" xml:space="preserve">
+    <value>B Axis Y 이동완료</value>
+  </data>
+  <data name="BAxisYMoveRequest" xml:space="preserve">
+    <value>B Axis Y 이동 Request</value>
+  </data>
+  <data name="BCameraZMoveComplete" xml:space="preserve">
+    <value>B Camera Z 이동완료</value>
+  </data>
+  <data name="BCameraZMoveRequest" xml:space="preserve">
+    <value>B Camera Z 이동 Request</value>
+  </data>
+  <data name="BINARIZE" xml:space="preserve">
+    <value>BINARIZE</value>
+  </data>
+  <data name="bit" xml:space="preserve">
+    <value>bit</value>
+  </data>
+  <data name="Bitmm" xml:space="preserve">
+    <value>Bit / mm : </value>
+  </data>
+  <data name="BLaserBusy" xml:space="preserve">
+    <value>B Laser Busy</value>
+  </data>
+  <data name="BLine" xml:space="preserve">
+    <value>B-Line</value>
+  </data>
+  <data name="BLineAlignImagePath" xml:space="preserve">
+    <value>B Line Align Image Path :</value>
+  </data>
+  <data name="BLineAlignResultCheck" xml:space="preserve">
+    <value>B Line Align Result Check</value>
+  </data>
+  <data name="BLineAutoStatus" xml:space="preserve">
+    <value>B Line Auto Status</value>
+  </data>
+  <data name="BLineManualStatus" xml:space="preserve">
+    <value>B Line Manual Status</value>
+  </data>
+  <data name="BLineUseable" xml:space="preserve">
+    <value>B Line Useable</value>
+  </data>
+  <data name="BLineVision" xml:space="preserve">
+    <value>B Line Vision</value>
+  </data>
+  <data name="BManualAlign" xml:space="preserve">
+    <value>B 수동 어라인</value>
+  </data>
+  <data name="BMark1AlignForcedOK" xml:space="preserve">
+    <value>B Mark1 어라인 Forced OK</value>
+  </data>
+  <data name="BMark1AlignNG" xml:space="preserve">
+    <value>B Mark1 어라인 NG</value>
+  </data>
+  <data name="BMark1AlignOK" xml:space="preserve">
+    <value>B Mark1 어라인 OK</value>
+  </data>
+  <data name="BMark1AlignRequest" xml:space="preserve">
+    <value>B Mark1 Align Request</value>
+  </data>
+  <data name="BMark2AlignForcedOK" xml:space="preserve">
+    <value>B Mark2 어라인 Forced OK</value>
+  </data>
+  <data name="BMark2AlignNG" xml:space="preserve">
+    <value>B Mark2 어라인 NG</value>
+  </data>
+  <data name="BMark2AlignOK" xml:space="preserve">
+    <value>B Mark2 어라인 OK</value>
+  </data>
+  <data name="BMark2AlignRequest" xml:space="preserve">
+    <value>B Mark2 Align Request</value>
+  </data>
+  <data name="BoxLight" xml:space="preserve">
+    <value>박스조명</value>
+  </data>
+  <data name="BPowerMeterMoveRequest" xml:space="preserve">
+    <value>B Power Meter Move Request</value>
+  </data>
+  <data name="BPreAlignCheck" xml:space="preserve">
+    <value>B PreAlign Check</value>
+  </data>
+  <data name="BPreAlignComplete" xml:space="preserve">
+    <value>B PreAlign 완료</value>
+  </data>
+  <data name="BPreAlignMoveComplete" xml:space="preserve">
+    <value>B PreAlign 이동완료</value>
+  </data>
+  <data name="BPreAlignMoveRequest" xml:space="preserve">
+    <value>B PreAlign 이동 Request</value>
+  </data>
+  <data name="BPreAlignNG" xml:space="preserve">
+    <value>B PreAlign NG</value>
+  </data>
+  <data name="BPreAlignNGCheck" xml:space="preserve">
+    <value>B PreAlign NG Check</value>
+  </data>
+  <data name="BPreAlignRequest" xml:space="preserve">
+    <value>B PreAlign Request</value>
+  </data>
+  <data name="Button2" xml:space="preserve">
+    <value>Max Val</value>
+  </data>
+  <data name="B컷팅위치mm" xml:space="preserve">
+    <value>B 컷팅위치(mm)</value>
+  </data>
+  <data name="Calibration" xml:space="preserve">
+    <value>캘리브레션</value>
+  </data>
+  <data name="CalibrationMarking" xml:space="preserve">
+    <value>Calibration Marking</value>
+  </data>
+  <data name="CalibrationMarkingInfo" xml:space="preserve">
+    <value>Calibration Marking Info</value>
+  </data>
+  <data name="Cancel" xml:space="preserve">
+    <value>취소</value>
+  </data>
+  <data name="CenterPositionVisionLaser1" xml:space="preserve">
+    <value>CenterPosition / Vision-&gt;Laser1</value>
+  </data>
+  <data name="CenterPositionVisionLaser2" xml:space="preserve">
+    <value>CenterPosition / Vision-&gt;Laser2</value>
+  </data>
+  <data name="CenterPositionVisionLaser3" xml:space="preserve">
+    <value>CenterPosition / Vision-&gt;Laser3</value>
+  </data>
+  <data name="CenterPositionVisionLaser4" xml:space="preserve">
+    <value>CenterPosition / Vision-&gt;Laser4</value>
+  </data>
+  <data name="Chamfering_System" xml:space="preserve">
+    <value>트리밍 시스템</value>
+  </data>
+  <data name="CheckGlassA1PLCB310" xml:space="preserve">
+    <value>척 글라스 A1    [ PLC B310 ]</value>
+  </data>
+  <data name="CheckGlassA2PLCB311" xml:space="preserve">
+    <value>척 글라스 A2    [ PLC B311 ]</value>
+  </data>
+  <data name="CheckGlassA3PLCB312" xml:space="preserve">
+    <value>척 글라스 A3    [ PLC B312 ]</value>
+  </data>
+  <data name="CheckGlassA4PLCB313" xml:space="preserve">
+    <value>척 글라스 A4    [ PLC B313 ]</value>
+  </data>
+  <data name="CheckGlassB1PLCB330" xml:space="preserve">
+    <value>척 글라스 B1    [ PLC B330 ]</value>
+  </data>
+  <data name="CheckGlassB2PLCB331" xml:space="preserve">
+    <value>척 글라스 B2    [ PLC B331 ]</value>
+  </data>
+  <data name="CheckGlassB3PLCB332" xml:space="preserve">
+    <value>척 글라스 B3    [ PLC B332 ]</value>
+  </data>
+  <data name="CheckGlassB4PLCB333" xml:space="preserve">
+    <value>척 글라스 B4    [ PLC B333 ]</value>
+  </data>
+  <data name="Chiller" xml:space="preserve">
+    <value>Chiller</value>
+  </data>
+  <data name="Chiller1" xml:space="preserve">
+    <value>Chiller 1</value>
+  </data>
+  <data name="Chiller2" xml:space="preserve">
+    <value>Chiller 2</value>
+  </data>
+  <data name="Chiller3" xml:space="preserve">
+    <value>Chiller 3</value>
+  </data>
+  <data name="Chiller4" xml:space="preserve">
+    <value>Chiller 4</value>
+  </data>
+  <data name="ChillerMaintainSet" xml:space="preserve">
+    <value>Chiller Maintain Set</value>
+  </data>
+  <data name="ChillerMaintenanceDay" xml:space="preserve">
+    <value>Chiller Maintenance (Day)</value>
+  </data>
+  <data name="Circle" xml:space="preserve">
+    <value>Circle</value>
+  </data>
+  <data name="Clear" xml:space="preserve">
+    <value>Clear</value>
+  </data>
+  <data name="ClearAlarmClose" xml:space="preserve">
+    <value>알람해제&amp;&amp;닫기</value>
+  </data>
+  <data name="Cmd" xml:space="preserve">
+    <value>Cmd</value>
+  </data>
+  <data name="Connect" xml:space="preserve">
+    <value>연결</value>
+  </data>
+  <data name="Continous" xml:space="preserve">
+    <value>계속</value>
+  </data>
+  <data name="Copy" xml:space="preserve">
+    <value>복사</value>
+  </data>
+  <data name="CorrectionFile" xml:space="preserve">
+    <value>Correction File : </value>
+  </data>
+  <data name="CTBFileLoad" xml:space="preserve">
+    <value>CTB File Load</value>
+  </data>
+  <data name="CurrentPower" xml:space="preserve">
+    <value>현재파워:</value>
+  </data>
+  <data name="Data" xml:space="preserve">
+    <value>Data</value>
+  </data>
+  <data name="Data1" xml:space="preserve">
+    <value>Data 1 :</value>
+  </data>
+  <data name="Data2" xml:space="preserve">
+    <value>Data 2 :</value>
+  </data>
+  <data name="Data3" xml:space="preserve">
+    <value>Data 3 :</value>
+  </data>
+  <data name="Data4" xml:space="preserve">
+    <value>Data 4 :</value>
+  </data>
+  <data name="DataFileSave" xml:space="preserve">
+    <value>Data File 저장</value>
+  </data>
+  <data name="DataLoad" xml:space="preserve">
+    <value>최근데이타로드</value>
+  </data>
+  <data name="Degree" xml:space="preserve">
+    <value>Degree</value>
+  </data>
+  <data name="DeleteAfter" xml:space="preserve">
+    <value>Delete After</value>
+  </data>
+  <data name="Displace" xml:space="preserve">
+    <value>변위센서</value>
+  </data>
+  <data name="Downpowermeterms" xml:space="preserve">
+    <value>하부 파워 측정</value>
+  </data>
+  <data name="Dust1" xml:space="preserve">
+    <value>Dust1 :</value>
+  </data>
+  <data name="Dust2" xml:space="preserve">
+    <value>Dust2 :</value>
+  </data>
+  <data name="DustCollector" xml:space="preserve">
+    <value>DustCollector</value>
+  </data>
+  <data name="DustCollectorAlarmReport" xml:space="preserve">
+    <value>집진기 알람 Report</value>
+  </data>
+  <data name="DustCollectorOff" xml:space="preserve">
+    <value>집진기 Off</value>
+  </data>
+  <data name="DustCollectorOn" xml:space="preserve">
+    <value>집진기 On</value>
+  </data>
+  <data name="Edit" xml:space="preserve">
+    <value>Edit</value>
+  </data>
+  <data name="FilePath" xml:space="preserve">
+    <value>File Path</value>
+  </data>
+  <data name="Filter" xml:space="preserve">
+    <value>Filter </value>
+  </data>
+  <data name="FindServers" xml:space="preserve">
+    <value>Find Servers</value>
+  </data>
+  <data name="First" xml:space="preserve">
+    <value>First</value>
+  </data>
+  <data name="FiterDDay" xml:space="preserve">
+    <value>Fiter D-Day </value>
+  </data>
+  <data name="Frequencykhz" xml:space="preserve">
+    <value>Frequency(khz) </value>
+  </data>
+  <data name="Gap" xml:space="preserve">
+    <value>Gap </value>
+  </data>
+  <data name="Glass1" xml:space="preserve">
+    <value>Glass 1</value>
+  </data>
+  <data name="GlassAlignandTrimmingALine" xml:space="preserve">
+    <value>Glass Align and Trimming A Line</value>
+  </data>
+  <data name="GlassAlignandTrimmingBLine" xml:space="preserve">
+    <value>Glass Align and Trimming B Line</value>
+  </data>
+  <data name="GoMark" xml:space="preserve">
+    <value>Go Mark</value>
+  </data>
+  <data name="Group" xml:space="preserve">
+    <value>그룹</value>
+  </data>
+  <data name="GroupBox1" xml:space="preserve">
+    <value>수동동장</value>
+  </data>
+  <data name="GroupEditer" xml:space="preserve">
+    <value>Group Editer</value>
+  </data>
+  <data name="HalfPulsePeriod" xml:space="preserve">
+    <value>Half Pulse Period :</value>
+  </data>
+  <data name="HeavyAlarm" xml:space="preserve">
+    <value>중알람</value>
+  </data>
+  <data name="Idx" xml:space="preserve">
+    <value>인덱스</value>
+  </data>
+  <data name="Image" xml:space="preserve">
+    <value>이미지</value>
+  </data>
+  <data name="ImageLoad" xml:space="preserve">
+    <value>이미지 불러오기</value>
+  </data>
+  <data name="ImageSave" xml:space="preserve">
+    <value>이미지 저장</value>
+  </data>
+  <data name="Init" xml:space="preserve">
+    <value>초기화</value>
+  </data>
+  <data name="InitScanner1" xml:space="preserve">
+    <value>Init Scanner #1</value>
+  </data>
+  <data name="interfacemode" xml:space="preserve">
+    <value>통신모드</value>
+  </data>
+  <data name="IRBOX1" xml:space="preserve">
+    <value>IR박스1</value>
+  </data>
+  <data name="IRBOX2" xml:space="preserve">
+    <value>IR박스2</value>
+  </data>
+  <data name="IRBOX3" xml:space="preserve">
+    <value>IR박스3</value>
+  </data>
+  <data name="IRBOX4" xml:space="preserve">
+    <value>IR박스4</value>
+  </data>
+  <data name="IRPower" xml:space="preserve">
+    <value>IR Power</value>
+  </data>
+  <data name="Jump" xml:space="preserve">
+    <value>Jump</value>
+  </data>
+  <data name="JumpDelay" xml:space="preserve">
+    <value>Jump Delay</value>
+  </data>
+  <data name="JumpSpeed" xml:space="preserve">
+    <value>JumpSpeed</value>
+  </data>
+  <data name="KeyStatus" xml:space="preserve">
+    <value>Key Status</value>
+  </data>
+  <data name="Laser" xml:space="preserve">
+    <value>Laser</value>
+  </data>
+  <data name="Laser1" xml:space="preserve">
+    <value>Laser1</value>
+  </data>
+  <data name="Laser1OffReport" xml:space="preserve">
+    <value>Laser1 Off Report</value>
+  </data>
+  <data name="Laser1OnReport" xml:space="preserve">
+    <value>Laser1 On Report</value>
+  </data>
+  <data name="Laser1ShutterCloseReport" xml:space="preserve">
+    <value>Laser1 Shutter Close Report</value>
+  </data>
+  <data name="Laser1ShutterOpenReport" xml:space="preserve">
+    <value>Laser1 Shutter Open Report</value>
+  </data>
+  <data name="Laser2" xml:space="preserve">
+    <value>Laser2</value>
+  </data>
+  <data name="Laser2OffReport" xml:space="preserve">
+    <value>Laser2 Off Report</value>
+  </data>
+  <data name="Laser2OnReport" xml:space="preserve">
+    <value>Laser2 On Report</value>
+  </data>
+  <data name="Laser2ShutterCloseReport" xml:space="preserve">
+    <value>Laser2 Shutter Close Report</value>
+  </data>
+  <data name="Laser2ShutterOpenReport" xml:space="preserve">
+    <value>Laser2 Shutter Open Report</value>
+  </data>
+  <data name="Laser3" xml:space="preserve">
+    <value>Laser3</value>
+  </data>
+  <data name="Laser4" xml:space="preserve">
+    <value>Laser4</value>
+  </data>
+  <data name="LaserAlarmReport" xml:space="preserve">
+    <value>레이져 알람 Report</value>
+  </data>
+  <data name="LaserOffDelay" xml:space="preserve">
+    <value>Laser Off Delay </value>
+  </data>
+  <data name="LaserOnDelay" xml:space="preserve">
+    <value>Laser On Delay </value>
+  </data>
+  <data name="LaserParameter" xml:space="preserve">
+    <value>Laser Parameter</value>
+  </data>
+  <data name="LaserShot" xml:space="preserve">
+    <value>Laser Shot</value>
+  </data>
+  <data name="LaserStartL1RequestB350" xml:space="preserve">
+    <value>Laser Start L1 Request [B350]</value>
+  </data>
+  <data name="LaserStartL1RequestB354" xml:space="preserve">
+    <value>Laser Start L1 Request [B354]</value>
+  </data>
+  <data name="LaserStartL2RequestB351" xml:space="preserve">
+    <value>Laser Start L2 Request [B351]</value>
+  </data>
+  <data name="LaserStartL2RequestB355" xml:space="preserve">
+    <value>Laser Start L2 Request [B355]</value>
+  </data>
+  <data name="LaserStartL3RequestB352" xml:space="preserve">
+    <value>Laser Start L3 Request [B352]</value>
+  </data>
+  <data name="LaserStartL3RequestB356" xml:space="preserve">
+    <value>Laser Start L3 Request [B356]</value>
+  </data>
+  <data name="LaserStartL4RequestB353" xml:space="preserve">
+    <value>Laser Start L4 Request [B353]</value>
+  </data>
+  <data name="LaserStartL4RequestB357" xml:space="preserve">
+    <value>Laser Start L4 Request [B357]</value>
+  </data>
+  <data name="LaserStatus" xml:space="preserve">
+    <value>레이져 현황</value>
+  </data>
+  <data name="LaserZmm" xml:space="preserve">
+    <value>Laser_Z[mm]</value>
+  </data>
+  <data name="LIGHT" xml:space="preserve">
+    <value>Light</value>
+  </data>
+  <data name="LightAlarm" xml:space="preserve">
+    <value>경알람</value>
+  </data>
+  <data name="Lightbrightnesssetting" xml:space="preserve">
+    <value>Lightbrightnesssetting</value>
+  </data>
+  <data name="LightONOFFUSE" xml:space="preserve">
+    <value>조명ON/OFF USE</value>
+  </data>
+  <data name="LightSet" xml:space="preserve">
+    <value>조명 설정:</value>
+  </data>
+  <data name="Line" xml:space="preserve">
+    <value>Line</value>
+  </data>
+  <data name="LINEA" xml:space="preserve">
+    <value>Line A</value>
+  </data>
+  <data name="LineACamera1" xml:space="preserve">
+    <value>A라인 카메라1</value>
+  </data>
+  <data name="LineACamera2" xml:space="preserve">
+    <value>A라인 카메라2</value>
+  </data>
+  <data name="LineALaserZ1" xml:space="preserve">
+    <value>Line A Laser Z1 </value>
+  </data>
+  <data name="LineALaserZ2" xml:space="preserve">
+    <value>Line A Laser Z2</value>
+  </data>
+  <data name="LineAStageX" xml:space="preserve">
+    <value>Line A Stage X </value>
+  </data>
+  <data name="LineAStageY" xml:space="preserve">
+    <value>Line A Stage Y </value>
+  </data>
+  <data name="LineAVisionZ" xml:space="preserve">
+    <value>Line A Vision Z </value>
+  </data>
+  <data name="LINEB" xml:space="preserve">
+    <value>Line B</value>
+  </data>
+  <data name="LineBCamera1" xml:space="preserve">
+    <value>B라인 카메라1</value>
+  </data>
+  <data name="LineBCamera2" xml:space="preserve">
+    <value>B라인 카메라2</value>
+  </data>
+  <data name="LineBLaserZ1" xml:space="preserve">
+    <value>Line B Laser Z1</value>
+  </data>
+  <data name="LineBLaserZ2" xml:space="preserve">
+    <value>Line B Laser Z2</value>
+  </data>
+  <data name="LineBStageX" xml:space="preserve">
+    <value>Line B Stage X </value>
+  </data>
+  <data name="LineBStageY" xml:space="preserve">
+    <value>Line B Stage Y </value>
+  </data>
+  <data name="LineBVisionZ" xml:space="preserve">
+    <value>Line B Vision Z</value>
+  </data>
+  <data name="Load" xml:space="preserve">
+    <value>Load</value>
+  </data>
+  <data name="Log" xml:space="preserve">
+    <value>Log :</value>
+  </data>
+  <data name="LogIn" xml:space="preserve">
+    <value>로그인</value>
+  </data>
+  <data name="Main" xml:space="preserve">
+    <value>메인</value>
+  </data>
+  <data name="ManualAlignNG" xml:space="preserve">
+    <value>수동 어라인 NG</value>
+  </data>
+  <data name="ManualAlignOK" xml:space="preserve">
+    <value>수동 어라인 OK</value>
+  </data>
+  <data name="ManualStatus" xml:space="preserve">
+    <value>Manual Status</value>
+  </data>
+  <data name="Mark" xml:space="preserve">
+    <value>Mark</value>
+  </data>
+  <data name="Mark1" xml:space="preserve">
+    <value>마크 #1</value>
+  </data>
+  <data name="Mark2" xml:space="preserve">
+    <value>마크 #2</value>
+  </data>
+  <data name="Mark3" xml:space="preserve">
+    <value>마크 #3</value>
+  </data>
+  <data name="MarkData" xml:space="preserve">
+    <value>마크 데이터</value>
+  </data>
+  <data name="MarkDataChange" xml:space="preserve">
+    <value>마크데이터변경</value>
+  </data>
+  <data name="MarkDataEditer" xml:space="preserve">
+    <value>Mark Data Editer</value>
+  </data>
+  <data name="MarkDataPreview" xml:space="preserve">
+    <value>마크 데이터 미리보기</value>
+  </data>
+  <data name="MarkDelay" xml:space="preserve">
+    <value>Mark Delay :</value>
+  </data>
+  <data name="Markdistance" xml:space="preserve">
+    <value>Mark Distance</value>
+  </data>
+  <data name="Markdistancemistake" xml:space="preserve">
+    <value>Mark Distance Mistake</value>
+  </data>
+  <data name="Marking" xml:space="preserve">
+    <value>마킹</value>
+  </data>
+  <data name="MarkingStart" xml:space="preserve">
+    <value>Marking Start</value>
+  </data>
+  <data name="MarkSpeed" xml:space="preserve">
+    <value>마크속도:</value>
+  </data>
+  <data name="MarkSpeedSetbit" xml:space="preserve">
+    <value>Mark Speed Set (bit)</value>
+  </data>
+  <data name="MatrixSet" xml:space="preserve">
+    <value>Matrix Set</value>
+  </data>
+  <data name="MaxDev" xml:space="preserve">
+    <value>최대편차</value>
+  </data>
+  <data name="MaxVal" xml:space="preserve">
+    <value>최대값</value>
+  </data>
+  <data name="Measure" xml:space="preserve">
+    <value>측정</value>
+  </data>
+  <data name="measuretime" xml:space="preserve">
+    <value>Start Measure</value>
+  </data>
+  <data name="Message" xml:space="preserve">
+    <value>메시지</value>
+  </data>
+  <data name="MinMax" xml:space="preserve">
+    <value>Min-Max</value>
+  </data>
+  <data name="MinVal" xml:space="preserve">
+    <value>최소값</value>
+  </data>
+  <data name="Mode" xml:space="preserve">
+    <value>모드</value>
+  </data>
+  <data name="Mode1" xml:space="preserve">
+    <value>Mode1</value>
+  </data>
+  <data name="Mode2" xml:space="preserve">
+    <value>Mode2</value>
+  </data>
+  <data name="ModelApply" xml:space="preserve">
+    <value>모델 적용</value>
+  </data>
+  <data name="ModelSave" xml:space="preserve">
+    <value>모델 저장</value>
+  </data>
+  <data name="MotionABSMOVE" xml:space="preserve">
+    <value>모션 (절대위치 이동)</value>
+  </data>
+  <data name="MotionStatus" xml:space="preserve">
+    <value>머신 현황</value>
+  </data>
+  <data name="Move" xml:space="preserve">
+    <value>이동</value>
+  </data>
+  <data name="MoveVisionA1" xml:space="preserve">
+    <value>Move Vision A1</value>
+  </data>
+  <data name="MoveVisionA2" xml:space="preserve">
+    <value>Move Vision A2</value>
+  </data>
+  <data name="MoveVisionB1" xml:space="preserve">
+    <value>Move Vision B1</value>
+  </data>
+  <data name="MoveVisionB2" xml:space="preserve">
+    <value>Move Vision B2</value>
+  </data>
+  <data name="msresult" xml:space="preserve">
+    <value>측정 결과</value>
+  </data>
+  <data name="No" xml:space="preserve">
+    <value>No</value>
+  </data>
+  <data name="Normal" xml:space="preserve">
+    <value>Normal</value>
+  </data>
+  <data name="NotConnected" xml:space="preserve">
+    <value>연결안됨</value>
+  </data>
+  <data name="NotKnow" xml:space="preserve">
+    <value>미정</value>
+  </data>
+  <data name="NOTREADY" xml:space="preserve">
+    <value>준비안됨</value>
+  </data>
+  <data name="Number" xml:space="preserve">
+    <value>번호</value>
+  </data>
+  <data name="Off" xml:space="preserve">
+    <value>Off</value>
+  </data>
+  <data name="OffsetX" xml:space="preserve">
+    <value>Offset X :</value>
+  </data>
+  <data name="OffsetY" xml:space="preserve">
+    <value>Offset Y :</value>
+  </data>
+  <data name="OK" xml:space="preserve">
+    <value>확인</value>
+  </data>
+  <data name="OldDataLoad" xml:space="preserve">
+    <value>예전데이타로드</value>
+  </data>
+  <data name="On1" xml:space="preserve">
+    <value>On</value>
+  </data>
+  <data name="oncemeasure" xml:space="preserve">
+    <value>Once Measure</value>
+  </data>
+  <data name="Open" xml:space="preserve">
+    <value>열기</value>
+  </data>
+  <data name="OutputPower" xml:space="preserve">
+    <value>출력파워</value>
+  </data>
+  <data name="OutputPowerW" xml:space="preserve">
+    <value>Output Power (W)</value>
+  </data>
+  <data name="Panel1" xml:space="preserve">
+    <value>판넬 1번</value>
+  </data>
+  <data name="Panel2" xml:space="preserve">
+    <value>판넬 2번</value>
+  </data>
+  <data name="Panel3" xml:space="preserve">
+    <value>판넬 3번</value>
+  </data>
+  <data name="Panel4" xml:space="preserve">
+    <value>판넬 4번</value>
+  </data>
+  <data name="Panelsettingposset" xml:space="preserve">
+    <value>Panel Setting Pos Set</value>
+  </data>
+  <data name="Panel센터위치설정" xml:space="preserve">
+    <value>Panel 센터 위치 설정</value>
+  </data>
+  <data name="Password" xml:space="preserve">
+    <value>비밀번호</value>
+  </data>
+  <data name="PCBitData" xml:space="preserve">
+    <value>PC Bit Data</value>
+  </data>
+  <data name="Pen" xml:space="preserve">
+    <value>Pen</value>
+  </data>
+  <data name="PenDataEditer" xml:space="preserve">
+    <value>Pen 데이터 교정</value>
+  </data>
+  <data name="PenDataView" xml:space="preserve">
+    <value>Pen 테이터 보기</value>
+  </data>
+  <data name="PenNumber" xml:space="preserve">
+    <value>Pen 번호</value>
+  </data>
+  <data name="PLC" xml:space="preserve">
+    <value>피엘씨</value>
+  </data>
+  <data name="PLCBitData" xml:space="preserve">
+    <value>PLC Bit Data</value>
+  </data>
+  <data name="PLCInterface" xml:space="preserve">
+    <value>PLC 통신</value>
+  </data>
+  <data name="PLC_A_Manual" xml:space="preserve">
+    <value>PLC A - 수동</value>
+  </data>
+  <data name="PLC_B_Manual" xml:space="preserve">
+    <value>PLC B - 수동</value>
+  </data>
+  <data name="PLC_Control_Stage" xml:space="preserve">
+    <value>모션 PLC 제어</value>
+  </data>
+  <data name="PolygonDelay" xml:space="preserve">
+    <value>Polygon Delay </value>
+  </data>
+  <data name="PositionData" xml:space="preserve">
+    <value>Position Data</value>
+  </data>
+  <data name="PosX" xml:space="preserve">
+    <value>Pos X </value>
+  </data>
+  <data name="PosY" xml:space="preserve">
+    <value>Pos Y </value>
+  </data>
+  <data name="Power0100" xml:space="preserve">
+    <value>Power 0~100[%]</value>
+  </data>
+  <data name="PowerMeter" xml:space="preserve">
+    <value>파워메터</value>
+  </data>
+  <data name="PowerMeter1" xml:space="preserve">
+    <value>파워메터1</value>
+  </data>
+  <data name="PowerMeter1MeasureRequest" xml:space="preserve">
+    <value>Power Meter1 측정 요구</value>
+  </data>
+  <data name="PowerMeter2" xml:space="preserve">
+    <value>파워메터2</value>
+  </data>
+  <data name="PowerMeter2MeasureRequest" xml:space="preserve">
+    <value>Power Meter2 측정 요구</value>
+  </data>
+  <data name="PowerMeter3" xml:space="preserve">
+    <value>파워메터3</value>
+  </data>
+  <data name="PowerMeter4" xml:space="preserve">
+    <value>파워메터4</value>
+  </data>
+  <data name="PowerMeterLog" xml:space="preserve">
+    <value>파워메터로그</value>
+  </data>
+  <data name="PowerMeterMeasureRequest" xml:space="preserve">
+    <value>Power Meter 측정 요구</value>
+  </data>
+  <data name="POWERMETEROFF" xml:space="preserve">
+    <value>POWER METER OFF</value>
+  </data>
+  <data name="PowerMeterStage" xml:space="preserve">
+    <value>파워메터 스테이지</value>
+  </data>
+  <data name="PowerMeterTimems" xml:space="preserve">
+    <value>PowerMeterTime (ms)</value>
+  </data>
+  <data name="PowerStage" xml:space="preserve">
+    <value>Power_Stage:</value>
+  </data>
+  <data name="ProgramVersion" xml:space="preserve">
+    <value>프로그램 버전</value>
+  </data>
+  <data name="PulseWidth1" xml:space="preserve">
+    <value>Pulse Width 1 :</value>
+  </data>
+  <data name="PulseWidth2" xml:space="preserve">
+    <value>Pulse Width 2 :</value>
+  </data>
+  <data name="RBxy" xml:space="preserve">
+    <value>RB(x,y)</value>
+  </data>
+  <data name="Read" xml:space="preserve">
+    <value>읽기</value>
+  </data>
+  <data name="Recipe" xml:space="preserve">
+    <value>레시피</value>
+  </data>
+  <data name="RecipeChangeReport" xml:space="preserve">
+    <value>Recipe Change Report</value>
+  </data>
+  <data name="RecipeChangeRequest" xml:space="preserve">
+    <value>Recipe Change Request</value>
+  </data>
+  <data name="RecipeChoice" xml:space="preserve">
+    <value>레시피 선택</value>
+  </data>
+  <data name="RecipeName" xml:space="preserve">
+    <value>Recipe Name</value>
+  </data>
+  <data name="RecipeNameLoad" xml:space="preserve">
+    <value>Recipe Name Load</value>
+  </data>
+  <data name="Rect" xml:space="preserve">
+    <value>Rect</value>
+  </data>
+  <data name="RefPoint" xml:space="preserve">
+    <value>RefPoint</value>
+  </data>
+  <data name="Refxy" xml:space="preserve">
+    <value>Ref(x,y)</value>
+  </data>
+  <data name="Repeat" xml:space="preserve">
+    <value>반복</value>
+  </data>
+  <data name="RepetitionRate" xml:space="preserve">
+    <value>Repetition Rate</value>
+  </data>
+  <data name="RepetitionRatekhz" xml:space="preserve">
+    <value>Repetition Rate (khz)</value>
+  </data>
+  <data name="Reset" xml:space="preserve">
+    <value>Reset</value>
+  </data>
+  <data name="ResetBitData" xml:space="preserve">
+    <value>Reset Bit Data</value>
+  </data>
+  <data name="result" xml:space="preserve">
+    <value>결과</value>
+  </data>
+  <data name="Result1" xml:space="preserve">
+    <value>측정결과1</value>
+  </data>
+  <data name="Result2" xml:space="preserve">
+    <value>측정결과2</value>
+  </data>
+  <data name="Result3" xml:space="preserve">
+    <value>측정결과3</value>
+  </data>
+  <data name="Result4" xml:space="preserve">
+    <value>측정결과4</value>
+  </data>
+  <data name="Retry" xml:space="preserve">
+    <value>Retry :</value>
+  </data>
+  <data name="RFPercentLevel0100" xml:space="preserve">
+    <value>RF Percent Level 0~100[%]</value>
+  </data>
+  <data name="RLPower" xml:space="preserve">
+    <value>RL 파워:</value>
+  </data>
+  <data name="Run" xml:space="preserve">
+    <value>Run</value>
+  </data>
+  <data name="RUNA" xml:space="preserve">
+    <value>런_A</value>
+  </data>
+  <data name="RUNB" xml:space="preserve">
+    <value>런_B</value>
+  </data>
+  <data name="Save" xml:space="preserve">
+    <value>저장</value>
+  </data>
+  <data name="SaveMarkData" xml:space="preserve">
+    <value>Save Mark Data</value>
+  </data>
+  <data name="SaveSystemParam" xml:space="preserve">
+    <value>Save System Param</value>
+  </data>
+  <data name="Scanner" xml:space="preserve">
+    <value>Scanner</value>
+  </data>
+  <data name="Scanner1" xml:space="preserve">
+    <value>Scanner#1</value>
+  </data>
+  <data name="Scanner1OnlyMode" xml:space="preserve">
+    <value>Scanner1 Only Mode</value>
+  </data>
+  <data name="Scanner1ZMoveComplete" xml:space="preserve">
+    <value>Scanner1 Z 이동완료</value>
+  </data>
+  <data name="Scanner1ZMoveRequest" xml:space="preserve">
+    <value>Scanner1 Z Move Request</value>
+  </data>
+  <data name="Scanner2" xml:space="preserve">
+    <value>Scanner #2</value>
+  </data>
+  <data name="Scanner2OnlyMode" xml:space="preserve">
+    <value>Scanner2 Only Mode</value>
+  </data>
+  <data name="Scanner2ZMoveComplete" xml:space="preserve">
+    <value>Scanner2 Z 이동완료</value>
+  </data>
+  <data name="Scanner2ZMoveRequest" xml:space="preserve">
+    <value>스캐너2 Z 이동 Request</value>
+  </data>
+  <data name="Scanner3" xml:space="preserve">
+    <value>Scanner #3</value>
+  </data>
+  <data name="Scanner4" xml:space="preserve">
+    <value>Scanner #4</value>
+  </data>
+  <data name="ScannerAxisParameter" xml:space="preserve">
+    <value>Scanner Axis Parameter</value>
+  </data>
+  <data name="ScannerLaserParameter" xml:space="preserve">
+    <value>Scanner Laser Parameter</value>
+  </data>
+  <data name="ScannerMinimumSpeed" xml:space="preserve">
+    <value>Scanner Minimum Speed</value>
+  </data>
+  <data name="ScannerOffsetParameter" xml:space="preserve">
+    <value>Scanner Offset Parameter</value>
+  </data>
+  <data name="ScannerSettingPath" xml:space="preserve">
+    <value>Scanner Setting Path :</value>
+  </data>
+  <data name="ScannerStatus" xml:space="preserve">
+    <value>스캐너 현황</value>
+  </data>
+  <data name="Score" xml:space="preserve">
+    <value>Score :</value>
+  </data>
+  <data name="Score00000" xml:space="preserve">
+    <value>Score : 00.000</value>
+  </data>
+  <data name="Select1" xml:space="preserve">
+    <value>선택</value>
+  </data>
+  <data name="SelectScanner" xml:space="preserve">
+    <value>스캐너 선택</value>
+  </data>
+  <data name="SelectVision" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Set0" xml:space="preserve">
+    <value>Set</value>
+  </data>
+  <data name="SetBitData" xml:space="preserve">
+    <value>Set Bit Data</value>
+  </data>
+  <data name="SetPort" xml:space="preserve">
+    <value>Set Port</value>
+  </data>
+  <data name="Setting" xml:space="preserve">
+    <value>설정</value>
+  </data>
+  <data name="SettingChoice" xml:space="preserve">
+    <value>Setting Choice</value>
+  </data>
+  <data name="settingmode" xml:space="preserve">
+    <value>설정 모드</value>
+  </data>
+  <data name="SHGTemp" xml:space="preserve">
+    <value>SHG Temp</value>
+  </data>
+  <data name="Shot1" xml:space="preserve">
+    <value>Shot 1</value>
+  </data>
+  <data name="Show" xml:space="preserve">
+    <value>Show</value>
+  </data>
+  <data name="ShowScale" xml:space="preserve">
+    <value>Show Scale</value>
+  </data>
+  <data name="ShowShow" xml:space="preserve">
+    <value>Show/Show</value>
+  </data>
+  <data name="Shutter" xml:space="preserve">
+    <value>셔터</value>
+  </data>
+  <data name="SHUTTERCLOSE" xml:space="preserve">
+    <value>SHUTTER CLOSE</value>
+  </data>
+  <data name="SHUTTEROPEN" xml:space="preserve">
+    <value>SHUTTER OPEN</value>
+  </data>
+  <data name="SimpleLaserMarking" xml:space="preserve">
+    <value>Simple Laser Marking</value>
+  </data>
+  <data name="Size" xml:space="preserve">
+    <value>Size :</value>
+  </data>
+  <data name="SizeX" xml:space="preserve">
+    <value>Size X :</value>
+  </data>
+  <data name="SizeY" xml:space="preserve">
+    <value>Size Y :</value>
+  </data>
+  <data name="Spec" xml:space="preserve">
+    <value>Spec</value>
+  </data>
+  <data name="Speed" xml:space="preserve">
+    <value>속도</value>
+  </data>
+  <data name="SpotLight" xml:space="preserve">
+    <value>동축조명</value>
+  </data>
+  <data name="StagePower" xml:space="preserve">
+    <value>스테이지 파워</value>
+  </data>
+  <data name="Start" xml:space="preserve">
+    <value>시작</value>
+  </data>
+  <data name="StartX" xml:space="preserve">
+    <value>Start X :</value>
+  </data>
+  <data name="StartY" xml:space="preserve">
+    <value>Start Y :</value>
+  </data>
+  <data name="Statusmm" xml:space="preserve">
+    <value>Status (mm)</value>
+  </data>
+  <data name="Stop1" xml:space="preserve">
+    <value>정지</value>
+  </data>
+  <data name="STOPA" xml:space="preserve">
+    <value>정지_A</value>
+  </data>
+  <data name="StopAll" xml:space="preserve">
+    <value>전체 정지</value>
+  </data>
+  <data name="STOPB" xml:space="preserve">
+    <value>정지_B</value>
+  </data>
+  <data name="String12" xml:space="preserve">
+    <value />
+  </data>
+  <data name="SWExit" xml:space="preserve">
+    <value>종료</value>
+  </data>
+  <data name="System" xml:space="preserve">
+    <value>시스템</value>
+  </data>
+  <data name="SystemALineOffsetSetting" xml:space="preserve">
+    <value>System A-Line Offset Setting</value>
+  </data>
+  <data name="SystemBLineOffsetSetting" xml:space="preserve">
+    <value>System B-Line Offset Setting</value>
+  </data>
+  <data name="SystemFaultStauts" xml:space="preserve">
+    <value>System Fault Stauts </value>
+  </data>
+  <data name="SystemLog" xml:space="preserve">
+    <value>시스템 로그</value>
+  </data>
+  <data name="SystemLogPath" xml:space="preserve">
+    <value>System Log Path :</value>
+  </data>
+  <data name="SystemParam" xml:space="preserve">
+    <value>시스템 파라메터</value>
+  </data>
+  <data name="SystemPath" xml:space="preserve">
+    <value>System Path :</value>
+  </data>
+  <data name="SystemPort" xml:space="preserve">
+    <value>System Port </value>
+  </data>
+  <data name="SystemState" xml:space="preserve">
+    <value>System State</value>
+  </data>
+  <data name="SYSTEMSTATUS" xml:space="preserve">
+    <value>시스템 현황</value>
+  </data>
+  <data name="System_need_to_Init" xml:space="preserve">
+    <value>System need to Init</value>
+  </data>
+  <data name="Test" xml:space="preserve">
+    <value>테스트</value>
+  </data>
+  <data name="THGTemp" xml:space="preserve">
+    <value>THG Temp</value>
+  </data>
+  <data name="Time" xml:space="preserve">
+    <value>시간</value>
+  </data>
+  <data name="Timer" xml:space="preserve">
+    <value>Timer :</value>
+  </data>
+  <data name="TimeSyncComplete" xml:space="preserve">
+    <value>Time Sync 완료</value>
+  </data>
+  <data name="TimeSyncRequest" xml:space="preserve">
+    <value>Time Sync Request</value>
+  </data>
+  <data name="TLxy" xml:space="preserve">
+    <value>TL(x,y)</value>
+  </data>
+  <data name="TopPower" xml:space="preserve">
+    <value>탑 파워</value>
+  </data>
+  <data name="TriggerModePM" xml:space="preserve">
+    <value>Trigger Mode (PM)</value>
+  </data>
+  <data name="TrimmingCompleteA" xml:space="preserve">
+    <value>트리밍 완료</value>
+  </data>
+  <data name="TrimmingCompleteB" xml:space="preserve">
+    <value>트리밍 완료</value>
+  </data>
+  <data name="TrimmingDelayms" xml:space="preserve">
+    <value>Trimming Delay (ms)</value>
+  </data>
+  <data name="TrimmingTacs" xml:space="preserve">
+    <value>트리밍 택[초]</value>
+  </data>
+  <data name="tryagain" xml:space="preserve">
+    <value>Try Again</value>
+  </data>
+  <data name="UpPowermeterms" xml:space="preserve">
+    <value>상부 파워 측정</value>
+  </data>
+  <data name="Use" xml:space="preserve">
+    <value>사용</value>
+  </data>
+  <data name="UseBinarize" xml:space="preserve">
+    <value>Use Binarize</value>
+  </data>
+  <data name="UserName" xml:space="preserve">
+    <value>User Name</value>
+  </data>
+  <data name="UseSecurity" xml:space="preserve">
+    <value>Use Security</value>
+  </data>
+  <data name="ValueAngle" xml:space="preserve">
+    <value>Value Angle</value>
+  </data>
+  <data name="ValueApplyApply" xml:space="preserve">
+    <value>Value Apply / Apply</value>
+  </data>
+  <data name="ValueX" xml:space="preserve">
+    <value>Value X</value>
+  </data>
+  <data name="ValueY" xml:space="preserve">
+    <value>Value Y</value>
+  </data>
+  <data name="Ver" xml:space="preserve">
+    <value>시스템 버전</value>
+  </data>
+  <data name="ver3020170319" xml:space="preserve">
+    <value>버젼 3.0_20170319</value>
+  </data>
+  <data name="Verify" xml:space="preserve">
+    <value>Verify</value>
+  </data>
+  <data name="VisionA1" xml:space="preserve">
+    <value>비전 A1</value>
+  </data>
+  <data name="VisionA2" xml:space="preserve">
+    <value>비전 A2</value>
+  </data>
+  <data name="VisionB1" xml:space="preserve">
+    <value>비전 B1</value>
+  </data>
+  <data name="VisionB2" xml:space="preserve">
+    <value>비전 B2</value>
+  </data>
+  <data name="VisionDelayms" xml:space="preserve">
+    <value>Vision Delay (ms)</value>
+  </data>
+  <data name="VisionZmm" xml:space="preserve">
+    <value>Vision_Z[mm]:</value>
+  </data>
+  <data name="VLineData" xml:space="preserve">
+    <value>V-Line Data</value>
+  </data>
+  <data name="Water" xml:space="preserve">
+    <value>Water :</value>
+  </data>
+  <data name="WaterDDay" xml:space="preserve">
+    <value>Water D-Day :</value>
+  </data>
+  <data name="Write" xml:space="preserve">
+    <value>쓰기</value>
+  </data>
+  <data name="X1" xml:space="preserve">
+    <value>X1</value>
+  </data>
+  <data name="X2" xml:space="preserve">
+    <value>X2</value>
+  </data>
+  <data name="XCurruntPos" xml:space="preserve">
+    <value>X 현재위치</value>
+  </data>
+  <data name="Y" xml:space="preserve">
+    <value>Y</value>
+  </data>
+  <data name="YCurruntPos" xml:space="preserve">
+    <value>Y 현재위치</value>
+  </data>
+  <data name="zeropointdel" xml:space="preserve">
+    <value>영점 해제</value>
+  </data>
+  <data name="zeropointset" xml:space="preserve">
+    <value>영점 설정</value>
+  </data>
+  <data name="Zoom" xml:space="preserve">
+    <value>확대</value>
+  </data>
+  <data name="Powermetermanualuse" xml:space="preserve">
+    <value>Powermeter manual use</value>
+  </data>
+  <data name="Applycurrentpos" xml:space="preserve">
+    <value>현재 위치 적용</value>
+  </data>
+  <data name="CentralPointSetting" xml:space="preserve">
+    <value>중심점 설정</value>
+  </data>
+  <data name="ChangePassword" xml:space="preserve">
+    <value>비밀번호 변경</value>
+  </data>
+  <data name="check" xml:space="preserve">
+    <value>을확인하세요</value>
+  </data>
+  <data name="checkfile" xml:space="preserve">
+    <value>파일을 확인하세요</value>
+  </data>
+  <data name="Defult0" xml:space="preserve">
+    <value>비밀번호 변경전 ' 0 ' 입니다.</value>
+  </data>
+  <data name="displacementmsresult" xml:space="preserve">
+    <value>변위 센서 측정 결과</value>
+  </data>
+  <data name="doubleclickaftersetmark" xml:space="preserve">
+    <value>더블클릭후 마크 셋팅</value>
+  </data>
+  <data name="ExistingPassword" xml:space="preserve">
+    <value>기존 비밀번호</value>
+  </data>
+  <data name="indesktop" xml:space="preserve">
+    <value>바탕화면에</value>
+  </data>
+  <data name="MakrSave" xml:space="preserve">
+    <value>Makr 저장</value>
+  </data>
+  <data name="MarkArea" xml:space="preserve">
+    <value>Mark 영역</value>
+  </data>
+  <data name="MaskProcessing" xml:space="preserve">
+    <value>마스크 처리</value>
+  </data>
+  <data name="MaskSizeSetting" xml:space="preserve">
+    <value>마스크 크기 설정</value>
+  </data>
+  <data name="matchingrate" xml:space="preserve">
+    <value>매칭율</value>
+  </data>
+  <data name="matchingrateformal" xml:space="preserve">
+    <value>매칭율 검증</value>
+  </data>
+  <data name="measurestop" xml:space="preserve">
+    <value>측정 중단</value>
+  </data>
+  <data name="ModelInformation" xml:space="preserve">
+    <value>Model 정보</value>
+  </data>
+  <data name="MSPOS1Lightbrightness" xml:space="preserve">
+    <value>측정위치1 조명 밝기</value>
+  </data>
+  <data name="MSPOS2Lightbrightness" xml:space="preserve">
+    <value>측정위치2 조명 밝기</value>
+  </data>
+  <data name="NewPasswodr" xml:space="preserve">
+    <value>신규 비밀번호</value>
+  </data>
+  <data name="ROIArea" xml:space="preserve">
+    <value>ROI 영역</value>
+  </data>
+  <data name="ROIInformation" xml:space="preserve">
+    <value>ROI 정보</value>
+  </data>
+  <data name="SettingCancel" xml:space="preserve">
+    <value>설정 취소</value>
+  </data>
+  <data name="SettingCheck" xml:space="preserve">
+    <value>설정 확인</value>
+  </data>
+  <data name="thesameaxle1" xml:space="preserve">
+    <value>동축1</value>
+  </data>
+  <data name="thesameaxle2" xml:space="preserve">
+    <value>동축2</value>
+  </data>
+  <data name="thesameaxle3" xml:space="preserve">
+    <value>동축3</value>
+  </data>
+  <data name="thesameaxle4" xml:space="preserve">
+    <value>동축4</value>
+  </data>
+  <data name="Updatacontants" xml:space="preserve">
+    <value>업데이트내역</value>
+  </data>
+  <data name="User" xml:space="preserve">
+    <value>사용자</value>
+  </data>
+  <data name="XEndpos" xml:space="preserve">
+    <value>X 종료 위치</value>
+  </data>
+  <data name="XStartpos" xml:space="preserve">
+    <value>X 시작 위치</value>
+  </data>
+  <data name="YEndpos" xml:space="preserve">
+    <value>Y 종료 위치</value>
+  </data>
+  <data name="YNumberoftimes" xml:space="preserve">
+    <value>Y 진행 횟수</value>
+  </data>
+  <data name="YStartpos" xml:space="preserve">
+    <value>Y 시작 위치</value>
+  </data>
+  <data name="Connected" xml:space="preserve">
+    <value>연결완료</value>
+  </data>
+  <data name="ACuttingPosmm" xml:space="preserve">
+    <value>LineA CuttingPos(mm)</value>
+  </data>
+  <data name="BCuttingPosmm" xml:space="preserve">
+    <value>LineB CuttingPos(mm)</value>
+  </data>
+</root>

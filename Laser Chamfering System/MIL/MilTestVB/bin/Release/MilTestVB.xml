@@ -1,0 +1,78 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+MilTestVB
+</name>
+</assembly>
+<members>
+<member name="M:MilTestVB.MilImageProcessor.DrawMarkCenter(Matrox.MatroxImagingLibrary.MIL_ID,System.Drawing.Point,System.Drawing.Color)">
+//////////////////////////////////////////////////////////////
+@author	:LG.PRI.WOOCHUL
+@brief	: 이미지상에 주어진 기준점위치를 십자마크로 Drawing하는 함수
+- MilLibrary의 Migra.. 함수를 사용하며 그리며, 선폭 파라미터를 설정하기가 어려우므로 여러번 중첩시켜 Drawing 함.
+- 우선은 Passivation의 Dotting위치를 이미지상에 디스플레이하여 작업자가 제대로 보정이 이루어졌는지 확인하기 위하여 표시함.
+@param	MIL_ID srcImage: Drawing 할 Image Buffer, CPoint ptRef: Drawing할 기준점의 위치
+@return	BOOL 연산 실패여부 반환
+@see	:
+@date	:2009.3.11
+//////////////////////////////////////////////////////////////
+
+</member><member name="M:MilTestVB.MilImageProcessor.DrawText(Matrox.MatroxImagingLibrary.MIL_ID,System.Drawing.Point,System.Collections.Generic.List{System.String}@,System.Drawing.Color)">
+//////////////////////////////////////////////////////////////
+@author	:LG.PRI.WOOCHUL
+@brief	: 이미지상에 주어진 TEXT를 쓰는 함수 
+- FONT 는 M_FONT_DEFAULT_MEDIUM 로 설정함.
+- 
+@param	MIL_ID srcImage: Drawing 할 Image Buffer, CPoint ptLeftTop: Drawing할 기준점의 Left-Top 위치, szArray:Drawing할 Text의 Array값
+@return	BOOL 연산 실패여부 반환
+@see	
+@date	:2009.3.11
+//////////////////////////////////////////////////////////////
+
+</member><member name="M:MilTestVB.MilImageProcessor.DrawMarkBoundary(Matrox.MatroxImagingLibrary.MIL_ID,System.Int32,System.Drawing.Point[],System.Drawing.Color)">
+//////////////////////////////////////////////////////////////
+@author	:LG.PRI.WOOCHUL
+@brief	: 이미지상에 주어진 Edge Chain Code들을 그리는 함수
+- MilLibrary의 Migra.. 함수를 사용하며 그림.
+@return	BOOL 연산 실패여부 반환
+@see	:
+@date	:2010.11.18
+//////////////////////////////////////////////////////////////
+
+</member><member name="M:MilTestVB.MilImageProcessor.DrawCircleBoundary(Matrox.MatroxImagingLibrary.MIL_ID,System.Drawing.Point,System.Int32,System.Drawing.Color)">
+//////////////////////////////////////////////////////////////
+@author	:LG.PRI.INSIK
+@brief	: 이미지상에 주어진 Edge Chain Code들을 그리는 함수
+- MilLibrary의 Migra.. 함수를 사용하며 그림.
+@return	BOOL 연산 실패여부 반환
+@see	:
+@date	:2011.3.12
+//////////////////////////////////////////////////////////////
+
+</member><member name="M:MilTestVB.MilImageProcessor.DrawRect(Matrox.MatroxImagingLibrary.MIL_ID,System.Drawing.Rectangle,System.Drawing.Color)">
+//////////////////////////////////////////////////////////////
+@author	:LG.PRI.WOOCHUL
+@brief	: 이미지상에 RECT그리는 함수
+- MilLibrary의 Migra.. 함수를 사용하며 그림.
+@return	BOOL 연산 실패여부 반환
+@see	:
+@date	:2010.11.18
+//////////////////////////////////////////////////////////////
+
+</member><member name="P:MilTestVB.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:MilTestVB.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:MilTestVB.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

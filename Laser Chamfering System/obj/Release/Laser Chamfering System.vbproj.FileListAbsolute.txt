@@ -1,0 +1,159 @@
+C:\Projects\Chamfering\20160907_Chamfering_ver1.30f (2)\Laser Chamfering System\bin\Release\Laser Chamfering System.exe
+C:\Projects\Chamfering\20160907_Chamfering_ver1.30f (2)\Laser Chamfering System\bin\Release\Laser Chamfering System.pdb
+C:\Projects\Chamfering\20160907_Chamfering_ver1.30f (2)\Laser Chamfering System\bin\Release\Laser Chamfering System.xml
+C:\Projects\Chamfering\20160907_Chamfering_ver1.30f (2)\Laser Chamfering System\bin\Release\AxInterop.Matrox.ActiveMIL.BlobAnalysis.dll
+C:\Projects\Chamfering\20160907_Chamfering_ver1.30f (2)\Laser Chamfering System\bin\Release\AxInterop.Matrox.ActiveMIL.ImageProcessing.dll
+C:\Projects\Chamfering\20160907_Chamfering_ver1.30f (2)\Laser Chamfering System\bin\Release\AxInterop.Matrox.ActiveMIL.ModelFinder.dll
+C:\Projects\Chamfering\20160907_Chamfering_ver1.30f (2)\Laser Chamfering System\bin\Release\GetCoreTempInfoNET.dll
+C:\Projects\Chamfering\20160907_Chamfering_ver1.30f (2)\Laser Chamfering System\bin\Release\Interop.Matrox.ActiveMIL.BlobAnalysis.dll
+C:\Projects\Chamfering\20160907_Chamfering_ver1.30f (2)\Laser Chamfering System\bin\Release\Interop.Matrox.ActiveMIL.Calibration.dll
+C:\Projects\Chamfering\20160907_Chamfering_ver1.30f (2)\Laser Chamfering System\bin\Release\Interop.Matrox.ActiveMIL.CharacterRecognition.dll
+C:\Projects\Chamfering\20160907_Chamfering_ver1.30f (2)\Laser Chamfering System\bin\Release\Interop.Matrox.ActiveMIL.Code.dll
+C:\Projects\Chamfering\20160907_Chamfering_ver1.30f (2)\Laser Chamfering System\bin\Release\Interop.Matrox.ActiveMIL.CodeReader.dll
+C:\Projects\Chamfering\20160907_Chamfering_ver1.30f (2)\Laser Chamfering System\bin\Release\Interop.Matrox.ActiveMIL.dll
+C:\Projects\Chamfering\20160907_Chamfering_ver1.30f (2)\Laser Chamfering System\bin\Release\Interop.Matrox.ActiveMIL.EdgeFinder.dll
+C:\Projects\Chamfering\20160907_Chamfering_ver1.30f (2)\Laser Chamfering System\bin\Release\Interop.Matrox.ActiveMIL.ImageProcessing.dll
+C:\Projects\Chamfering\20160907_Chamfering_ver1.30f (2)\Laser Chamfering System\bin\Release\Interop.Matrox.ActiveMIL.Measurement.dll
+C:\Projects\Chamfering\20160907_Chamfering_ver1.30f (2)\Laser Chamfering System\bin\Release\Interop.Matrox.ActiveMIL.Metrology.dll
+C:\Projects\Chamfering\20160907_Chamfering_ver1.30f (2)\Laser Chamfering System\bin\Release\Interop.Matrox.ActiveMIL.ModelFinder.dll
+C:\Projects\Chamfering\20160907_Chamfering_ver1.30f (2)\Laser Chamfering System\bin\Release\Interop.Matrox.ActiveMIL.PatternMatching.dll
+C:\Projects\Chamfering\20160907_Chamfering_ver1.30f (2)\Laser Chamfering System\bin\Release\Interop.Matrox.ActiveMIL.Registration.dll
+C:\Projects\Chamfering\20160907_Chamfering_ver1.30f (2)\Laser Chamfering System\bin\Release\Interop.Matrox.ActiveMIL.StringReader.dll
+C:\Projects\Chamfering\20160907_Chamfering_ver1.30f (2)\Laser Chamfering System\obj\Release\ResolveAssemblyReference.cache
+C:\Projects\Chamfering\20160907_Chamfering_ver1.30f (2)\Laser Chamfering System\obj\Release\Laser Chamfering System.vbproj.ResolveComReference.cache
+C:\Projects\Chamfering\20160907_Chamfering_ver1.30f (2)\Laser Chamfering System\obj\Release\Laser_Chamfering_System.frmInit.resources
+C:\Projects\Chamfering\20160907_Chamfering_ver1.30f (2)\Laser Chamfering System\obj\Release\Laser_Chamfering_System.frmLaserAutoFucusCheck.resources
+C:\Projects\Chamfering\20160907_Chamfering_ver1.30f (2)\Laser Chamfering System\obj\Release\Laser_Chamfering_System.frmLog.resources
+C:\Projects\Chamfering\20160907_Chamfering_ver1.30f (2)\Laser Chamfering System\obj\Release\Laser_Chamfering_System.frmMachine.resources
+C:\Projects\Chamfering\20160907_Chamfering_ver1.30f (2)\Laser Chamfering System\obj\Release\Laser_Chamfering_System.frmMarkDataEditer.resources
+C:\Projects\Chamfering\20160907_Chamfering_ver1.30f (2)\Laser Chamfering System\obj\Release\Laser_Chamfering_System.frmMSG.resources
+C:\Projects\Chamfering\20160907_Chamfering_ver1.30f (2)\Laser Chamfering System\obj\Release\Laser_Chamfering_System.frmRecipe.resources
+C:\Projects\Chamfering\20160907_Chamfering_ver1.30f (2)\Laser Chamfering System\obj\Release\Laser_Chamfering_System.frmSequence.resources
+C:\Projects\Chamfering\20160907_Chamfering_ver1.30f (2)\Laser Chamfering System\obj\Release\Laser_Chamfering_System.frmSeqVision.resources
+C:\Projects\Chamfering\20160907_Chamfering_ver1.30f (2)\Laser Chamfering System\obj\Release\Laser_Chamfering_System.frmSetting.resources
+C:\Projects\Chamfering\20160907_Chamfering_ver1.30f (2)\Laser Chamfering System\obj\Release\Laser_Chamfering_System.frmTopMenu.resources
+C:\Projects\Chamfering\20160907_Chamfering_ver1.30f (2)\Laser Chamfering System\obj\Release\Laser_Chamfering_System.frmVision.resources
+C:\Projects\Chamfering\20160907_Chamfering_ver1.30f (2)\Laser Chamfering System\obj\Release\Laser_Chamfering_System.frmVisonSetting.resources
+C:\Projects\Chamfering\20160907_Chamfering_ver1.30f (2)\Laser Chamfering System\obj\Release\Laser_Chamfering_System.MDI_MAIN.resources
+C:\Projects\Chamfering\20160907_Chamfering_ver1.30f (2)\Laser Chamfering System\obj\Release\Laser_Chamfering_System.Resources.resources
+C:\Projects\Chamfering\20160907_Chamfering_ver1.30f (2)\Laser Chamfering System\obj\Release\Laser Chamfering System.vbproj.GenerateResource.Cache
+C:\Projects\Chamfering\20160907_Chamfering_ver1.30f (2)\Laser Chamfering System\obj\Release\Laser Chamfering System.exe
+C:\Projects\Chamfering\20160907_Chamfering_ver1.30f (2)\Laser Chamfering System\obj\Release\Laser Chamfering System.xml
+C:\Projects\Chamfering\20160907_Chamfering_ver1.30f (2)\Laser Chamfering System\obj\Release\Laser Chamfering System.pdb
+C:\Projects\Chamfering\Trimming_ver_20160919\Laser Chamfering System\obj\Release\ResolveAssemblyReference.cache
+C:\Projects\Chamfering\Trimming_ver_20160919\Laser Chamfering System\obj\Release\Interop.Matrox.ActiveMIL.dll
+C:\Projects\Chamfering\Trimming_ver_20160919\Laser Chamfering System\obj\Release\Interop.Matrox.ActiveMIL.ImageProcessing.dll
+C:\Projects\Chamfering\Trimming_ver_20160919\Laser Chamfering System\obj\Release\AxInterop.Matrox.ActiveMIL.dll
+C:\Projects\Chamfering\Trimming_ver_20160919\Laser Chamfering System\obj\Release\AxInterop.Matrox.ActiveMIL.ImageProcessing.dll
+C:\Projects\Chamfering\Trimming_ver_20160919\Laser Chamfering System\obj\Release\Laser Chamfering System.vbproj.ResolveComReference.cache
+C:\Projects\Chamfering\Trimming_ver_20160919\Laser Chamfering System\obj\Release\Laser_Chamfering_System.frmEmpty.resources
+C:\Projects\Chamfering\Trimming_ver_20160919\Laser Chamfering System\obj\Release\Laser_Chamfering_System.frmInit.resources
+C:\Projects\Chamfering\Trimming_ver_20160919\Laser Chamfering System\obj\Release\Laser_Chamfering_System.frmLaserAutoFucusCheck.resources
+C:\Projects\Chamfering\Trimming_ver_20160919\Laser Chamfering System\obj\Release\Laser_Chamfering_System.frmLog.resources
+C:\Projects\Chamfering\Trimming_ver_20160919\Laser Chamfering System\obj\Release\Laser_Chamfering_System.frmMachine.resources
+C:\Projects\Chamfering\Trimming_ver_20160919\Laser Chamfering System\obj\Release\Laser_Chamfering_System.frmMarkDataEditer.resources
+C:\Projects\Chamfering\Trimming_ver_20160919\Laser Chamfering System\obj\Release\Laser_Chamfering_System.frmMSG.resources
+C:\Projects\Chamfering\Trimming_ver_20160919\Laser Chamfering System\obj\Release\Laser_Chamfering_System.frmRecipe.resources
+C:\Projects\Chamfering\Trimming_ver_20160919\Laser Chamfering System\obj\Release\Laser_Chamfering_System.frmSequence.resources
+C:\Projects\Chamfering\Trimming_ver_20160919\Laser Chamfering System\obj\Release\Laser_Chamfering_System.frmSeqVision.resources
+C:\Projects\Chamfering\Trimming_ver_20160919\Laser Chamfering System\obj\Release\Laser_Chamfering_System.frmSetting.resources
+C:\Projects\Chamfering\Trimming_ver_20160919\Laser Chamfering System\obj\Release\Laser_Chamfering_System.frmTopMenu.resources
+C:\Projects\Chamfering\Trimming_ver_20160919\Laser Chamfering System\obj\Release\Laser_Chamfering_System.frmVision.resources
+C:\Projects\Chamfering\Trimming_ver_20160919\Laser Chamfering System\obj\Release\Laser_Chamfering_System.frmVisonSetting.resources
+C:\Projects\Chamfering\Trimming_ver_20160919\Laser Chamfering System\obj\Release\Laser_Chamfering_System.MDI_MAIN.resources
+C:\Projects\Chamfering\Trimming_ver_20160919\Laser Chamfering System\obj\Release\Laser_Chamfering_System.Resources.resources
+C:\Projects\Chamfering\Trimming_ver_20160919\Laser Chamfering System\obj\Release\Laser_Chamfering_System.ctrlAlignMarkSetting.resources
+C:\Projects\Chamfering\Trimming_ver_20160919\Laser Chamfering System\obj\Release\Laser_Chamfering_System.ctrlLaserSetting.resources
+C:\Projects\Chamfering\Trimming_ver_20160919\Laser Chamfering System\obj\Release\Laser_Chamfering_System.ctrlScannerSetting.resources
+C:\Projects\Chamfering\Trimming_ver_20160919\Laser Chamfering System\obj\Release\Laser_Chamfering_System.ctrlSeqVision.resources
+C:\Projects\Chamfering\Trimming_ver_20160919\Laser Chamfering System\obj\Release\Laser Chamfering System.vbproj.GenerateResource.Cache
+C:\Projects\Chamfering\Trimming_ver_20160919\Laser Chamfering System\bin\Release\Laser Chamfering System.exe
+C:\Projects\Chamfering\Trimming_ver_20160919\Laser Chamfering System\bin\Release\Laser Chamfering System.pdb
+C:\Projects\Chamfering\Trimming_ver_20160919\Laser Chamfering System\bin\Release\Laser Chamfering System.xml
+C:\Projects\Chamfering\Trimming_ver_20160919\Laser Chamfering System\bin\Release\Interop.Matrox.ActiveMIL.dll
+C:\Projects\Chamfering\Trimming_ver_20160919\Laser Chamfering System\bin\Release\Interop.Matrox.ActiveMIL.BlobAnalysis.dll
+C:\Projects\Chamfering\Trimming_ver_20160919\Laser Chamfering System\bin\Release\Interop.Matrox.ActiveMIL.ImageProcessing.dll
+C:\Projects\Chamfering\Trimming_ver_20160919\Laser Chamfering System\bin\Release\Interop.Matrox.ActiveMIL.ModelFinder.dll
+C:\Projects\Chamfering\Trimming_ver_20160919\Laser Chamfering System\bin\Release\Interop.Matrox.ActiveMIL.PatternMatching.dll
+C:\Projects\Chamfering\Trimming_ver_20160919\Laser Chamfering System\bin\Release\Interop.Matrox.ActiveMIL.StringReader.dll
+C:\Projects\Chamfering\Trimming_ver_20160919\Laser Chamfering System\bin\Release\AxInterop.Matrox.ActiveMIL.dll
+C:\Projects\Chamfering\Trimming_ver_20160919\Laser Chamfering System\bin\Release\AxInterop.Matrox.ActiveMIL.BlobAnalysis.dll
+C:\Projects\Chamfering\Trimming_ver_20160919\Laser Chamfering System\bin\Release\AxInterop.Matrox.ActiveMIL.ImageProcessing.dll
+C:\Projects\Chamfering\Trimming_ver_20160919\Laser Chamfering System\bin\Release\AxInterop.Matrox.ActiveMIL.ModelFinder.dll
+C:\Projects\Chamfering\Trimming_ver_20160919\Laser Chamfering System\bin\Release\AxInterop.Matrox.ActiveMIL.PatternMatching.dll
+C:\Projects\Chamfering\Trimming_ver_20160919\Laser Chamfering System\bin\Release\AxInterop.Matrox.ActiveMIL.StringReader.dll
+C:\Projects\Chamfering\Trimming_ver_20160919\Laser Chamfering System\obj\Release\Interop.Matrox.ActiveMIL.BlobAnalysis.dll
+C:\Projects\Chamfering\Trimming_ver_20160919\Laser Chamfering System\obj\Release\Interop.Matrox.ActiveMIL.ModelFinder.dll
+C:\Projects\Chamfering\Trimming_ver_20160919\Laser Chamfering System\obj\Release\Interop.Matrox.ActiveMIL.PatternMatching.dll
+C:\Projects\Chamfering\Trimming_ver_20160919\Laser Chamfering System\obj\Release\Interop.Matrox.ActiveMIL.StringReader.dll
+C:\Projects\Chamfering\Trimming_ver_20160919\Laser Chamfering System\obj\Release\AxInterop.Matrox.ActiveMIL.BlobAnalysis.dll
+C:\Projects\Chamfering\Trimming_ver_20160919\Laser Chamfering System\obj\Release\AxInterop.Matrox.ActiveMIL.ModelFinder.dll
+C:\Projects\Chamfering\Trimming_ver_20160919\Laser Chamfering System\obj\Release\AxInterop.Matrox.ActiveMIL.PatternMatching.dll
+C:\Projects\Chamfering\Trimming_ver_20160919\Laser Chamfering System\obj\Release\AxInterop.Matrox.ActiveMIL.StringReader.dll
+C:\Projects\Chamfering\Trimming_ver_20160919\Laser Chamfering System\obj\Release\Laser Chamfering System.exe
+C:\Projects\Chamfering\Trimming_ver_20160919\Laser Chamfering System\obj\Release\Laser Chamfering System.xml
+C:\Projects\Chamfering\Trimming_ver_20160919\Laser Chamfering System\obj\Release\Laser Chamfering System.pdb
+C:\Projects\Chamfering\Trimming_ver_20160922_1\Laser Chamfering System\obj\Release\Interop.Matrox.ActiveMIL.dll
+C:\Projects\Chamfering\Trimming_ver_20160922_1\Laser Chamfering System\obj\Release\Interop.Matrox.ActiveMIL.BlobAnalysis.dll
+C:\Projects\Chamfering\Trimming_ver_20160922_1\Laser Chamfering System\obj\Release\Interop.Matrox.ActiveMIL.ImageProcessing.dll
+C:\Projects\Chamfering\Trimming_ver_20160922_1\Laser Chamfering System\obj\Release\Interop.Matrox.ActiveMIL.ModelFinder.dll
+C:\Projects\Chamfering\Trimming_ver_20160922_1\Laser Chamfering System\obj\Release\Interop.Matrox.ActiveMIL.PatternMatching.dll
+C:\Projects\Chamfering\Trimming_ver_20160922_1\Laser Chamfering System\obj\Release\Interop.Matrox.ActiveMIL.StringReader.dll
+C:\Projects\Chamfering\Trimming_ver_20160922_1\Laser Chamfering System\obj\Release\AxInterop.Matrox.ActiveMIL.dll
+C:\Projects\Chamfering\Trimming_ver_20160922_1\Laser Chamfering System\obj\Release\AxInterop.Matrox.ActiveMIL.BlobAnalysis.dll
+C:\Projects\Chamfering\Trimming_ver_20160922_1\Laser Chamfering System\obj\Release\AxInterop.Matrox.ActiveMIL.ImageProcessing.dll
+C:\Projects\Chamfering\Trimming_ver_20160922_1\Laser Chamfering System\obj\Release\AxInterop.Matrox.ActiveMIL.ModelFinder.dll
+C:\Projects\Chamfering\Trimming_ver_20160922_1\Laser Chamfering System\obj\Release\AxInterop.Matrox.ActiveMIL.PatternMatching.dll
+C:\Projects\Chamfering\Trimming_ver_20160922_1\Laser Chamfering System\obj\Release\AxInterop.Matrox.ActiveMIL.StringReader.dll
+C:\Projects\Chamfering\Trimming_ver_20160922_1\Laser Chamfering System\obj\Release\Laser Chamfering System.vbproj.ResolveComReference.cache
+D:\pcw\Trimming_pcw_1018_merge\Laser Chamfering System\bin\Release\Laser Chamfering System.exe.config
+D:\pcw\Trimming_pcw_1018_merge\Laser Chamfering System\obj\Release\Laser Chamfering System.vbproj.ResolveComReference.cache
+D:\pcw\Trimming_pcw_1018_merge\Laser Chamfering System\bin\Release\Laser Chamfering System.exe
+D:\pcw\Trimming_pcw_1018_merge\Laser Chamfering System\bin\Release\Laser Chamfering System.pdb
+D:\pcw\Trimming_pcw_1018_merge\Laser Chamfering System\bin\Release\Laser Chamfering System.xml
+D:\pcw\Trimming_pcw_1018_merge\Laser Chamfering System\bin\Release\GetCoreTempInfoNET.dll
+D:\pcw\Trimming_pcw_1018_merge\Laser Chamfering System\bin\Release\Matrox.MatroxImagingLibrary.dll
+D:\pcw\Trimming_pcw_1018_merge\Laser Chamfering System\bin\Release\MyGigEDLL.dll
+D:\pcw\Trimming_pcw_1018_merge\Laser Chamfering System\bin\Release\PvDotNet.dll
+D:\pcw\Trimming_pcw_1018_merge\Laser Chamfering System\bin\Release\Matrox.MatroxImagingLibrary.xml
+D:\pcw\Trimming_pcw_1018_merge\Laser Chamfering System\bin\Release\MyGigEDLL.pdb
+D:\pcw\Trimming_pcw_1018_merge\Laser Chamfering System\bin\Release\PvDotNet.xml
+D:\pcw\Trimming_pcw_1018_merge\Laser Chamfering System\obj\Release\Laser_Chamfering_System.frmEmpty.resources
+D:\pcw\Trimming_pcw_1018_merge\Laser Chamfering System\obj\Release\Laser_Chamfering_System.frmInit.resources
+D:\pcw\Trimming_pcw_1018_merge\Laser Chamfering System\obj\Release\Laser_Chamfering_System.frmLaserAutoFucusCheck.resources
+D:\pcw\Trimming_pcw_1018_merge\Laser Chamfering System\obj\Release\Laser_Chamfering_System.frmLog.resources
+D:\pcw\Trimming_pcw_1018_merge\Laser Chamfering System\obj\Release\Laser_Chamfering_System.frmMachine.resources
+D:\pcw\Trimming_pcw_1018_merge\Laser Chamfering System\obj\Release\Laser_Chamfering_System.frmMarkDataEditer.resources
+D:\pcw\Trimming_pcw_1018_merge\Laser Chamfering System\obj\Release\Laser_Chamfering_System.frmMSG.resources
+D:\pcw\Trimming_pcw_1018_merge\Laser Chamfering System\obj\Release\Laser_Chamfering_System.frmRecipe.resources
+D:\pcw\Trimming_pcw_1018_merge\Laser Chamfering System\obj\Release\Laser_Chamfering_System.frmSequence.resources
+D:\pcw\Trimming_pcw_1018_merge\Laser Chamfering System\obj\Release\Laser_Chamfering_System.frmSeqVision.resources
+D:\pcw\Trimming_pcw_1018_merge\Laser Chamfering System\obj\Release\Laser_Chamfering_System.frmSetting.resources
+D:\pcw\Trimming_pcw_1018_merge\Laser Chamfering System\obj\Release\Laser_Chamfering_System.frmSimulTest.resources
+D:\pcw\Trimming_pcw_1018_merge\Laser Chamfering System\obj\Release\Laser_Chamfering_System.frmTopMenu.resources
+D:\pcw\Trimming_pcw_1018_merge\Laser Chamfering System\obj\Release\Laser_Chamfering_System.frmVision.resources
+D:\pcw\Trimming_pcw_1018_merge\Laser Chamfering System\obj\Release\Laser_Chamfering_System.frmVisonSetting.resources
+D:\pcw\Trimming_pcw_1018_merge\Laser Chamfering System\obj\Release\Laser_Chamfering_System.LiveImageWnd.resources
+D:\pcw\Trimming_pcw_1018_merge\Laser Chamfering System\obj\Release\Laser_Chamfering_System.MilImageWnd.resources
+D:\pcw\Trimming_pcw_1018_merge\Laser Chamfering System\obj\Release\Laser_Chamfering_System.MDI_MAIN.resources
+D:\pcw\Trimming_pcw_1018_merge\Laser Chamfering System\obj\Release\Laser_Chamfering_System.ctrlPlcBitdata.resources
+D:\pcw\Trimming_pcw_1018_merge\Laser Chamfering System\obj\Release\Laser_Chamfering_System.ctrlPcBitdata.resources
+D:\pcw\Trimming_pcw_1018_merge\Laser Chamfering System\obj\Release\Laser_Chamfering_System.ctrlRecipeAlignMark.resources
+D:\pcw\Trimming_pcw_1018_merge\Laser Chamfering System\obj\Release\Laser_Chamfering_System.ctrlSelection.resources
+D:\pcw\Trimming_pcw_1018_merge\Laser Chamfering System\obj\Release\Laser_Chamfering_System.ctrlSettingCalib.resources
+D:\pcw\Trimming_pcw_1018_merge\Laser Chamfering System\obj\Release\Laser_Chamfering_System.ctrlSettingPlcInterface.resources
+D:\pcw\Trimming_pcw_1018_merge\Laser Chamfering System\obj\Release\Laser_Chamfering_System.ctrlSettingSysParam.resources
+D:\pcw\Trimming_pcw_1018_merge\Laser Chamfering System\obj\Release\Laser_Chamfering_System.Resources.resources
+D:\pcw\Trimming_pcw_1018_merge\Laser Chamfering System\obj\Release\Laser_Chamfering_System.ctrlAlignMarkSetting.resources
+D:\pcw\Trimming_pcw_1018_merge\Laser Chamfering System\obj\Release\Laser_Chamfering_System.ctrlSettingLaser.resources
+D:\pcw\Trimming_pcw_1018_merge\Laser Chamfering System\obj\Release\Laser_Chamfering_System.ctrlRecipeAlign.resources
+D:\pcw\Trimming_pcw_1018_merge\Laser Chamfering System\obj\Release\Laser_Chamfering_System.ctrlRecipeMarkEditor.resources
+D:\pcw\Trimming_pcw_1018_merge\Laser Chamfering System\obj\Release\Laser_Chamfering_System.ctrlOneVision.resources
+D:\pcw\Trimming_pcw_1018_merge\Laser Chamfering System\obj\Release\Laser_Chamfering_System.ctrlRecipeMarking.resources
+D:\pcw\Trimming_pcw_1018_merge\Laser Chamfering System\obj\Release\Laser_Chamfering_System.ctrlSettingScanner.resources
+D:\pcw\Trimming_pcw_1018_merge\Laser Chamfering System\obj\Release\Laser_Chamfering_System.ctrlSeqVision.resources
+D:\pcw\Trimming_pcw_1018_merge\Laser Chamfering System\obj\Release\Laser Chamfering System.vbproj.GenerateResource.Cache
+D:\pcw\Trimming_pcw_1018_merge\Laser Chamfering System\obj\Release\Laser Chamfering System.exe
+D:\pcw\Trimming_pcw_1018_merge\Laser Chamfering System\obj\Release\Laser Chamfering System.xml
+D:\pcw\Trimming_pcw_1018_merge\Laser Chamfering System\obj\Release\Laser Chamfering System.pdb
+D:\pcw\Trimming_pcw_1018_merge\Laser Chamfering System\obj\Release\Laser Chamfering System.vbprojResolveAssemblyReference.cache

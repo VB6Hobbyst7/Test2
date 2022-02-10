@@ -1,0 +1,849 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{4302676D-C942-430D-9531-4A2A870E4701}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Laser_Chamfering_System.My.MyApplication</StartupObject>
+    <RootNamespace>Laser_Chamfering_System</RootNamespace>
+    <AssemblyName>Laser Chamfering System</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5.1</TargetFrameworkVersion>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionStrict>Off</OptionStrict>
+    <OptionInfer>On</OptionInfer>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Laser Chamfering System.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022,42353,42354,42355</NoWarn>
+    <DefineConstants>SIMUL=0, Test=1, HEAD_2=0,</DefineConstants>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Laser Chamfering System.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022,42353,42354,42355</NoWarn>
+    <DefineConstants>SIMUL=0</DefineConstants>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>SIMUL=0, TEST=1</DefineConstants>
+    <DocumentationFile>Laser Chamfering System.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022,42353,42354,42355</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <CodeAnalysisLogFile>bin\Debug\Laser Chamfering System.exe.CodeAnalysisLog.xml</CodeAnalysisLogFile>
+    <CodeAnalysisUseTypeNameInSuppression>true</CodeAnalysisUseTypeNameInSuppression>
+    <CodeAnalysisModuleSuppressionsFile>GlobalSuppressions.vb</CodeAnalysisModuleSuppressionsFile>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+    <CodeAnalysisRuleSetDirectories>;C:\Program Files\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\\Rule Sets</CodeAnalysisRuleSetDirectories>
+    <CodeAnalysisRuleDirectories>;C:\Program Files\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\FxCop\\Rules</CodeAnalysisRuleDirectories>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>SIMUL=0, TEST=1</DefineConstants>
+    <DocumentationFile>Laser Chamfering System.xml</DocumentationFile>
+    <Optimize>true</Optimize>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022,42353,42354,42355</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <CodeAnalysisLogFile>bin\Release\Laser Chamfering System.exe.CodeAnalysisLog.xml</CodeAnalysisLogFile>
+    <CodeAnalysisUseTypeNameInSuppression>true</CodeAnalysisUseTypeNameInSuppression>
+    <CodeAnalysisModuleSuppressionsFile>GlobalSuppressions.vb</CodeAnalysisModuleSuppressionsFile>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+    <CodeAnalysisRuleSetDirectories>;C:\Program Files\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\\Rule Sets</CodeAnalysisRuleSetDirectories>
+    <CodeAnalysisRuleDirectories>;C:\Program Files\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\FxCop\\Rules</CodeAnalysisRuleDirectories>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignAssembly>false</SignAssembly>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <DefineConstants>SIMUL=0, Test=1, HEAD_2=0,</DefineConstants>
+    <DocumentationFile>Laser Chamfering System.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022,42353,42354,42355</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DefineConstants>SIMUL=0</DefineConstants>
+    <DocumentationFile>Laser Chamfering System.xml</DocumentationFile>
+    <Optimize>true</Optimize>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022,42353,42354,42355</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AxInterop.AXTMESSENGERLib, Version=1.1.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>dll\AxInterop.AXTMESSENGERLib.dll</HintPath>
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="GetCoreTempInfoNET">
+      <HintPath>dll\GetCoreTempInfoNET.dll</HintPath>
+    </Reference>
+    <Reference Include="Interop.ActUtlType64Lib">
+      <HintPath>dll\Interop.ActUtlType64Lib.dll</HintPath>
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Interop.ActUtlTypeLib">
+      <HintPath>dll\Interop.ActUtlTypeLib.dll</HintPath>
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Interop.AXTMESSENGERLib, Version=1.1.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+      <HintPath>dll\Interop.AXTMESSENGERLib.dll</HintPath>
+    </Reference>
+    <Reference Include="Matrox.MatroxImagingLibrary, Version=9.0.1949.1, Culture=neutral, PublicKeyToken=5a83d419d44a9d98, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files\Matrox Imaging\MIL\MIL.NET\Matrox.MatroxImagingLibrary.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic.Compatibility" />
+    <Reference Include="ModigmClientLibrary, Version=1.2.0.0, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>dll\ModigmClientLibrary.DLL</HintPath>
+    </Reference>
+    <Reference Include="ModigmClientWrapper, Version=1.2.0.0, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>dll\ModigmClientWrapper.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Class\clsAlarmMonitoringSequence.vb" />
+    <Compile Include="Class\clsCamera.vb" />
+    <Compile Include="Class\clsDisplacePlcThread.vb" />
+    <Compile Include="Class\clsLDLT.vb" />
+    <Compile Include="Class\clsRTC6.vb" />
+    <Compile Include="Class\clsRTC6Thread.vb" />
+    <Compile Include="Class\clsVisionFindMarkCenter.vb" />
+    <Compile Include="Class\MxComponent.vb" />
+    <Compile Include="Form\frmAutoFocus.Designer.vb">
+      <DependentUpon>frmAutoFocus.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\frmAutoFocus.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\frmCamResolution.designer.vb">
+      <DependentUpon>frmCamResolution.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\frmCamResolution.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\frmSubMark.Designer.vb">
+      <DependentUpon>frmSubMark.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\frmSubMark.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Module\modSubMark.vb" />
+    <Compile Include="UserCtrl\ApplicationEvents.vb" />
+    <Compile Include="AXL\AXA.vb" />
+    <Compile Include="AXL\AXC.vb" />
+    <Compile Include="AXL\AXD.vb" />
+    <Compile Include="AXL\AXHD.vb" />
+    <Compile Include="AXL\AXHS.vb" />
+    <Compile Include="AXL\AXL.vb" />
+    <Compile Include="AXL\AXM.vb" />
+    <Compile Include="Class\clsChiller.vb" />
+    <Compile Include="Class\clsChillerThread.vb" />
+    <Compile Include="Class\clsComm.vb" />
+    <Compile Include="Class\clsDustCollector.vb" />
+    <Compile Include="Class\clsLaser.vb" />
+    <Compile Include="Class\clsLkg3001v.vb" />
+    <Compile Include="Class\clsLkg3001vThread.vb" />
+    <Compile Include="Class\clsLog.vb" />
+    <Compile Include="Class\clsLS_Inverter.vb" />
+    <Compile Include="Class\clsLVSCN40X.vb" />
+    <Compile Include="Class\clsMelsec.vb" />
+    <Compile Include="Class\clsPowerMeter.vb" />
+    <Compile Include="Class\clsRTC5.vb" />
+    <Compile Include="Class\clsSequence_New.vb" />
+    <Compile Include="Class\clsStatus_CPU.vb" />
+    <Compile Include="Class\clsTimer.vb" />
+    <Compile Include="Class\MilImageProcessor.vb" />
+    <Compile Include="Class\MilInterface.vb" />
+    <Compile Include="Class\Utility.vb" />
+    <Compile Include="Class\clsPowerMeterThread.vb" />
+    <Compile Include="Class\clsRTC5Thread.vb" />
+    <Compile Include="Class\clsBeamProfiler.vb" />
+    <Compile Include="Class\clsOperationSequence.vb" />
+    <Compile Include="Form\AlignMarkWnd.Designer.vb">
+      <DependentUpon>AlignMarkWnd.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\AlignMarkWnd.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\frmAlarmLog.Designer.vb">
+      <DependentUpon>frmAlarmLog.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\frmAlarmLog.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\frmAlignMarkSetting.Designer.vb">
+      <DependentUpon>frmAlignMarkSetting.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\frmAlignMarkSetting.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\frmEmpty.Designer.vb">
+      <DependentUpon>frmEmpty.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\frmEmpty.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\frmInit.Designer.vb">
+      <DependentUpon>frmInit.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\frmInit.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\frmLaserAutoFucusCheck.Designer.vb">
+      <DependentUpon>frmLaserAutoFucusCheck.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\frmLaserAutoFucusCheck.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\frmLog.Designer.vb">
+      <DependentUpon>frmLog.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\frmLog.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\frmLogIn.Designer.vb">
+      <DependentUpon>frmLogIn.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\frmLogIn.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\frmMachine.Designer.vb">
+      <DependentUpon>frmMachine.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\frmMachine.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\frmMarkChangeMSG.Designer.vb">
+      <DependentUpon>frmMarkChangeMSG.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\frmMarkChangeMSG.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\frmMarkDataEditer.Designer.vb">
+      <DependentUpon>frmMarkDataEditer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\frmMarkDataEditer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\frmMSG.Designer.vb">
+      <DependentUpon>frmMSG.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\frmMSG.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\frmRecipe.Designer.vb">
+      <DependentUpon>frmRecipe.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\frmRecipe.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\frmRunStatus.Designer.vb">
+      <DependentUpon>frmRunStatus.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\frmRunStatus.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\frmSequence.Designer.vb">
+      <DependentUpon>frmSequence.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\frmSequence.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\frmSeqVision.Designer.vb">
+      <DependentUpon>frmSeqVision.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\frmSeqVision.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\frmSetting.Designer.vb">
+      <DependentUpon>frmSetting.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\frmSetting.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\frmSimulTest.Designer.vb">
+      <DependentUpon>frmSimulTest.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\frmSimulTest.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\frmTopMenu.Designer.vb">
+      <DependentUpon>frmTopMenu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\frmTopMenu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\frmVision.Designer.vb">
+      <DependentUpon>frmVision.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\frmVision.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\frmVisionLightParam.Designer.vb">
+      <DependentUpon>frmVisionLightParam.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\frmVisionLightParam.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\frmVisonSetting.Designer.vb">
+      <DependentUpon>frmVisonSetting.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\frmVisonSetting.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\LiveImageWnd.Designer.vb">
+      <DependentUpon>LiveImageWnd.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\LiveImageWnd.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\MilImageWnd.Designer.vb">
+      <DependentUpon>MilImageWnd.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\MilImageWnd.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\frmAlarm.Designer.vb">
+      <DependentUpon>frmAlarm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\frmAlarm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\frmDigitalIO.Designer.vb">
+      <DependentUpon>frmDigitalIO.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\frmDigitalIO.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\frmSettingModigm.Designer.vb">
+      <DependentUpon>frmSettingModigm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\frmSettingModigm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\frmAlignDataView.Designer.vb">
+      <DependentUpon>frmAlignDataView.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\frmAlignDataView.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MDI_MAIN.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MDI_MAIN.Designer.vb">
+      <DependentUpon>MDI_MAIN.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Module\modAlarmTable.vb" />
+    <Compile Include="Module\modParam.vb" />
+    <Compile Include="Module\modPowerMeterLog.vb" />
+    <Compile Include="Module\modAlignData.vb" />
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="setLan.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>setLan.resx</DependentUpon>
+    </Compile>
+    <Compile Include="setLan.en.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>setLan.en.resx</DependentUpon>
+    </Compile>
+    <Compile Include="setLan.vi1.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>setLan.vi.resx</DependentUpon>
+    </Compile>
+    <Compile Include="UserCtrl\ctlUseLightTimeData.Designer.vb">
+      <DependentUpon>ctlUseLightTimeData.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserCtrl\ctlUseLightTimeData.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UserCtrl\ctrlDisplacePart.Designer.vb">
+      <DependentUpon>ctrlDisplacePart.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserCtrl\ctrlDisplacePart.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserCtrl\ctrlPLCBit.Designer.vb">
+      <DependentUpon>ctrlPLCBit.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserCtrl\ctrlPLCBit.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserCtrl\ctrlPlcBitdata.Designer.vb">
+      <DependentUpon>ctrlPlcBitdata.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserCtrl\ctrlPlcBitdata.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserCtrl\ctrlPcBitdata.Designer.vb">
+      <DependentUpon>ctrlPcBitdata.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserCtrl\ctrlPcBitdata.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserCtrl\ctrlRecipeAlignMark.Designer.vb">
+      <DependentUpon>ctrlRecipeAlignMark.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserCtrl\ctrlRecipeAlignMark.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserCtrl\ctrlRecipeMarkEditor_Old.Designer.vb">
+      <DependentUpon>ctrlRecipeMarkEditor_Old.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserCtrl\ctrlRecipeMarkEditor_Old.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserCtrl\ctrlSelection.Designer.vb">
+      <DependentUpon>ctrlSelection.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserCtrl\ctrlSelection.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserCtrl\ctrlSettingCalib.Designer.vb">
+      <DependentUpon>ctrlSettingCalib.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserCtrl\ctrlSettingCalib.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserCtrl\ctrlSettingDisplace.Designer.vb">
+      <DependentUpon>ctrlSettingDisplace.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserCtrl\ctrlSettingDisplace.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserCtrl\ctrlSettingLaser.Designer.vb">
+      <DependentUpon>ctrlSettingLaser.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserCtrl\ctrlSettingLaser.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserCtrl\ctrlSettingPlcInterface.Designer.vb">
+      <DependentUpon>ctrlSettingPlcInterface.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserCtrl\ctrlSettingPlcInterface.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserCtrl\ctrlSettingSysParam.Designer.vb">
+      <DependentUpon>ctrlSettingSysParam.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserCtrl\ctrlSettingSysParam.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Module\modPub.vb" />
+    <Compile Include="Module\modRecipe.vb" />
+    <Compile Include="Module\modSequence.vb" />
+    <Compile Include="Module\modVision.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="UserCtrl\ctrlAlignMarkSetting.Designer.vb">
+      <DependentUpon>ctrlAlignMarkSetting.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserCtrl\ctrlAlignMarkSetting.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserCtrl\ctrlRecipeAlign.Designer.vb">
+      <DependentUpon>ctrlRecipeAlign.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserCtrl\ctrlRecipeAlign.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserCtrl\ctrlRecipeMarkEditor.Designer.vb">
+      <DependentUpon>ctrlRecipeMarkEditor.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserCtrl\ctrlRecipeMarkEditor.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserCtrl\ctrlOneVision.Designer.vb">
+      <DependentUpon>ctrlOneVision.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserCtrl\ctrlOneVision.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserCtrl\ctrlRecipeMarking.Designer.vb">
+      <DependentUpon>ctrlRecipeMarking.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserCtrl\ctrlRecipeMarking.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserCtrl\ctrlSettingScanner.Designer.vb">
+      <DependentUpon>ctrlSettingScanner.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserCtrl\ctrlSettingScanner.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserCtrl\ctrlSeqVision.Designer.vb">
+      <DependentUpon>ctrlSeqVision.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserCtrl\ctrlSeqVision.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Form\AlignMarkWnd.resx">
+      <DependentUpon>AlignMarkWnd.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\frmAlarmLog.resx">
+      <DependentUpon>frmAlarmLog.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\frmAlignMarkSetting.resx">
+      <DependentUpon>frmAlignMarkSetting.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\frmAutoFocus.resx">
+      <DependentUpon>frmAutoFocus.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\frmCamResolution.resx">
+      <DependentUpon>frmCamResolution.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\frmEmpty.resx">
+      <DependentUpon>frmEmpty.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\frmInit.resx">
+      <DependentUpon>frmInit.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\frmLaserAutoFucusCheck.resx">
+      <DependentUpon>frmLaserAutoFucusCheck.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\frmLog.resx">
+      <DependentUpon>frmLog.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\frmLogIn.resx">
+      <DependentUpon>frmLogIn.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\frmMachine.resx">
+      <DependentUpon>frmMachine.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\frmMarkChangeMSG.resx">
+      <DependentUpon>frmMarkChangeMSG.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\frmMarkDataEditer.resx">
+      <DependentUpon>frmMarkDataEditer.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\frmMSG.resx">
+      <DependentUpon>frmMSG.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\frmRecipe.resx">
+      <DependentUpon>frmRecipe.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\frmRunStatus.resx">
+      <DependentUpon>frmRunStatus.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\frmSequence.resx">
+      <DependentUpon>frmSequence.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\frmSeqVision.resx">
+      <DependentUpon>frmSeqVision.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\frmSetting.resx">
+      <DependentUpon>frmSetting.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\frmSimulTest.resx">
+      <DependentUpon>frmSimulTest.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\frmSubMark.resx">
+      <DependentUpon>frmSubMark.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\frmTopMenu.resx">
+      <DependentUpon>frmTopMenu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\frmVision.resx">
+      <DependentUpon>frmVision.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\frmVisionLightParam.resx">
+      <DependentUpon>frmVisionLightParam.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\frmVisonSetting.resx">
+      <DependentUpon>frmVisonSetting.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\LiveImageWnd.resx">
+      <DependentUpon>LiveImageWnd.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\MilImageWnd.resx">
+      <DependentUpon>MilImageWnd.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\frmAlarm.resx">
+      <DependentUpon>frmAlarm.vb</DependentUpon>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\frmDigitalIO.resx">
+      <DependentUpon>frmDigitalIO.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\frmSettingModigm.resx">
+      <DependentUpon>frmSettingModigm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\frmAlignDataView.resx">
+      <DependentUpon>frmAlignDataView.vb</DependentUpon>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MDI_MAIN.resx">
+      <DependentUpon>MDI_MAIN.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="setLan.en.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>setLan.en.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="setLan.resx">
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>setLan.Designer.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="setLan.vi.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>setLan.vi1.Designer.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserCtrl\ctlUseLightTimeData.resx">
+      <DependentUpon>ctlUseLightTimeData.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserCtrl\ctrlDisplacePart.resx">
+      <DependentUpon>ctrlDisplacePart.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserCtrl\ctrlPLCBit.resx">
+      <DependentUpon>ctrlPLCBit.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserCtrl\ctrlPlcBitdata.resx">
+      <DependentUpon>ctrlPlcBitdata.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserCtrl\ctrlPcBitdata.resx">
+      <DependentUpon>ctrlPcBitdata.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserCtrl\ctrlRecipeAlignMark.resx">
+      <DependentUpon>ctrlRecipeAlignMark.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserCtrl\ctrlRecipeMarkEditor_Old.resx">
+      <DependentUpon>ctrlRecipeMarkEditor_Old.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserCtrl\ctrlSelection.resx">
+      <DependentUpon>ctrlSelection.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserCtrl\ctrlSettingCalib.resx">
+      <DependentUpon>ctrlSettingCalib.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserCtrl\ctrlSettingDisplace.resx">
+      <DependentUpon>ctrlSettingDisplace.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserCtrl\ctrlSettingLaser.resx">
+      <DependentUpon>ctrlSettingLaser.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserCtrl\ctrlSettingPlcInterface.resx">
+      <DependentUpon>ctrlSettingPlcInterface.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserCtrl\ctrlSettingSysParam.resx">
+      <DependentUpon>ctrlSettingSysParam.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserCtrl\ctrlAlignMarkSetting.resx">
+      <DependentUpon>ctrlAlignMarkSetting.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserCtrl\ctrlRecipeAlign.resx">
+      <DependentUpon>ctrlRecipeAlign.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserCtrl\ctrlRecipeMarkEditor.resx">
+      <DependentUpon>ctrlRecipeMarkEditor.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserCtrl\ctrlOneVision.resx">
+      <DependentUpon>ctrlOneVision.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserCtrl\ctrlRecipeMarking.resx">
+      <DependentUpon>ctrlRecipeMarking.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserCtrl\ctrlSettingScanner.resx">
+      <DependentUpon>ctrlSettingScanner.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserCtrl\ctrlSeqVision.resx">
+      <DependentUpon>ctrlSeqVision.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="My Project\app.manifest" />
+    <None Include="UserCtrl\app.config" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="stdole">
+      <Guid>{00020430-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0%28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0%28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\setLan.en.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bPic.bmp" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

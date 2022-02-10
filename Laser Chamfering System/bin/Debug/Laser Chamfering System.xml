@@ -1,0 +1,2275 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+LaserChamferingSystem
+</name>
+</assembly>
+<members>
+<member name="P:Laser_Chamfering_System.My.Resources.Resources.ResourceManager">
+	<summary>
+  이 클래스에서 사용하는 캐시된 ResourceManager 인스턴스를 반환합니다.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.Resources.Culture">
+	<summary>
+  이 강력한 형식의 리소스 클래스를 사용하여 모든 리소스 조회에 대한 현재 스레드의 CurrentUICulture
+  속성을 재정의합니다.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.Resources.bPic">
+	<summary>
+  System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+</summary>
+</member><member name="T:Laser_Chamfering_System.My.Resources.Resources">
+	<summary>
+  지역화된 문자열 등을 찾기 위한 강력한 형식의 리소스 클래스입니다.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.A1GlassonStage">
+	<summary>
+  Looks up a localized string similar to A1 Glass on Stage.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.A1PreAlignGlassonBuffer">
+	<summary>
+  Looks up a localized string similar to A1 PreAlign Glass on Buffer.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.A1TrimmingRequest">
+	<summary>
+  Looks up a localized string similar to A1 Trimming Request.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.A2GlassonStage">
+	<summary>
+  Looks up a localized string similar to A2 Glass on Stage.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.A2PreAlignGlassonBuffer">
+	<summary>
+  Looks up a localized string similar to A2 PreAlign Glass on Buffer.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.A2TrimmingRequest">
+	<summary>
+  Looks up a localized string similar to A2 Trimming Request.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.AAlignPositionMoveComplete">
+	<summary>
+  Looks up a localized string similar to A Align 위치이동 완료.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.AAlignUseable">
+	<summary>
+  Looks up a localized string similar to A Align Useable.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.AAxisXHomeComlete">
+	<summary>
+  Looks up a localized string similar to A Axis X Home 완료.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.AAxisXMoveComplete">
+	<summary>
+  Looks up a localized string similar to A Axis X 이동완료.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.AAxisXMoveRequest">
+	<summary>
+  Looks up a localized string similar to A Axis X Move Request.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.AAxisYHomeComlete">
+	<summary>
+  Looks up a localized string similar to A Axis Y Home 완료.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.AAxisYMoveComplete">
+	<summary>
+  Looks up a localized string similar to A Axis Y 이동완료.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.AAxisYMoveRequest">
+	<summary>
+  Looks up a localized string similar to A Axis Y Move Request.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.ACameraZMoveComplete">
+	<summary>
+  Looks up a localized string similar to A Camera Z 이동완료.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.ACameraZMoveRequest">
+	<summary>
+  Looks up a localized string similar to A Camera Z Move Request.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.AdjustAngle">
+	<summary>
+  Looks up a localized string similar to Adjust Angle.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.AdjustPosX">
+	<summary>
+  Looks up a localized string similar to Adjust Pos X.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.AdjustPosY">
+	<summary>
+  Looks up a localized string similar to Adjust Pos Y.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Alarm">
+	<summary>
+  Looks up a localized string similar to 알람.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.AlarmCode">
+	<summary>
+  Looks up a localized string similar to 알람 코드.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.AlarmDescript">
+	<summary>
+  Looks up a localized string similar to 알람 설명.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.AlarmName">
+	<summary>
+  Looks up a localized string similar to 알람 이름.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.AlarmType">
+	<summary>
+  Looks up a localized string similar to 알람 타입.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.ALaserBusy">
+	<summary>
+  Looks up a localized string similar to A Laser Busy.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Align">
+	<summary>
+  Looks up a localized string similar to Align.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.AlignA1Check">
+	<summary>
+  Looks up a localized string similar to 어라인 A1 체크.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.AlignA1Comp">
+	<summary>
+  Looks up a localized string similar to 어라인 1 완료..
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.AlignA1RequsetPLCB320">
+	<summary>
+  Looks up a localized string similar to 어라인 A1 Requset    [PLC B320].
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.AlignA2Check">
+	<summary>
+  Looks up a localized string similar to 어라인 A2 체크.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.AlignA2Comp">
+	<summary>
+  Looks up a localized string similar to 어라인 2 완료..
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.AlignA2RequsetPLCB321">
+	<summary>
+  Looks up a localized string similar to 어라인 A2 Requset    [PLC B321].
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.AlignA3Check">
+	<summary>
+  Looks up a localized string similar to 어라인 A3 체크.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.AlignA3Comp">
+	<summary>
+  Looks up a localized string similar to 어라인 3 완료..
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.AlignA3RequsetPLCB322">
+	<summary>
+  Looks up a localized string similar to 어라인 A3 Requset    [PLC B322].
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.AlignA4Check">
+	<summary>
+  Looks up a localized string similar to 어라인 A4 체크.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.AlignA4Comp">
+	<summary>
+  Looks up a localized string similar to 어라인 4 완료..
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.AlignA4RequsetPLCB323">
+	<summary>
+  Looks up a localized string similar to 어라인 A4 Requset    [PLC B323].
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.AlignB1Check">
+	<summary>
+  Looks up a localized string similar to 어라인 B1 체크.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.AlignB1Comp">
+	<summary>
+  Looks up a localized string similar to 어라인 1 완료..
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.AlignB1RequsetPLCB340">
+	<summary>
+  Looks up a localized string similar to 어라인 B1 Requset    [PLC B340].
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.AlignB2Check">
+	<summary>
+  Looks up a localized string similar to 어라인 B2 체크.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.AlignB2Comp">
+	<summary>
+  Looks up a localized string similar to 어라인 2 완료..
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.AlignB2RequsetPLCB341">
+	<summary>
+  Looks up a localized string similar to 어라인 B2 Requset    [PLC B341].
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.AlignB3Check">
+	<summary>
+  Looks up a localized string similar to 어라인 B3 체크.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.AlignB3Comp">
+	<summary>
+  Looks up a localized string similar to 어라인 3 완료..
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.AlignB3RequsetPLCB342">
+	<summary>
+  Looks up a localized string similar to 어라인 B3 Requset    [PLC B342].
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.AlignB4Check">
+	<summary>
+  Looks up a localized string similar to 어라인 B4 체크.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.AlignB4Comp">
+	<summary>
+  Looks up a localized string similar to 어라인 4 완료..
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.AlignB4RequsetPLCB343">
+	<summary>
+  Looks up a localized string similar to 어라인 B4 Requset    [PLC B343].
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.ALIGNMARKSETTING">
+	<summary>
+  Looks up a localized string similar to 어라인 마크 설정.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.alignsettingunitmm">
+	<summary>
+  Looks up a localized string similar to Align setting unit[mm].
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.AlignTacs">
+	<summary>
+  Looks up a localized string similar to 얼라인 택[초].
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.ALine">
+	<summary>
+  Looks up a localized string similar to A Line.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.ALineAlignImagePath">
+	<summary>
+  Looks up a localized string similar to A Line Align Image Path :.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.ALineAlignResultCheck">
+	<summary>
+  Looks up a localized string similar to A Line Align Result Check.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.ALineAutoStatus">
+	<summary>
+  Looks up a localized string similar to A Line Auto Status.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.ALineManualStatus">
+	<summary>
+  Looks up a localized string similar to A Line Manual Status.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.ALineUseable">
+	<summary>
+  Looks up a localized string similar to A Line Useable.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.ALineVision">
+	<summary>
+  Looks up a localized string similar to A Line Vision.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Alive">
+	<summary>
+  Looks up a localized string similar to 연결성공.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.ALLINIT">
+	<summary>
+  Looks up a localized string similar to 전체 초기화.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.AManualAlign">
+	<summary>
+  Looks up a localized string similar to A 수동 어라인.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.AMark1AlignForcedOK">
+	<summary>
+  Looks up a localized string similar to A Mark1 Align Forced OK.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.AMark1AlignNG">
+	<summary>
+  Looks up a localized string similar to A Mark1 Align NG.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.AMark1AlignOK">
+	<summary>
+  Looks up a localized string similar to A Mark1 Align OK.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.AMark1AlignRequest">
+	<summary>
+  Looks up a localized string similar to A Mark1 Align Request.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.AMark2AlignForcedOK">
+	<summary>
+  Looks up a localized string similar to A Mark2 Align Forced OK.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.AMark2AlignNG">
+	<summary>
+  Looks up a localized string similar to A Mark2 Align NG.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.AMark2AlignOK">
+	<summary>
+  Looks up a localized string similar to A Mark2 Align OK.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.AMark2AlignRequest">
+	<summary>
+  Looks up a localized string similar to A Mark2 Align Request.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Angle">
+	<summary>
+  Looks up a localized string similar to Angle :.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.APowerMeterMoveRequest">
+	<summary>
+  Looks up a localized string similar to A Power Meter Move Request.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Apply">
+	<summary>
+  Looks up a localized string similar to 적용.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Applycurrentpos">
+	<summary>
+  Looks up a localized string similar to 현재 위치 적용.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.ApplyScannerParameter">
+	<summary>
+  Looks up a localized string similar to Apply Scanner Parameter.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.APreAlignCheck">
+	<summary>
+  Looks up a localized string similar to A PreAlign Check.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.APreAlignComplete">
+	<summary>
+  Looks up a localized string similar to A PreAlign 완료.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.APreAlignMoveComplete">
+	<summary>
+  Looks up a localized string similar to A PreAlign 이동완료.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.APreAlignMoveRequest">
+	<summary>
+  Looks up a localized string similar to A PreAlign Move Request.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.APreAlignNG">
+	<summary>
+  Looks up a localized string similar to A PreAlign NG.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.APreAlignNGCheck">
+	<summary>
+  Looks up a localized string similar to A PreAlign NG Check.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.APreAlignRequest">
+	<summary>
+  Looks up a localized string similar to A PreAlign Request.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Attenuation">
+	<summary>
+  Looks up a localized string similar to Attenuation(%) :.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Attenuator0100">
+	<summary>
+  Looks up a localized string similar to Attenuator 0~100[%].
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.AutoStatus">
+	<summary>
+  Looks up a localized string similar to Auto Status.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.AvgVal">
+	<summary>
+  Looks up a localized string similar to Avg Val.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.AxisY">
+	<summary>
+  Looks up a localized string similar to Axis Y.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.A컷팅위치mm">
+	<summary>
+  Looks up a localized string similar to A 컷팅위치(mm).
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.B1GlassonStage">
+	<summary>
+  Looks up a localized string similar to B1 Glass on Stage.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.B1PreAlignGlassonBuffer">
+	<summary>
+  Looks up a localized string similar to B1 PreAlign Glass on Buffer.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.B1TrimmingRequest">
+	<summary>
+  Looks up a localized string similar to B1 Trimming Request.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.B2GlassonStage">
+	<summary>
+  Looks up a localized string similar to B2 Glass on Stage.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.B2PreAlignGlassonBuffer">
+	<summary>
+  Looks up a localized string similar to B2 PreAlign Glass on Buffer.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.B2TrimmingRequest">
+	<summary>
+  Looks up a localized string similar to B2 Trimming Request.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.BAlignPositionMoveComplete">
+	<summary>
+  Looks up a localized string similar to B Align 위치이동 완료.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.BAlignUseable">
+	<summary>
+  Looks up a localized string similar to B 어라인 Useable.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.BAxisXHomeComlete">
+	<summary>
+  Looks up a localized string similar to B Axis X Home 완료.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.BAxisXMoveComplete">
+	<summary>
+  Looks up a localized string similar to B Axis X 이동완료.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.BAxisXMoveRequest">
+	<summary>
+  Looks up a localized string similar to B Axis X 이동 Request.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.BAxisYHomeComlete">
+	<summary>
+  Looks up a localized string similar to B Axis Y Home 완료.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.BAxisYMoveComplete">
+	<summary>
+  Looks up a localized string similar to B Axis Y 이동완료.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.BAxisYMoveRequest">
+	<summary>
+  Looks up a localized string similar to B Axis Y 이동 Request.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.BCameraZMoveComplete">
+	<summary>
+  Looks up a localized string similar to B Camera Z 이동완료.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.BCameraZMoveRequest">
+	<summary>
+  Looks up a localized string similar to B Camera Z 이동 Request.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.BINARIZE">
+	<summary>
+  Looks up a localized string similar to BINARIZE.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.bit">
+	<summary>
+  Looks up a localized string similar to bit.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Bitmm">
+	<summary>
+  Looks up a localized string similar to Bit / mm : .
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.BLaserBusy">
+	<summary>
+  Looks up a localized string similar to B Laser Busy.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.BLine">
+	<summary>
+  Looks up a localized string similar to B-Line.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.BLineAlignImagePath">
+	<summary>
+  Looks up a localized string similar to B Line Align Image Path :.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.BLineAlignResultCheck">
+	<summary>
+  Looks up a localized string similar to B Line Align Result Check.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.BLineAutoStatus">
+	<summary>
+  Looks up a localized string similar to B Line Auto Status.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.BLineManualStatus">
+	<summary>
+  Looks up a localized string similar to B Line Manual Status.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.BLineUseable">
+	<summary>
+  Looks up a localized string similar to B Line Useable.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.BLineVision">
+	<summary>
+  Looks up a localized string similar to B Line Vision.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.BManualAlign">
+	<summary>
+  Looks up a localized string similar to B 수동 어라인.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.BMark1AlignForcedOK">
+	<summary>
+  Looks up a localized string similar to B Mark1 어라인 Forced OK.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.BMark1AlignNG">
+	<summary>
+  Looks up a localized string similar to B Mark1 어라인 NG.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.BMark1AlignOK">
+	<summary>
+  Looks up a localized string similar to B Mark1 어라인 OK.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.BMark1AlignRequest">
+	<summary>
+  Looks up a localized string similar to B Mark1 Align Request.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.BMark2AlignForcedOK">
+	<summary>
+  Looks up a localized string similar to B Mark2 어라인 Forced OK.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.BMark2AlignNG">
+	<summary>
+  Looks up a localized string similar to B Mark2 어라인 NG.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.BMark2AlignOK">
+	<summary>
+  Looks up a localized string similar to B Mark2 어라인 OK.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.BMark2AlignRequest">
+	<summary>
+  Looks up a localized string similar to B Mark2 Align Request.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.BoxLight">
+	<summary>
+  Looks up a localized string similar to 박스조명.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.BPowerMeterMoveRequest">
+	<summary>
+  Looks up a localized string similar to B Power Meter Move Request.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.BPreAlignCheck">
+	<summary>
+  Looks up a localized string similar to B PreAlign Check.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.BPreAlignComplete">
+	<summary>
+  Looks up a localized string similar to B PreAlign 완료.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.BPreAlignMoveComplete">
+	<summary>
+  Looks up a localized string similar to B PreAlign 이동완료.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.BPreAlignMoveRequest">
+	<summary>
+  Looks up a localized string similar to B PreAlign 이동 Request.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.BPreAlignNG">
+	<summary>
+  Looks up a localized string similar to B PreAlign NG.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.BPreAlignNGCheck">
+	<summary>
+  Looks up a localized string similar to B PreAlign NG Check.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.BPreAlignRequest">
+	<summary>
+  Looks up a localized string similar to B PreAlign Request.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Button2">
+	<summary>
+  Looks up a localized string similar to Max Val.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.B컷팅위치mm">
+	<summary>
+  Looks up a localized string similar to B 컷팅위치(mm).
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Calibration">
+	<summary>
+  Looks up a localized string similar to 캘리브레션.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.CalibrationMarking">
+	<summary>
+  Looks up a localized string similar to Calibration Marking.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.CalibrationMarkingInfo">
+	<summary>
+  Looks up a localized string similar to Calibration Marking Info.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Cancel">
+	<summary>
+  Looks up a localized string similar to 취소.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.CenterPositionVisionLaser1">
+	<summary>
+  Looks up a localized string similar to CenterPosition / Vision-&gt;Laser1.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.CenterPositionVisionLaser2">
+	<summary>
+  Looks up a localized string similar to CenterPosition / Vision-&gt;Laser2.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.CenterPositionVisionLaser3">
+	<summary>
+  Looks up a localized string similar to CenterPosition / Vision-&gt;Laser3.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.CenterPositionVisionLaser4">
+	<summary>
+  Looks up a localized string similar to CenterPosition / Vision-&gt;Laser4.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.CentralPointSetting">
+	<summary>
+  Looks up a localized string similar to 중심점 설정.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Chamfering_System">
+	<summary>
+  Looks up a localized string similar to 트리밍 시스템.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.ChangePassword">
+	<summary>
+  Looks up a localized string similar to 비밀번호 변경.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.check">
+	<summary>
+  Looks up a localized string similar to 을확인하세요.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.checkfile">
+	<summary>
+  Looks up a localized string similar to 파일을 확인하세요.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.CheckGlassA1PLCB310">
+	<summary>
+  Looks up a localized string similar to 척 글라스 A1    [ PLC B310 ].
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.CheckGlassA2PLCB311">
+	<summary>
+  Looks up a localized string similar to 척 글라스 A2    [ PLC B311 ].
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.CheckGlassA3PLCB312">
+	<summary>
+  Looks up a localized string similar to 척 글라스 A3    [ PLC B312 ].
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.CheckGlassA4PLCB313">
+	<summary>
+  Looks up a localized string similar to 척 글라스 A4    [ PLC B313 ].
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.CheckGlassB1PLCB330">
+	<summary>
+  Looks up a localized string similar to 척 글라스 B1    [ PLC B330 ].
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.CheckGlassB2PLCB331">
+	<summary>
+  Looks up a localized string similar to 척 글라스 B2    [ PLC B331 ].
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.CheckGlassB3PLCB332">
+	<summary>
+  Looks up a localized string similar to 척 글라스 B3    [ PLC B332 ].
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.CheckGlassB4PLCB333">
+	<summary>
+  Looks up a localized string similar to 척 글라스 B4    [ PLC B333 ].
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Chiller">
+	<summary>
+  Looks up a localized string similar to Chiller.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Chiller1">
+	<summary>
+  Looks up a localized string similar to Chiller 1.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Chiller2">
+	<summary>
+  Looks up a localized string similar to Chiller 2.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Chiller3">
+	<summary>
+  Looks up a localized string similar to Chiller 3.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Chiller4">
+	<summary>
+  Looks up a localized string similar to Chiller 4.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.ChillerMaintainSet">
+	<summary>
+  Looks up a localized string similar to Chiller Maintain Set.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.ChillerMaintenanceDay">
+	<summary>
+  Looks up a localized string similar to Chiller Maintenance (Day).
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Circle">
+	<summary>
+  Looks up a localized string similar to Circle.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Clear">
+	<summary>
+  Looks up a localized string similar to Clear.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.ClearAlarmClose">
+	<summary>
+  Looks up a localized string similar to 알람해제&amp;&amp;닫기.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Cmd">
+	<summary>
+  Looks up a localized string similar to Cmd.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Connect">
+	<summary>
+  Looks up a localized string similar to 연결.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Connected">
+	<summary>
+  Looks up a localized string similar to 연결완료.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Continous">
+	<summary>
+  Looks up a localized string similar to 계속.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Copy">
+	<summary>
+  Looks up a localized string similar to 복사.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.CorrectionFile">
+	<summary>
+  Looks up a localized string similar to Correction File : .
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.CTBFileLoad">
+	<summary>
+  Looks up a localized string similar to CTB File Load.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.CurrentPower">
+	<summary>
+  Looks up a localized string similar to 현재파워:.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Data">
+	<summary>
+  Looks up a localized string similar to Data.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Data1">
+	<summary>
+  Looks up a localized string similar to Data 1 :.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Data2">
+	<summary>
+  Looks up a localized string similar to Data 2 :.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Data3">
+	<summary>
+  Looks up a localized string similar to Data 3 :.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Data4">
+	<summary>
+  Looks up a localized string similar to Data 4 :.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.DataFileSave">
+	<summary>
+  Looks up a localized string similar to Data File 저장.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.DataLoad">
+	<summary>
+  Looks up a localized string similar to 최근데이타로드.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Defult0">
+	<summary>
+  Looks up a localized string similar to 비밀번호 변경전 ' 0 ' 입니다..
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Degree">
+	<summary>
+  Looks up a localized string similar to Degree.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.DeleteAfter">
+	<summary>
+  Looks up a localized string similar to Delete After.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Displace">
+	<summary>
+  Looks up a localized string similar to 변위센서.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.displacementmsresult">
+	<summary>
+  Looks up a localized string similar to 변위 센서 측정 결과.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.doubleclickaftersetmark">
+	<summary>
+  Looks up a localized string similar to 더블클릭후 마크 셋팅.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Downpowermeterms">
+	<summary>
+  Looks up a localized string similar to 하부 파워 측정.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Dust1">
+	<summary>
+  Looks up a localized string similar to Dust1 :.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Dust2">
+	<summary>
+  Looks up a localized string similar to Dust2 :.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.DustCollector">
+	<summary>
+  Looks up a localized string similar to DustCollector.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.DustCollectorAlarmReport">
+	<summary>
+  Looks up a localized string similar to 집진기 알람 Report.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.DustCollectorOff">
+	<summary>
+  Looks up a localized string similar to 집진기 Off.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.DustCollectorOn">
+	<summary>
+  Looks up a localized string similar to 집진기 On.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Edit">
+	<summary>
+  Looks up a localized string similar to Edit.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.ExistingPassword">
+	<summary>
+  Looks up a localized string similar to 기존 비밀번호.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.FilePath">
+	<summary>
+  Looks up a localized string similar to File Path.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Filter">
+	<summary>
+  Looks up a localized string similar to Filter .
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.FindServers">
+	<summary>
+  Looks up a localized string similar to Find Servers.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.First">
+	<summary>
+  Looks up a localized string similar to First.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.FiterDDay">
+	<summary>
+  Looks up a localized string similar to Fiter D-Day .
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Frequencykhz">
+	<summary>
+  Looks up a localized string similar to Frequency(khz) .
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Gap">
+	<summary>
+  Looks up a localized string similar to Gap .
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Glass1">
+	<summary>
+  Looks up a localized string similar to Glass 1.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.GlassAlignandTrimmingALine">
+	<summary>
+  Looks up a localized string similar to Glass Align and Trimming A Line.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.GlassAlignandTrimmingBLine">
+	<summary>
+  Looks up a localized string similar to Glass Align and Trimming B Line.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.GoMark">
+	<summary>
+  Looks up a localized string similar to Go Mark.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Group">
+	<summary>
+  Looks up a localized string similar to 그룹.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.GroupBox1">
+	<summary>
+  Looks up a localized string similar to 수동동장.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.GroupEditer">
+	<summary>
+  Looks up a localized string similar to Group Editer.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.HalfPulsePeriod">
+	<summary>
+  Looks up a localized string similar to Half Pulse Period :.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.HeavyAlarm">
+	<summary>
+  Looks up a localized string similar to 중알람.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Idx">
+	<summary>
+  Looks up a localized string similar to 인덱스.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Image">
+	<summary>
+  Looks up a localized string similar to 이미지.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.ImageLoad">
+	<summary>
+  Looks up a localized string similar to 이미지 불러오기.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.ImageSave">
+	<summary>
+  Looks up a localized string similar to 이미지 저장.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.indesktop">
+	<summary>
+  Looks up a localized string similar to 바탕화면에.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Init">
+	<summary>
+  Looks up a localized string similar to 초기화.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.InitScanner1">
+	<summary>
+  Looks up a localized string similar to Init Scanner #1.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.interfacemode">
+	<summary>
+  Looks up a localized string similar to 통신모드.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.IRBOX1">
+	<summary>
+  Looks up a localized string similar to IR박스1.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.IRBOX2">
+	<summary>
+  Looks up a localized string similar to IR박스2.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.IRBOX3">
+	<summary>
+  Looks up a localized string similar to IR박스3.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.IRBOX4">
+	<summary>
+  Looks up a localized string similar to IR박스4.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.IRPower">
+	<summary>
+  Looks up a localized string similar to IR Power.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Jump">
+	<summary>
+  Looks up a localized string similar to Jump.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.JumpDelay">
+	<summary>
+  Looks up a localized string similar to Jump Delay.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.JumpSpeed">
+	<summary>
+  Looks up a localized string similar to JumpSpeed.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.KeyStatus">
+	<summary>
+  Looks up a localized string similar to Key Status.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Laser">
+	<summary>
+  Looks up a localized string similar to Laser.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Laser1">
+	<summary>
+  Looks up a localized string similar to Laser1.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Laser1OffReport">
+	<summary>
+  Looks up a localized string similar to Laser1 Off Report.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Laser1OnReport">
+	<summary>
+  Looks up a localized string similar to Laser1 On Report.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Laser1ShutterCloseReport">
+	<summary>
+  Looks up a localized string similar to Laser1 Shutter Close Report.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Laser1ShutterOpenReport">
+	<summary>
+  Looks up a localized string similar to Laser1 Shutter Open Report.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Laser2">
+	<summary>
+  Looks up a localized string similar to Laser2.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Laser2OffReport">
+	<summary>
+  Looks up a localized string similar to Laser2 Off Report.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Laser2OnReport">
+	<summary>
+  Looks up a localized string similar to Laser2 On Report.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Laser2ShutterCloseReport">
+	<summary>
+  Looks up a localized string similar to Laser2 Shutter Close Report.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Laser2ShutterOpenReport">
+	<summary>
+  Looks up a localized string similar to Laser2 Shutter Open Report.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Laser3">
+	<summary>
+  Looks up a localized string similar to Laser3.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Laser4">
+	<summary>
+  Looks up a localized string similar to Laser4.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.LaserAlarmReport">
+	<summary>
+  Looks up a localized string similar to 레이져 알람 Report.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.LaserOffDelay">
+	<summary>
+  Looks up a localized string similar to Laser Off Delay .
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.LaserOnDelay">
+	<summary>
+  Looks up a localized string similar to Laser On Delay .
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.LaserParameter">
+	<summary>
+  Looks up a localized string similar to Laser Parameter.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.LaserShot">
+	<summary>
+  Looks up a localized string similar to Laser Shot.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.LaserStartL1RequestB350">
+	<summary>
+  Looks up a localized string similar to Laser Start L1 Request [B350].
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.LaserStartL1RequestB354">
+	<summary>
+  Looks up a localized string similar to Laser Start L1 Request [B354].
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.LaserStartL2RequestB351">
+	<summary>
+  Looks up a localized string similar to Laser Start L2 Request [B351].
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.LaserStartL2RequestB355">
+	<summary>
+  Looks up a localized string similar to Laser Start L2 Request [B355].
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.LaserStartL3RequestB352">
+	<summary>
+  Looks up a localized string similar to Laser Start L3 Request [B352].
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.LaserStartL3RequestB356">
+	<summary>
+  Looks up a localized string similar to Laser Start L3 Request [B356].
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.LaserStartL4RequestB353">
+	<summary>
+  Looks up a localized string similar to Laser Start L4 Request [B353].
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.LaserStartL4RequestB357">
+	<summary>
+  Looks up a localized string similar to Laser Start L4 Request [B357].
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.LaserStatus">
+	<summary>
+  Looks up a localized string similar to 레이져 현황.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.LaserZmm">
+	<summary>
+  Looks up a localized string similar to Laser_Z[mm].
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.LIGHT">
+	<summary>
+  Looks up a localized string similar to Light.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.LightAlarm">
+	<summary>
+  Looks up a localized string similar to 경알람.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Lightbrightnesssetting">
+	<summary>
+  Looks up a localized string similar to Lightbrightnesssetting.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.LightONOFFUSE">
+	<summary>
+  Looks up a localized string similar to 조명ON/OFF USE.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.LightSet">
+	<summary>
+  Looks up a localized string similar to 조명 설정:.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Line">
+	<summary>
+  Looks up a localized string similar to Line.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.LINEA">
+	<summary>
+  Looks up a localized string similar to Line A.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.LineACamera1">
+	<summary>
+  Looks up a localized string similar to A라인 카메라1.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.LineACamera2">
+	<summary>
+  Looks up a localized string similar to A라인 카메라2.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.LineALaserZ1">
+	<summary>
+  Looks up a localized string similar to Line A Laser Z1 .
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.LineALaserZ2">
+	<summary>
+  Looks up a localized string similar to Line A Laser Z2.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.LineAStageX">
+	<summary>
+  Looks up a localized string similar to Line A Stage X .
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.LineAStageY">
+	<summary>
+  Looks up a localized string similar to Line A Stage Y .
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.LineAVisionZ">
+	<summary>
+  Looks up a localized string similar to Line A Vision Z .
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.LINEB">
+	<summary>
+  Looks up a localized string similar to Line B.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.LineBCamera1">
+	<summary>
+  Looks up a localized string similar to B라인 카메라1.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.LineBCamera2">
+	<summary>
+  Looks up a localized string similar to B라인 카메라2.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.LineBLaserZ1">
+	<summary>
+  Looks up a localized string similar to Line B Laser Z1.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.LineBLaserZ2">
+	<summary>
+  Looks up a localized string similar to Line B Laser Z2.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.LineBStageX">
+	<summary>
+  Looks up a localized string similar to Line B Stage X .
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.LineBStageY">
+	<summary>
+  Looks up a localized string similar to Line B Stage Y .
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.LineBVisionZ">
+	<summary>
+  Looks up a localized string similar to Line B Vision Z.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Load">
+	<summary>
+  Looks up a localized string similar to Load.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Log">
+	<summary>
+  Looks up a localized string similar to Log :.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.LogIn">
+	<summary>
+  Looks up a localized string similar to 로그인.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Main">
+	<summary>
+  Looks up a localized string similar to 메인.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.MakrSave">
+	<summary>
+  Looks up a localized string similar to Makr 저장.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.ManualAlignNG">
+	<summary>
+  Looks up a localized string similar to 수동 어라인 NG.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.ManualAlignOK">
+	<summary>
+  Looks up a localized string similar to 수동 어라인 OK.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.ManualStatus">
+	<summary>
+  Looks up a localized string similar to Manual Status.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Mark">
+	<summary>
+  Looks up a localized string similar to Mark.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Mark1">
+	<summary>
+  Looks up a localized string similar to 마크 #1.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Mark2">
+	<summary>
+  Looks up a localized string similar to 마크 #2.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Mark3">
+	<summary>
+  Looks up a localized string similar to 마크 #3.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.MarkArea">
+	<summary>
+  Looks up a localized string similar to Mark 영역.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.MarkData">
+	<summary>
+  Looks up a localized string similar to 마크 데이터.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.MarkDataChange">
+	<summary>
+  Looks up a localized string similar to 마크데이터변경.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.MarkDataEditer">
+	<summary>
+  Looks up a localized string similar to Mark Data Editer.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.MarkDataPreview">
+	<summary>
+  Looks up a localized string similar to 마크 데이터 미리보기.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.MarkDelay">
+	<summary>
+  Looks up a localized string similar to Mark Delay :.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Markdistance">
+	<summary>
+  Looks up a localized string similar to Mark Distance.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Markdistancemistake">
+	<summary>
+  Looks up a localized string similar to Mark Distance Mistake.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Marking">
+	<summary>
+  Looks up a localized string similar to 마킹.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.MarkingStart">
+	<summary>
+  Looks up a localized string similar to Marking Start.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.MarkSpeed">
+	<summary>
+  Looks up a localized string similar to 마크속도:.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.MarkSpeedSetbit">
+	<summary>
+  Looks up a localized string similar to Mark Speed Set (bit).
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.MaskProcessing">
+	<summary>
+  Looks up a localized string similar to 마스크 처리.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.MaskSizeSetting">
+	<summary>
+  Looks up a localized string similar to 마스크 크기 설정.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.matchingrate">
+	<summary>
+  Looks up a localized string similar to 매칭율.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.matchingrateformal">
+	<summary>
+  Looks up a localized string similar to 매칭율 검증.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.MatrixSet">
+	<summary>
+  Looks up a localized string similar to Matrix Set.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.MaxDev">
+	<summary>
+  Looks up a localized string similar to 최대편차.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.MaxVal">
+	<summary>
+  Looks up a localized string similar to 최대값.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Measure">
+	<summary>
+  Looks up a localized string similar to 측정.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.measurestop">
+	<summary>
+  Looks up a localized string similar to 측정 중단.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.measuretime">
+	<summary>
+  Looks up a localized string similar to Start Measure.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Message">
+	<summary>
+  Looks up a localized string similar to 메시지.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.MinMax">
+	<summary>
+  Looks up a localized string similar to Min-Max.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.MinVal">
+	<summary>
+  Looks up a localized string similar to 최소값.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Mode">
+	<summary>
+  Looks up a localized string similar to 모드.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Mode1">
+	<summary>
+  Looks up a localized string similar to Mode1.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Mode2">
+	<summary>
+  Looks up a localized string similar to Mode2.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.ModelApply">
+	<summary>
+  Looks up a localized string similar to 모델 적용.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.ModelInformation">
+	<summary>
+  Looks up a localized string similar to Model 정보.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.ModelSave">
+	<summary>
+  Looks up a localized string similar to 모델 저장.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.MotionABSMOVE">
+	<summary>
+  Looks up a localized string similar to 모션 (절대위치 이동).
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.MotionStatus">
+	<summary>
+  Looks up a localized string similar to 머신 현황.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Move">
+	<summary>
+  Looks up a localized string similar to 이동.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.MoveVisionA1">
+	<summary>
+  Looks up a localized string similar to Move Vision A1.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.MoveVisionA2">
+	<summary>
+  Looks up a localized string similar to Move Vision A2.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.MoveVisionB1">
+	<summary>
+  Looks up a localized string similar to Move Vision B1.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.MoveVisionB2">
+	<summary>
+  Looks up a localized string similar to Move Vision B2.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.MSPOS1Lightbrightness">
+	<summary>
+  Looks up a localized string similar to 측정위치1 조명 밝기.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.MSPOS2Lightbrightness">
+	<summary>
+  Looks up a localized string similar to 측정위치2 조명 밝기.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.msresult">
+	<summary>
+  Looks up a localized string similar to 측정 결과.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.NewPasswodr">
+	<summary>
+  Looks up a localized string similar to 신규 비밀번호.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.No">
+	<summary>
+  Looks up a localized string similar to No.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Normal">
+	<summary>
+  Looks up a localized string similar to Normal.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.NotConnected">
+	<summary>
+  Looks up a localized string similar to 연결안됨.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.NotKnow">
+	<summary>
+  Looks up a localized string similar to 미정.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.NOTREADY">
+	<summary>
+  Looks up a localized string similar to 준비안됨.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Number">
+	<summary>
+  Looks up a localized string similar to 번호.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Off">
+	<summary>
+  Looks up a localized string similar to Off.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.OffsetX">
+	<summary>
+  Looks up a localized string similar to Offset X :.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.OffsetY">
+	<summary>
+  Looks up a localized string similar to Offset Y :.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.OK">
+	<summary>
+  Looks up a localized string similar to 확인.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.OldDataLoad">
+	<summary>
+  Looks up a localized string similar to 예전데이타로드.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.On1">
+	<summary>
+  Looks up a localized string similar to On.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.oncemeasure">
+	<summary>
+  Looks up a localized string similar to Once Measure.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Open">
+	<summary>
+  Looks up a localized string similar to 열기.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.OutputPower">
+	<summary>
+  Looks up a localized string similar to 출력파워.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.OutputPowerW">
+	<summary>
+  Looks up a localized string similar to Output Power (W).
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Panel1">
+	<summary>
+  Looks up a localized string similar to 판넬 1번.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Panel2">
+	<summary>
+  Looks up a localized string similar to 판넬 2번.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Panel3">
+	<summary>
+  Looks up a localized string similar to 판넬 3번.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Panel4">
+	<summary>
+  Looks up a localized string similar to 판넬 4번.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Panelsettingposset">
+	<summary>
+  Looks up a localized string similar to Panel Setting Pos Set.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Panel센터위치설정">
+	<summary>
+  Looks up a localized string similar to Panel 센터 위치 설정.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Password">
+	<summary>
+  Looks up a localized string similar to 비밀번호.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.PCBitData">
+	<summary>
+  Looks up a localized string similar to PC Bit Data.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Pen">
+	<summary>
+  Looks up a localized string similar to Pen.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.PenDataEditer">
+	<summary>
+  Looks up a localized string similar to Pen 데이터 교정.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.PenDataView">
+	<summary>
+  Looks up a localized string similar to Pen 테이터 보기.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.PenNumber">
+	<summary>
+  Looks up a localized string similar to Pen 번호.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.PLC">
+	<summary>
+  Looks up a localized string similar to 피엘씨.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.PLC_A_Manual">
+	<summary>
+  Looks up a localized string similar to PLC A - 수동.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.PLC_B_Manual">
+	<summary>
+  Looks up a localized string similar to PLC B - 수동.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.PLC_Control_Stage">
+	<summary>
+  Looks up a localized string similar to 모션 PLC 제어.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.PLCBitData">
+	<summary>
+  Looks up a localized string similar to PLC Bit Data.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.PLCInterface">
+	<summary>
+  Looks up a localized string similar to PLC 통신.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.PolygonDelay">
+	<summary>
+  Looks up a localized string similar to Polygon Delay .
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.PositionData">
+	<summary>
+  Looks up a localized string similar to Position Data.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.PosX">
+	<summary>
+  Looks up a localized string similar to Pos X .
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.PosY">
+	<summary>
+  Looks up a localized string similar to Pos Y .
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Power0100">
+	<summary>
+  Looks up a localized string similar to Power 0~100[%].
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.PowerMeter">
+	<summary>
+  Looks up a localized string similar to 파워메터.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.PowerMeter1">
+	<summary>
+  Looks up a localized string similar to 파워메터1.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.PowerMeter1MeasureRequest">
+	<summary>
+  Looks up a localized string similar to Power Meter1 측정 요구.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.PowerMeter2">
+	<summary>
+  Looks up a localized string similar to 파워메터2.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.PowerMeter2MeasureRequest">
+	<summary>
+  Looks up a localized string similar to Power Meter2 측정 요구.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.PowerMeter3">
+	<summary>
+  Looks up a localized string similar to 파워메터3.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.PowerMeter4">
+	<summary>
+  Looks up a localized string similar to 파워메터4.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.PowerMeterLog">
+	<summary>
+  Looks up a localized string similar to 파워메터로그.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Powermetermanualuse">
+	<summary>
+  Looks up a localized string similar to Powermeter manual use.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.PowerMeterMeasureRequest">
+	<summary>
+  Looks up a localized string similar to Power Meter 측정 요구.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.POWERMETEROFF">
+	<summary>
+  Looks up a localized string similar to POWER METER OFF.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.PowerMeterStage">
+	<summary>
+  Looks up a localized string similar to 파워메터 스테이지.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.PowerMeterTimems">
+	<summary>
+  Looks up a localized string similar to PowerMeterTime (ms).
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.PowerStage">
+	<summary>
+  Looks up a localized string similar to Power_Stage:.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.ProgramVersion">
+	<summary>
+  Looks up a localized string similar to 프로그램 버전.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.PulseWidth1">
+	<summary>
+  Looks up a localized string similar to Pulse Width 1 :.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.PulseWidth2">
+	<summary>
+  Looks up a localized string similar to Pulse Width 2 :.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.RBxy">
+	<summary>
+  Looks up a localized string similar to RB(x,y).
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Read">
+	<summary>
+  Looks up a localized string similar to 읽기.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Recipe">
+	<summary>
+  Looks up a localized string similar to 레시피.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.RecipeChangeReport">
+	<summary>
+  Looks up a localized string similar to Recipe Change Report.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.RecipeChangeRequest">
+	<summary>
+  Looks up a localized string similar to Recipe Change Request.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.RecipeChoice">
+	<summary>
+  Looks up a localized string similar to 레시피 선택.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.RecipeName">
+	<summary>
+  Looks up a localized string similar to Recipe Name.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.RecipeNameLoad">
+	<summary>
+  Looks up a localized string similar to Recipe Name Load.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Rect">
+	<summary>
+  Looks up a localized string similar to Rect.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.RefPoint">
+	<summary>
+  Looks up a localized string similar to RefPoint.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Refxy">
+	<summary>
+  Looks up a localized string similar to Ref(x,y).
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Repeat">
+	<summary>
+  Looks up a localized string similar to 반복.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.RepetitionRate">
+	<summary>
+  Looks up a localized string similar to Repetition Rate.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.RepetitionRatekhz">
+	<summary>
+  Looks up a localized string similar to Repetition Rate (khz).
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Reset">
+	<summary>
+  Looks up a localized string similar to Reset.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.ResetBitData">
+	<summary>
+  Looks up a localized string similar to Reset Bit Data.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.result">
+	<summary>
+  Looks up a localized string similar to 결과.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Result1">
+	<summary>
+  Looks up a localized string similar to 측정결과1.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Result2">
+	<summary>
+  Looks up a localized string similar to 측정결과2.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Result3">
+	<summary>
+  Looks up a localized string similar to 측정결과3.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Result4">
+	<summary>
+  Looks up a localized string similar to 측정결과4.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Retry">
+	<summary>
+  Looks up a localized string similar to Retry :.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.RFPercentLevel0100">
+	<summary>
+  Looks up a localized string similar to RF Percent Level 0~100[%].
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.RLPower">
+	<summary>
+  Looks up a localized string similar to RL 파워:.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.ROIArea">
+	<summary>
+  Looks up a localized string similar to ROI 영역.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.ROIInformation">
+	<summary>
+  Looks up a localized string similar to ROI 정보.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Run">
+	<summary>
+  Looks up a localized string similar to Run.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.RUNA">
+	<summary>
+  Looks up a localized string similar to 런_A.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.RUNB">
+	<summary>
+  Looks up a localized string similar to 런_B.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Save">
+	<summary>
+  Looks up a localized string similar to 저장.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.SaveMarkData">
+	<summary>
+  Looks up a localized string similar to Save Mark Data.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.SaveSystemParam">
+	<summary>
+  Looks up a localized string similar to Save System Param.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Scanner">
+	<summary>
+  Looks up a localized string similar to Scanner.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Scanner1">
+	<summary>
+  Looks up a localized string similar to Scanner#1.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Scanner1OnlyMode">
+	<summary>
+  Looks up a localized string similar to Scanner1 Only Mode.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Scanner1ZMoveComplete">
+	<summary>
+  Looks up a localized string similar to Scanner1 Z 이동완료.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Scanner1ZMoveRequest">
+	<summary>
+  Looks up a localized string similar to Scanner1 Z Move Request.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Scanner2">
+	<summary>
+  Looks up a localized string similar to Scanner #2.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Scanner2OnlyMode">
+	<summary>
+  Looks up a localized string similar to Scanner2 Only Mode.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Scanner2ZMoveComplete">
+	<summary>
+  Looks up a localized string similar to Scanner2 Z 이동완료.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Scanner2ZMoveRequest">
+	<summary>
+  Looks up a localized string similar to 스캐너2 Z 이동 Request.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Scanner3">
+	<summary>
+  Looks up a localized string similar to Scanner #3.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Scanner4">
+	<summary>
+  Looks up a localized string similar to Scanner #4.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.ScannerAxisParameter">
+	<summary>
+  Looks up a localized string similar to Scanner Axis Parameter.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.ScannerLaserParameter">
+	<summary>
+  Looks up a localized string similar to Scanner Laser Parameter.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.ScannerMinimumSpeed">
+	<summary>
+  Looks up a localized string similar to Scanner Minimum Speed.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.ScannerOffsetParameter">
+	<summary>
+  Looks up a localized string similar to Scanner Offset Parameter.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.ScannerSettingPath">
+	<summary>
+  Looks up a localized string similar to Scanner Setting Path :.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.ScannerStatus">
+	<summary>
+  Looks up a localized string similar to 스캐너 현황.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Score">
+	<summary>
+  Looks up a localized string similar to Score :.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Score00000">
+	<summary>
+  Looks up a localized string similar to Score : 00.000.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Select1">
+	<summary>
+  Looks up a localized string similar to 선택.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.SelectScanner">
+	<summary>
+  Looks up a localized string similar to 스캐너 선택.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.SelectVision">
+	<summary>
+  Looks up a localized string similar to .
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Set0">
+	<summary>
+  Looks up a localized string similar to Set.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.SetBitData">
+	<summary>
+  Looks up a localized string similar to Set Bit Data.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.SetPort">
+	<summary>
+  Looks up a localized string similar to Set Port.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Setting">
+	<summary>
+  Looks up a localized string similar to 설정.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.SettingCancel">
+	<summary>
+  Looks up a localized string similar to 설정 취소.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.SettingCheck">
+	<summary>
+  Looks up a localized string similar to 설정 확인.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.SettingChoice">
+	<summary>
+  Looks up a localized string similar to Setting Choice.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.settingmode">
+	<summary>
+  Looks up a localized string similar to 설정 모드.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.SHGTemp">
+	<summary>
+  Looks up a localized string similar to SHG Temp.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Shot1">
+	<summary>
+  Looks up a localized string similar to Shot 1.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Show">
+	<summary>
+  Looks up a localized string similar to Show.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.ShowScale">
+	<summary>
+  Looks up a localized string similar to Show Scale.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.ShowShow">
+	<summary>
+  Looks up a localized string similar to Show/Show.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Shutter">
+	<summary>
+  Looks up a localized string similar to 셔터.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.SHUTTERCLOSE">
+	<summary>
+  Looks up a localized string similar to SHUTTER CLOSE.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.SHUTTEROPEN">
+	<summary>
+  Looks up a localized string similar to SHUTTER OPEN.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.SimpleLaserMarking">
+	<summary>
+  Looks up a localized string similar to Simple Laser Marking.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Size">
+	<summary>
+  Looks up a localized string similar to Size :.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.SizeX">
+	<summary>
+  Looks up a localized string similar to Size X :.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.SizeY">
+	<summary>
+  Looks up a localized string similar to Size Y :.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Spec">
+	<summary>
+  Looks up a localized string similar to Spec.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Speed">
+	<summary>
+  Looks up a localized string similar to 속도.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.SpotLight">
+	<summary>
+  Looks up a localized string similar to 동축조명.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.StagePower">
+	<summary>
+  Looks up a localized string similar to 스테이지 파워.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Start">
+	<summary>
+  Looks up a localized string similar to 시작.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.StartX">
+	<summary>
+  Looks up a localized string similar to Start X :.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.StartY">
+	<summary>
+  Looks up a localized string similar to Start Y :.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Statusmm">
+	<summary>
+  Looks up a localized string similar to Status (mm).
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Stop1">
+	<summary>
+  Looks up a localized string similar to 정지.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.STOPA">
+	<summary>
+  Looks up a localized string similar to 정지_A.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.StopAll">
+	<summary>
+  Looks up a localized string similar to 전체 정지.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.STOPB">
+	<summary>
+  Looks up a localized string similar to 정지_B.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.String12">
+	<summary>
+  Looks up a localized string similar to .
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.SWExit">
+	<summary>
+  Looks up a localized string similar to 종료.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.System">
+	<summary>
+  Looks up a localized string similar to 시스템.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.System_need_to_Init">
+	<summary>
+  Looks up a localized string similar to System need to Init.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.SystemALineOffsetSetting">
+	<summary>
+  Looks up a localized string similar to System A-Line Offset Setting.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.SystemBLineOffsetSetting">
+	<summary>
+  Looks up a localized string similar to System B-Line Offset Setting.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.SystemFaultStauts">
+	<summary>
+  Looks up a localized string similar to System Fault Stauts .
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.SystemLog">
+	<summary>
+  Looks up a localized string similar to 시스템 로그.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.SystemLogPath">
+	<summary>
+  Looks up a localized string similar to System Log Path :.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.SystemParam">
+	<summary>
+  Looks up a localized string similar to 시스템 파라메터.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.SystemPath">
+	<summary>
+  Looks up a localized string similar to System Path :.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.SystemPort">
+	<summary>
+  Looks up a localized string similar to System Port .
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.SystemState">
+	<summary>
+  Looks up a localized string similar to System State.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.SYSTEMSTATUS">
+	<summary>
+  Looks up a localized string similar to 시스템 현황.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Test">
+	<summary>
+  Looks up a localized string similar to 테스트.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.thesameaxle1">
+	<summary>
+  Looks up a localized string similar to 동축1.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.thesameaxle2">
+	<summary>
+  Looks up a localized string similar to 동축2.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.thesameaxle3">
+	<summary>
+  Looks up a localized string similar to 동축3.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.thesameaxle4">
+	<summary>
+  Looks up a localized string similar to 동축4.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.THGTemp">
+	<summary>
+  Looks up a localized string similar to THG Temp.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Time">
+	<summary>
+  Looks up a localized string similar to 시간.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Timer">
+	<summary>
+  Looks up a localized string similar to Timer :.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.TimeSyncComplete">
+	<summary>
+  Looks up a localized string similar to Time Sync 완료.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.TimeSyncRequest">
+	<summary>
+  Looks up a localized string similar to Time Sync Request.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.TLxy">
+	<summary>
+  Looks up a localized string similar to TL(x,y).
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.TopPower">
+	<summary>
+  Looks up a localized string similar to 탑 파워.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.TriggerModePM">
+	<summary>
+  Looks up a localized string similar to Trigger Mode (PM).
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.TrimmingCompleteA">
+	<summary>
+  Looks up a localized string similar to 트리밍 완료.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.TrimmingCompleteB">
+	<summary>
+  Looks up a localized string similar to 트리밍 완료.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.TrimmingDelayms">
+	<summary>
+  Looks up a localized string similar to Trimming Delay (ms).
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.TrimmingTacs">
+	<summary>
+  Looks up a localized string similar to 트리밍 택[초].
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.tryagain">
+	<summary>
+  Looks up a localized string similar to Try Again.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Updatacontants">
+	<summary>
+  Looks up a localized string similar to 업데이트내역.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.UpPowermeterms">
+	<summary>
+  Looks up a localized string similar to 상부 파워 측정.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Use">
+	<summary>
+  Looks up a localized string similar to 사용.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.UseBinarize">
+	<summary>
+  Looks up a localized string similar to Use Binarize.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.User">
+	<summary>
+  Looks up a localized string similar to 사용자.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.UserName">
+	<summary>
+  Looks up a localized string similar to User Name.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.UseSecurity">
+	<summary>
+  Looks up a localized string similar to Use Security.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.ValueAngle">
+	<summary>
+  Looks up a localized string similar to Value Angle.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.ValueApplyApply">
+	<summary>
+  Looks up a localized string similar to Value Apply / Apply.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.ValueX">
+	<summary>
+  Looks up a localized string similar to Value X.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.ValueY">
+	<summary>
+  Looks up a localized string similar to Value Y.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Ver">
+	<summary>
+  Looks up a localized string similar to 시스템 버전.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.ver3020170319">
+	<summary>
+  Looks up a localized string similar to 버젼 3.0_20170319.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Verify">
+	<summary>
+  Looks up a localized string similar to Verify.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.VisionA1">
+	<summary>
+  Looks up a localized string similar to 비전 A1.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.VisionA2">
+	<summary>
+  Looks up a localized string similar to 비전 A2.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.VisionB1">
+	<summary>
+  Looks up a localized string similar to 비전 B1.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.VisionB2">
+	<summary>
+  Looks up a localized string similar to 비전 B2.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.VisionDelayms">
+	<summary>
+  Looks up a localized string similar to Vision Delay (ms).
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.VisionZmm">
+	<summary>
+  Looks up a localized string similar to Vision_Z[mm]:.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.VLineData">
+	<summary>
+  Looks up a localized string similar to V-Line Data.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Water">
+	<summary>
+  Looks up a localized string similar to Water :.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.WaterDDay">
+	<summary>
+  Looks up a localized string similar to Water D-Day :.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Write">
+	<summary>
+  Looks up a localized string similar to 쓰기.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.X1">
+	<summary>
+  Looks up a localized string similar to X1.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.X2">
+	<summary>
+  Looks up a localized string similar to X2.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.XCurruntPos">
+	<summary>
+  Looks up a localized string similar to X 현재위치.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.XEndpos">
+	<summary>
+  Looks up a localized string similar to X 종료 위치.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.XStartpos">
+	<summary>
+  Looks up a localized string similar to X 시작 위치.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Y">
+	<summary>
+  Looks up a localized string similar to Y.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.YCurruntPos">
+	<summary>
+  Looks up a localized string similar to Y 현재위치.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.YEndpos">
+	<summary>
+  Looks up a localized string similar to Y 종료 위치.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.YNumberoftimes">
+	<summary>
+  Looks up a localized string similar to Y 진행 횟수.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.YStartpos">
+	<summary>
+  Looks up a localized string similar to Y 시작 위치.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.zeropointdel">
+	<summary>
+  Looks up a localized string similar to 영점 해제.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.zeropointset">
+	<summary>
+  Looks up a localized string similar to 영점 설정.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.setLan.Zoom">
+	<summary>
+  Looks up a localized string similar to 확대.
+</summary>
+</member><member name="T:Laser_Chamfering_System.My.Resources.setLan">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="M:Laser_Chamfering_System.MilImageProcessor.DrawMarkCenter(Matrox.MatroxImagingLibrary.MIL_ID,System.Drawing.Point,System.Drawing.Color)">
+//////////////////////////////////////////////////////////////
+@author	:LG.PRI.WOOCHUL
+@brief	: 이미지상에 주어진 기준점위치를 십자마크로 Drawing하는 함수
+- MilLibrary의 Migra.. 함수를 사용하며 그리며, 선폭 파라미터를 설정하기가 어려우므로 여러번 중첩시켜 Drawing 함.
+- 우선은 Passivation의 Dotting위치를 이미지상에 디스플레이하여 작업자가 제대로 보정이 이루어졌는지 확인하기 위하여 표시함.
+@param	MIL_ID srcImage: Drawing 할 Image Buffer, CPoint ptRef: Drawing할 기준점의 위치
+@return	BOOL 연산 실패여부 반환
+@see	:
+@date	:2009.3.11
+//////////////////////////////////////////////////////////////
+
+</member><member name="M:Laser_Chamfering_System.MilImageProcessor.DrawText(Matrox.MatroxImagingLibrary.MIL_ID,System.Drawing.Point,System.Collections.Generic.List{System.String}@,System.Drawing.Color)">
+//////////////////////////////////////////////////////////////
+@author	:LG.PRI.WOOCHUL
+@brief	: 이미지상에 주어진 TEXT를 쓰는 함수 
+- FONT 는 M_FONT_DEFAULT_MEDIUM 로 설정함.
+- 
+@param	MIL_ID srcImage: Drawing 할 Image Buffer, CPoint ptLeftTop: Drawing할 기준점의 Left-Top 위치, szArray:Drawing할 Text의 Array값
+@return	BOOL 연산 실패여부 반환
+@see	
+@date	:2009.3.11
+//////////////////////////////////////////////////////////////
+
+</member><member name="M:Laser_Chamfering_System.MilImageProcessor.DrawMarkBoundary(Matrox.MatroxImagingLibrary.MIL_ID,System.Int32,System.Drawing.Point[],System.Drawing.Color)">
+//////////////////////////////////////////////////////////////
+@author	:LG.PRI.WOOCHUL
+@brief	: 이미지상에 주어진 Edge Chain Code들을 그리는 함수
+- MilLibrary의 Migra.. 함수를 사용하며 그림.
+@return	BOOL 연산 실패여부 반환
+@see	:
+@date	:2010.11.18
+//////////////////////////////////////////////////////////////
+
+</member><member name="M:Laser_Chamfering_System.MilImageProcessor.DrawCircleBoundary(Matrox.MatroxImagingLibrary.MIL_ID,System.Drawing.Point,System.Int32,System.Drawing.Color)">
+//////////////////////////////////////////////////////////////
+@author	:LG.PRI.INSIK
+@brief	: 이미지상에 주어진 Edge Chain Code들을 그리는 함수
+- MilLibrary의 Migra.. 함수를 사용하며 그림.
+@return	BOOL 연산 실패여부 반환
+@see	:
+@date	:2011.3.12
+//////////////////////////////////////////////////////////////
+
+</member><member name="M:Laser_Chamfering_System.MilImageProcessor.DrawRect(Matrox.MatroxImagingLibrary.MIL_ID,System.Drawing.Rectangle,System.Drawing.Color)">
+//////////////////////////////////////////////////////////////
+@author	:LG.PRI.WOOCHUL
+@brief	: 이미지상에 RECT그리는 함수
+- MilLibrary의 Migra.. 함수를 사용하며 그림.
+@return	BOOL 연산 실패여부 반환
+@see	:
+@date	:2010.11.18
+//////////////////////////////////////////////////////////////
+
+</member>
+</members>
+</doc>

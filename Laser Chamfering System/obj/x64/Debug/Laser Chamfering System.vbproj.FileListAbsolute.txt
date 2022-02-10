@@ -1,0 +1,456 @@
+D:\source\VN_E62_4H_Trimming_LaserSource_20211224\Laser Chamfering System\obj\x64\Debug\Laser Chamfering System.vbproj.ResolveComReference.cache
+D:\source\VN_E62_4H_Trimming_LaserSource_20211224\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.AlignMarkWnd.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211224\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmAlarmLog.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211224\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmAlignMarkSetting.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211224\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmAutoFocus.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211224\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmCamResolution.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211224\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmEmpty.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211224\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmInit.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211224\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmLaserAutoFucusCheck.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211224\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmLog.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211224\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmLogIn.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211224\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmMachine.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211224\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmMarkChangeMSG.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211224\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmMarkDataEditer.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211224\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmMSG.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211224\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmRecipe.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211224\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmRunStatus.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211224\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmSequence.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211224\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmSeqVision.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211224\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmSetting.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211224\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmSimulTest.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211224\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmSubMark.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211224\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmTopMenu.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211224\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmVision.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211224\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmVisionLightParam.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211224\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmVisonSetting.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211224\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.LiveImageWnd.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211224\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.MilImageWnd.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211224\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmAlarm.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211224\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmDigitalIO.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211224\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmSettingModigm.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211224\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmAlignDataView.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211224\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.MDI_MAIN.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211224\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.setLan.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211224\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.ctlUseLightTimeData.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211224\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.ctrlDisplacePart.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211224\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.ctrlPLCBit.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211224\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.ctrlPlcBitdata.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211224\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.ctrlPcBitdata.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211224\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.ctrlRecipeAlignMark.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211224\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.ctrlRecipeMarkEditor_Old.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211224\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.ctrlSelection.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211224\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.ctrlSettingCalib.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211224\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.ctrlDisplace.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211224\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.ctrlSettingLaser.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211224\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.ctrlSettingPlcInterface.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211224\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.ctrlSettingSysParam.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211224\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.Resources.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211224\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.ctrlAlignMarkSetting.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211224\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.ctrlRecipeAlign.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211224\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.ctrlRecipeMarkEditor.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211224\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.ctrlOneVision.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211224\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.ctrlRecipeMarking.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211224\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.ctrlSettingScanner.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211224\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.ctrlSeqVision.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211224\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.setLan.en.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211224\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.setLan.vi.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211224\Laser Chamfering System\obj\x64\Debug\Laser Chamfering System.vbproj.GenerateResource.Cache
+D:\source\VN_E62_4H_Trimming_LaserSource_20211224\Laser Chamfering System\bin\x64\Debug\Laser Chamfering System.exe.config
+D:\source\VN_E62_4H_Trimming_LaserSource_20211224\Laser Chamfering System\obj\x64\Debug\Laser Chamfering System.vbprojResolveAssemblyReference.cache
+D:\source\VN_E62_4H_Trimming_LaserSource_20211224\Laser Chamfering System\bin\x64\Debug\Laser Chamfering System.exe
+D:\source\VN_E62_4H_Trimming_LaserSource_20211224\Laser Chamfering System\bin\x64\Debug\Laser Chamfering System.pdb
+D:\source\VN_E62_4H_Trimming_LaserSource_20211224\Laser Chamfering System\bin\x64\Debug\Laser Chamfering System.xml
+D:\source\VN_E62_4H_Trimming_LaserSource_20211224\Laser Chamfering System\bin\x64\Debug\en\Laser Chamfering System.resources.dll
+D:\source\VN_E62_4H_Trimming_LaserSource_20211224\Laser Chamfering System\bin\x64\Debug\vi\Laser Chamfering System.resources.dll
+D:\source\VN_E62_4H_Trimming_LaserSource_20211224\Laser Chamfering System\bin\x64\Debug\AxInterop.AXTMESSENGERLib.dll
+D:\source\VN_E62_4H_Trimming_LaserSource_20211224\Laser Chamfering System\bin\x64\Debug\GetCoreTempInfoNET.dll
+D:\source\VN_E62_4H_Trimming_LaserSource_20211224\Laser Chamfering System\bin\x64\Debug\Interop.ActUtlType64Lib.dll
+D:\source\VN_E62_4H_Trimming_LaserSource_20211224\Laser Chamfering System\bin\x64\Debug\Interop.ActUtlTypeLib.dll
+D:\source\VN_E62_4H_Trimming_LaserSource_20211224\Laser Chamfering System\bin\x64\Debug\Interop.AXTMESSENGERLib.dll
+D:\source\VN_E62_4H_Trimming_LaserSource_20211224\Laser Chamfering System\bin\x64\Debug\Matrox.MatroxImagingLibrary.dll
+D:\source\VN_E62_4H_Trimming_LaserSource_20211224\Laser Chamfering System\bin\x64\Debug\ModigmClientLibrary.DLL
+D:\source\VN_E62_4H_Trimming_LaserSource_20211224\Laser Chamfering System\bin\x64\Debug\ModigmClientWrapper.dll
+D:\source\VN_E62_4H_Trimming_LaserSource_20211224\Laser Chamfering System\bin\x64\Debug\hasp_net_windows.dll
+D:\source\VN_E62_4H_Trimming_LaserSource_20211224\Laser Chamfering System\bin\x64\Debug\Matrox.MatroxImagingLibrary.xml
+D:\source\VN_E62_4H_Trimming_LaserSource_20211224\Laser Chamfering System\obj\x64\Debug\en\Laser Chamfering System.resources.dll
+D:\source\VN_E62_4H_Trimming_LaserSource_20211224\Laser Chamfering System\obj\x64\Debug\vi\Laser Chamfering System.resources.dll
+D:\source\VN_E62_4H_Trimming_LaserSource_20211224\Laser Chamfering System\obj\x64\Debug\Laser Chamfering System.exe
+D:\source\VN_E62_4H_Trimming_LaserSource_20211224\Laser Chamfering System\obj\x64\Debug\Laser Chamfering System.xml
+D:\source\VN_E62_4H_Trimming_LaserSource_20211224\Laser Chamfering System\obj\x64\Debug\Laser Chamfering System.pdb
+D:\source\VN_E62_4H_Trimming_LaserSource_20211228_수정완료\Laser Chamfering System\bin\x64\Debug\Laser Chamfering System.exe.config
+D:\source\VN_E62_4H_Trimming_LaserSource_20211228_수정완료\Laser Chamfering System\bin\x64\Debug\Laser Chamfering System.exe
+D:\source\VN_E62_4H_Trimming_LaserSource_20211228_수정완료\Laser Chamfering System\bin\x64\Debug\Laser Chamfering System.pdb
+D:\source\VN_E62_4H_Trimming_LaserSource_20211228_수정완료\Laser Chamfering System\bin\x64\Debug\Laser Chamfering System.xml
+D:\source\VN_E62_4H_Trimming_LaserSource_20211228_수정완료\Laser Chamfering System\bin\x64\Debug\en\Laser Chamfering System.resources.dll
+D:\source\VN_E62_4H_Trimming_LaserSource_20211228_수정완료\Laser Chamfering System\bin\x64\Debug\vi\Laser Chamfering System.resources.dll
+D:\source\VN_E62_4H_Trimming_LaserSource_20211228_수정완료\Laser Chamfering System\bin\x64\Debug\AxInterop.AXTMESSENGERLib.dll
+D:\source\VN_E62_4H_Trimming_LaserSource_20211228_수정완료\Laser Chamfering System\bin\x64\Debug\GetCoreTempInfoNET.dll
+D:\source\VN_E62_4H_Trimming_LaserSource_20211228_수정완료\Laser Chamfering System\bin\x64\Debug\Interop.ActUtlType64Lib.dll
+D:\source\VN_E62_4H_Trimming_LaserSource_20211228_수정완료\Laser Chamfering System\bin\x64\Debug\Interop.ActUtlTypeLib.dll
+D:\source\VN_E62_4H_Trimming_LaserSource_20211228_수정완료\Laser Chamfering System\bin\x64\Debug\Interop.AXTMESSENGERLib.dll
+D:\source\VN_E62_4H_Trimming_LaserSource_20211228_수정완료\Laser Chamfering System\bin\x64\Debug\Matrox.MatroxImagingLibrary.dll
+D:\source\VN_E62_4H_Trimming_LaserSource_20211228_수정완료\Laser Chamfering System\bin\x64\Debug\Matrox.MatroxImagingLibrary.xml
+D:\source\VN_E62_4H_Trimming_LaserSource_20211228_수정완료\Laser Chamfering System\obj\x64\Debug\Laser Chamfering System.vbproj.ResolveComReference.cache
+D:\source\VN_E62_4H_Trimming_LaserSource_20211228_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.AlignMarkWnd.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211228_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmAlarmLog.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211228_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmAlignMarkSetting.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211228_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmAutoFocus.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211228_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmCamResolution.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211228_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmEmpty.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211228_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmInit.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211228_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmLaserAutoFucusCheck.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211228_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmLog.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211228_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmLogIn.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211228_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmMachine.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211228_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmMarkChangeMSG.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211228_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmMarkDataEditer.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211228_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmMSG.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211228_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmRecipe.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211228_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmRunStatus.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211228_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmSequence.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211228_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmSeqVision.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211228_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmSetting.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211228_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmSimulTest.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211228_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmSubMark.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211228_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmTopMenu.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211228_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmVision.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211228_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmVisionLightParam.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211228_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmVisonSetting.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211228_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.LiveImageWnd.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211228_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.MilImageWnd.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211228_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmAlarm.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211228_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmDigitalIO.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211228_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmSettingModigm.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211228_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmAlignDataView.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211228_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.MDI_MAIN.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211228_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.setLan.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211228_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.ctlUseLightTimeData.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211228_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.ctrlDisplacePart.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211228_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.ctrlPLCBit.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211228_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.ctrlPlcBitdata.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211228_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.ctrlPcBitdata.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211228_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.ctrlRecipeAlignMark.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211228_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.ctrlRecipeMarkEditor_Old.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211228_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.ctrlSelection.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211228_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.ctrlSettingCalib.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211228_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.ctrlDisplace.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211228_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.ctrlSettingLaser.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211228_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.ctrlSettingPlcInterface.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211228_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.ctrlSettingSysParam.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211228_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.Resources.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211228_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.ctrlAlignMarkSetting.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211228_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.ctrlRecipeAlign.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211228_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.ctrlRecipeMarkEditor.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211228_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.ctrlOneVision.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211228_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.ctrlRecipeMarking.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211228_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.ctrlSettingScanner.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211228_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.ctrlSeqVision.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211228_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.setLan.en.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211228_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.setLan.vi.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211228_수정완료\Laser Chamfering System\obj\x64\Debug\Laser Chamfering System.vbproj.GenerateResource.Cache
+D:\source\VN_E62_4H_Trimming_LaserSource_20211228_수정완료\Laser Chamfering System\obj\x64\Debug\en\Laser Chamfering System.resources.dll
+D:\source\VN_E62_4H_Trimming_LaserSource_20211228_수정완료\Laser Chamfering System\obj\x64\Debug\vi\Laser Chamfering System.resources.dll
+D:\source\VN_E62_4H_Trimming_LaserSource_20211228_수정완료\Laser Chamfering System\obj\x64\Debug\Laser Chamfering System.exe
+D:\source\VN_E62_4H_Trimming_LaserSource_20211228_수정완료\Laser Chamfering System\obj\x64\Debug\Laser Chamfering System.xml
+D:\source\VN_E62_4H_Trimming_LaserSource_20211228_수정완료\Laser Chamfering System\obj\x64\Debug\Laser Chamfering System.pdb
+D:\source\VN_E62_4H_Trimming_LaserSource_20211228_수정완료\Laser Chamfering System\obj\x64\Debug\Laser Chamfering System.vbprojResolveAssemblyReference.cache
+D:\source\VN_E62_4H_Trimming_LaserSource_20211229_수정완료\Laser Chamfering System\bin\x64\Debug\Laser Chamfering System.exe.config
+D:\source\VN_E62_4H_Trimming_LaserSource_20211229_수정완료\Laser Chamfering System\bin\x64\Debug\Laser Chamfering System.exe
+D:\source\VN_E62_4H_Trimming_LaserSource_20211229_수정완료\Laser Chamfering System\bin\x64\Debug\Laser Chamfering System.pdb
+D:\source\VN_E62_4H_Trimming_LaserSource_20211229_수정완료\Laser Chamfering System\bin\x64\Debug\Laser Chamfering System.xml
+D:\source\VN_E62_4H_Trimming_LaserSource_20211229_수정완료\Laser Chamfering System\bin\x64\Debug\en\Laser Chamfering System.resources.dll
+D:\source\VN_E62_4H_Trimming_LaserSource_20211229_수정완료\Laser Chamfering System\bin\x64\Debug\vi\Laser Chamfering System.resources.dll
+D:\source\VN_E62_4H_Trimming_LaserSource_20211229_수정완료\Laser Chamfering System\bin\x64\Debug\AxInterop.AXTMESSENGERLib.dll
+D:\source\VN_E62_4H_Trimming_LaserSource_20211229_수정완료\Laser Chamfering System\bin\x64\Debug\GetCoreTempInfoNET.dll
+D:\source\VN_E62_4H_Trimming_LaserSource_20211229_수정완료\Laser Chamfering System\bin\x64\Debug\Interop.ActUtlType64Lib.dll
+D:\source\VN_E62_4H_Trimming_LaserSource_20211229_수정완료\Laser Chamfering System\bin\x64\Debug\Interop.ActUtlTypeLib.dll
+D:\source\VN_E62_4H_Trimming_LaserSource_20211229_수정완료\Laser Chamfering System\bin\x64\Debug\Interop.AXTMESSENGERLib.dll
+D:\source\VN_E62_4H_Trimming_LaserSource_20211229_수정완료\Laser Chamfering System\bin\x64\Debug\Matrox.MatroxImagingLibrary.dll
+D:\source\VN_E62_4H_Trimming_LaserSource_20211229_수정완료\Laser Chamfering System\bin\x64\Debug\Matrox.MatroxImagingLibrary.xml
+D:\source\VN_E62_4H_Trimming_LaserSource_20211229_수정완료\Laser Chamfering System\obj\x64\Debug\Laser Chamfering System.vbprojResolveAssemblyReference.cache
+D:\source\VN_E62_4H_Trimming_LaserSource_20211229_수정완료\Laser Chamfering System\obj\x64\Debug\Laser Chamfering System.vbproj.ResolveComReference.cache
+D:\source\VN_E62_4H_Trimming_LaserSource_20211229_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.AlignMarkWnd.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211229_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmAlarmLog.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211229_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmAlignMarkSetting.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211229_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmAutoFocus.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211229_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmCamResolution.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211229_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmEmpty.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211229_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmInit.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211229_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmLaserAutoFucusCheck.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211229_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmLog.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211229_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmLogIn.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211229_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmMachine.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211229_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmMarkChangeMSG.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211229_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmMarkDataEditer.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211229_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmMSG.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211229_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmRecipe.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211229_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmRunStatus.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211229_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmSequence.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211229_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmSeqVision.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211229_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmSetting.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211229_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmSimulTest.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211229_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmSubMark.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211229_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmTopMenu.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211229_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmVision.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211229_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmVisionLightParam.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211229_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmVisonSetting.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211229_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.LiveImageWnd.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211229_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.MilImageWnd.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211229_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmAlarm.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211229_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmDigitalIO.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211229_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmSettingModigm.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211229_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmAlignDataView.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211229_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.MDI_MAIN.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211229_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.setLan.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211229_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.ctlUseLightTimeData.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211229_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.ctrlDisplacePart.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211229_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.ctrlPLCBit.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211229_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.ctrlPlcBitdata.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211229_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.ctrlPcBitdata.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211229_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.ctrlRecipeAlignMark.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211229_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.ctrlRecipeMarkEditor_Old.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211229_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.ctrlSelection.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211229_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.ctrlSettingCalib.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211229_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.ctrlDisplace.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211229_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.ctrlSettingLaser.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211229_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.ctrlSettingPlcInterface.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211229_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.ctrlSettingSysParam.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211229_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.Resources.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211229_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.ctrlAlignMarkSetting.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211229_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.ctrlRecipeAlign.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211229_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.ctrlRecipeMarkEditor.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211229_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.ctrlOneVision.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211229_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.ctrlRecipeMarking.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211229_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.ctrlSettingScanner.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211229_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.ctrlSeqVision.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211229_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.setLan.en.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211229_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.setLan.vi.resources
+D:\source\VN_E62_4H_Trimming_LaserSource_20211229_수정완료\Laser Chamfering System\obj\x64\Debug\Laser Chamfering System.vbproj.GenerateResource.Cache
+D:\source\VN_E62_4H_Trimming_LaserSource_20211229_수정완료\Laser Chamfering System\obj\x64\Debug\en\Laser Chamfering System.resources.dll
+D:\source\VN_E62_4H_Trimming_LaserSource_20211229_수정완료\Laser Chamfering System\obj\x64\Debug\vi\Laser Chamfering System.resources.dll
+D:\source\VN_E62_4H_Trimming_LaserSource_20211229_수정완료\Laser Chamfering System\obj\x64\Debug\Laser Chamfering System.exe
+D:\source\VN_E62_4H_Trimming_LaserSource_20211229_수정완료\Laser Chamfering System\obj\x64\Debug\Laser Chamfering System.xml
+D:\source\VN_E62_4H_Trimming_LaserSource_20211229_수정완료\Laser Chamfering System\obj\x64\Debug\Laser Chamfering System.pdb
+C:\Users\hpk\Desktop\대구경\20220116_Today\VN_E62_4H_Trimming_LaserSource_20211229_수정완료\Laser Chamfering System\bin\x64\Debug\Laser Chamfering System.exe.config
+C:\Users\hpk\Desktop\대구경\20220116_Today\VN_E62_4H_Trimming_LaserSource_20211229_수정완료\Laser Chamfering System\obj\x64\Debug\Laser Chamfering System.vbproj.ResolveComReference.cache
+C:\Users\hpk\Desktop\대구경\20220116_Today\VN_E62_4H_Trimming_LaserSource_20211229_수정완료\Laser Chamfering System\obj\x64\Debug\Laser Chamfering System.exe
+C:\Users\hpk\Desktop\대구경\20220116_Today\VN_E62_4H_Trimming_LaserSource_20211229_수정완료\Laser Chamfering System\obj\x64\Debug\Laser Chamfering System.xml
+C:\Users\hpk\Desktop\대구경\20220116_Today\VN_E62_4H_Trimming_LaserSource_20211229_수정완료\Laser Chamfering System\obj\x64\Debug\Laser Chamfering System.pdb
+C:\Users\hpk\Desktop\대구경\20220116_Today\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\bin\x64\Debug\Laser Chamfering System.exe.config
+C:\Users\hpk\Desktop\대구경\20220116_Today\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\obj\x64\Debug\Laser Chamfering System.vbproj.ResolveComReference.cache
+C:\Users\hpk\Desktop\대구경\20220116_Today\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\obj\x64\Debug\Laser Chamfering System.exe
+C:\Users\hpk\Desktop\대구경\20220116_Today\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\obj\x64\Debug\Laser Chamfering System.xml
+C:\Users\hpk\Desktop\대구경\20220116_Today\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\obj\x64\Debug\Laser Chamfering System.pdb
+C:\Users\hpk\Desktop\대구경\20220116_Today\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\obj\x64\Debug\Laser Chamfering System.vbprojResolveAssemblyReference.cache
+C:\Users\hpk\Desktop\대구경\20220116_Today\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.AlignMarkWnd.resources
+C:\Users\hpk\Desktop\대구경\20220116_Today\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmAlarmLog.resources
+C:\Users\hpk\Desktop\대구경\20220116_Today\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmAlignMarkSetting.resources
+C:\Users\hpk\Desktop\대구경\20220116_Today\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmAutoFocus.resources
+C:\Users\hpk\Desktop\대구경\20220116_Today\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmCamResolution.resources
+C:\Users\hpk\Desktop\대구경\20220116_Today\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmEmpty.resources
+C:\Users\hpk\Desktop\대구경\20220116_Today\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmInit.resources
+C:\Users\hpk\Desktop\대구경\20220116_Today\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmLaserAutoFucusCheck.resources
+C:\Users\hpk\Desktop\대구경\20220116_Today\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmLog.resources
+C:\Users\hpk\Desktop\대구경\20220116_Today\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmLogIn.resources
+C:\Users\hpk\Desktop\대구경\20220116_Today\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmMachine.resources
+C:\Users\hpk\Desktop\대구경\20220116_Today\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmMarkChangeMSG.resources
+C:\Users\hpk\Desktop\대구경\20220116_Today\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmMarkDataEditer.resources
+C:\Users\hpk\Desktop\대구경\20220116_Today\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmMSG.resources
+C:\Users\hpk\Desktop\대구경\20220116_Today\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmRecipe.resources
+C:\Users\hpk\Desktop\대구경\20220116_Today\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmRunStatus.resources
+C:\Users\hpk\Desktop\대구경\20220116_Today\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmSequence.resources
+C:\Users\hpk\Desktop\대구경\20220116_Today\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmSeqVision.resources
+C:\Users\hpk\Desktop\대구경\20220116_Today\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmSetting.resources
+C:\Users\hpk\Desktop\대구경\20220116_Today\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmSimulTest.resources
+C:\Users\hpk\Desktop\대구경\20220116_Today\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmSubMark.resources
+C:\Users\hpk\Desktop\대구경\20220116_Today\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmTopMenu.resources
+C:\Users\hpk\Desktop\대구경\20220116_Today\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmVision.resources
+C:\Users\hpk\Desktop\대구경\20220116_Today\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmVisionLightParam.resources
+C:\Users\hpk\Desktop\대구경\20220116_Today\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmVisonSetting.resources
+C:\Users\hpk\Desktop\대구경\20220116_Today\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.LiveImageWnd.resources
+C:\Users\hpk\Desktop\대구경\20220116_Today\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.MilImageWnd.resources
+C:\Users\hpk\Desktop\대구경\20220116_Today\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmAlarm.resources
+C:\Users\hpk\Desktop\대구경\20220116_Today\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmDigitalIO.resources
+C:\Users\hpk\Desktop\대구경\20220116_Today\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmSettingModigm.resources
+C:\Users\hpk\Desktop\대구경\20220116_Today\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmAlignDataView.resources
+C:\Users\hpk\Desktop\대구경\20220116_Today\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.MDI_MAIN.resources
+C:\Users\hpk\Desktop\대구경\20220116_Today\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.setLan.resources
+C:\Users\hpk\Desktop\대구경\20220116_Today\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.ctlUseLightTimeData.resources
+C:\Users\hpk\Desktop\대구경\20220116_Today\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.ctrlDisplacePart.resources
+C:\Users\hpk\Desktop\대구경\20220116_Today\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.ctrlPLCBit.resources
+C:\Users\hpk\Desktop\대구경\20220116_Today\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.ctrlPlcBitdata.resources
+C:\Users\hpk\Desktop\대구경\20220116_Today\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.ctrlPcBitdata.resources
+C:\Users\hpk\Desktop\대구경\20220116_Today\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.ctrlRecipeAlignMark.resources
+C:\Users\hpk\Desktop\대구경\20220116_Today\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.ctrlRecipeMarkEditor_Old.resources
+C:\Users\hpk\Desktop\대구경\20220116_Today\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.ctrlSelection.resources
+C:\Users\hpk\Desktop\대구경\20220116_Today\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.ctrlSettingCalib.resources
+C:\Users\hpk\Desktop\대구경\20220116_Today\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.ctrlDisplace.resources
+C:\Users\hpk\Desktop\대구경\20220116_Today\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.ctrlSettingLaser.resources
+C:\Users\hpk\Desktop\대구경\20220116_Today\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.ctrlSettingPlcInterface.resources
+C:\Users\hpk\Desktop\대구경\20220116_Today\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.ctrlSettingSysParam.resources
+C:\Users\hpk\Desktop\대구경\20220116_Today\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.Resources.resources
+C:\Users\hpk\Desktop\대구경\20220116_Today\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.ctrlAlignMarkSetting.resources
+C:\Users\hpk\Desktop\대구경\20220116_Today\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.ctrlRecipeAlign.resources
+C:\Users\hpk\Desktop\대구경\20220116_Today\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.ctrlRecipeMarkEditor.resources
+C:\Users\hpk\Desktop\대구경\20220116_Today\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.ctrlOneVision.resources
+C:\Users\hpk\Desktop\대구경\20220116_Today\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.ctrlRecipeMarking.resources
+C:\Users\hpk\Desktop\대구경\20220116_Today\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.ctrlSettingScanner.resources
+C:\Users\hpk\Desktop\대구경\20220116_Today\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.ctrlSeqVision.resources
+C:\Users\hpk\Desktop\대구경\20220116_Today\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.setLan.en.resources
+C:\Users\hpk\Desktop\대구경\20220116_Today\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.setLan.vi.resources
+C:\Users\hpk\Desktop\대구경\20220116_Today\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\obj\x64\Debug\Laser Chamfering System.vbproj.GenerateResource.Cache
+C:\Users\hpk\Desktop\대구경\20220116_Today\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\bin\x64\Debug\Laser Chamfering System.exe
+C:\Users\hpk\Desktop\대구경\20220116_Today\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\bin\x64\Debug\Laser Chamfering System.pdb
+C:\Users\hpk\Desktop\대구경\20220116_Today\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\bin\x64\Debug\Laser Chamfering System.xml
+C:\Users\hpk\Desktop\대구경\20220116_Today\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\bin\x64\Debug\en\Laser Chamfering System.resources.dll
+C:\Users\hpk\Desktop\대구경\20220116_Today\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\bin\x64\Debug\vi\Laser Chamfering System.resources.dll
+C:\Users\hpk\Desktop\대구경\20220116_Today\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\bin\x64\Debug\AxInterop.AXTMESSENGERLib.dll
+C:\Users\hpk\Desktop\대구경\20220116_Today\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\bin\x64\Debug\GetCoreTempInfoNET.dll
+C:\Users\hpk\Desktop\대구경\20220116_Today\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\bin\x64\Debug\Interop.ActUtlType64Lib.dll
+C:\Users\hpk\Desktop\대구경\20220116_Today\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\bin\x64\Debug\Interop.ActUtlTypeLib.dll
+C:\Users\hpk\Desktop\대구경\20220116_Today\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\bin\x64\Debug\Interop.AXTMESSENGERLib.dll
+C:\Users\hpk\Desktop\대구경\20220116_Today\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\bin\x64\Debug\Matrox.MatroxImagingLibrary.dll
+C:\Users\hpk\Desktop\대구경\20220116_Today\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\bin\x64\Debug\Matrox.MatroxImagingLibrary.xml
+C:\Users\hpk\Desktop\대구경\20220116_Today\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\obj\x64\Debug\en\Laser Chamfering System.resources.dll
+C:\Users\hpk\Desktop\대구경\20220116_Today\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\obj\x64\Debug\vi\Laser Chamfering System.resources.dll
+C:\Users\1\Desktop\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\bin\x64\Debug\Laser Chamfering System.exe.config
+C:\Users\1\Desktop\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\bin\x64\Debug\Laser Chamfering System.exe
+C:\Users\1\Desktop\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\bin\x64\Debug\Laser Chamfering System.pdb
+C:\Users\1\Desktop\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\bin\x64\Debug\Laser Chamfering System.xml
+C:\Users\1\Desktop\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\bin\x64\Debug\en\Laser Chamfering System.resources.dll
+C:\Users\1\Desktop\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\bin\x64\Debug\vi\Laser Chamfering System.resources.dll
+C:\Users\1\Desktop\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\bin\x64\Debug\AxInterop.AXTMESSENGERLib.dll
+C:\Users\1\Desktop\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\bin\x64\Debug\GetCoreTempInfoNET.dll
+C:\Users\1\Desktop\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\bin\x64\Debug\Interop.ActUtlType64Lib.dll
+C:\Users\1\Desktop\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\bin\x64\Debug\Interop.ActUtlTypeLib.dll
+C:\Users\1\Desktop\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\bin\x64\Debug\Interop.AXTMESSENGERLib.dll
+C:\Users\1\Desktop\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\bin\x64\Debug\Matrox.MatroxImagingLibrary.dll
+C:\Users\1\Desktop\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\bin\x64\Debug\Matrox.MatroxImagingLibrary.xml
+C:\Users\1\Desktop\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\obj\x64\Debug\Laser Chamfering System.vbprojResolveAssemblyReference.cache
+C:\Users\1\Desktop\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\obj\x64\Debug\Laser Chamfering System.vbproj.ResolveComReference.cache
+C:\Users\1\Desktop\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.AlignMarkWnd.resources
+C:\Users\1\Desktop\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmAlarmLog.resources
+C:\Users\1\Desktop\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmAlignMarkSetting.resources
+C:\Users\1\Desktop\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmAutoFocus.resources
+C:\Users\1\Desktop\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmCamResolution.resources
+C:\Users\1\Desktop\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmEmpty.resources
+C:\Users\1\Desktop\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmInit.resources
+C:\Users\1\Desktop\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmLaserAutoFucusCheck.resources
+C:\Users\1\Desktop\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmLog.resources
+C:\Users\1\Desktop\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmLogIn.resources
+C:\Users\1\Desktop\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmMachine.resources
+C:\Users\1\Desktop\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmMarkChangeMSG.resources
+C:\Users\1\Desktop\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmMarkDataEditer.resources
+C:\Users\1\Desktop\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmMSG.resources
+C:\Users\1\Desktop\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmRecipe.resources
+C:\Users\1\Desktop\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmRunStatus.resources
+C:\Users\1\Desktop\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmSequence.resources
+C:\Users\1\Desktop\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmSeqVision.resources
+C:\Users\1\Desktop\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmSetting.resources
+C:\Users\1\Desktop\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmSimulTest.resources
+C:\Users\1\Desktop\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmSubMark.resources
+C:\Users\1\Desktop\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmTopMenu.resources
+C:\Users\1\Desktop\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmVision.resources
+C:\Users\1\Desktop\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmVisionLightParam.resources
+C:\Users\1\Desktop\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmVisonSetting.resources
+C:\Users\1\Desktop\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.LiveImageWnd.resources
+C:\Users\1\Desktop\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.MilImageWnd.resources
+C:\Users\1\Desktop\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmAlarm.resources
+C:\Users\1\Desktop\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmDigitalIO.resources
+C:\Users\1\Desktop\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmSettingModigm.resources
+C:\Users\1\Desktop\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmAlignDataView.resources
+C:\Users\1\Desktop\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.MDI_MAIN.resources
+C:\Users\1\Desktop\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.setLan.resources
+C:\Users\1\Desktop\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.ctlUseLightTimeData.resources
+C:\Users\1\Desktop\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.ctrlDisplacePart.resources
+C:\Users\1\Desktop\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.ctrlPLCBit.resources
+C:\Users\1\Desktop\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.ctrlPlcBitdata.resources
+C:\Users\1\Desktop\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.ctrlPcBitdata.resources
+C:\Users\1\Desktop\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.ctrlRecipeAlignMark.resources
+C:\Users\1\Desktop\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.ctrlRecipeMarkEditor_Old.resources
+C:\Users\1\Desktop\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.ctrlSelection.resources
+C:\Users\1\Desktop\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.ctrlSettingCalib.resources
+C:\Users\1\Desktop\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.ctrlDisplace.resources
+C:\Users\1\Desktop\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.ctrlSettingLaser.resources
+C:\Users\1\Desktop\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.ctrlSettingPlcInterface.resources
+C:\Users\1\Desktop\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.ctrlSettingSysParam.resources
+C:\Users\1\Desktop\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.Resources.resources
+C:\Users\1\Desktop\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.ctrlAlignMarkSetting.resources
+C:\Users\1\Desktop\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.ctrlRecipeAlign.resources
+C:\Users\1\Desktop\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.ctrlRecipeMarkEditor.resources
+C:\Users\1\Desktop\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.ctrlOneVision.resources
+C:\Users\1\Desktop\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.ctrlRecipeMarking.resources
+C:\Users\1\Desktop\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.ctrlSettingScanner.resources
+C:\Users\1\Desktop\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.ctrlSeqVision.resources
+C:\Users\1\Desktop\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.setLan.en.resources
+C:\Users\1\Desktop\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.setLan.vi.resources
+C:\Users\1\Desktop\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\obj\x64\Debug\Laser Chamfering System.vbproj.GenerateResource.Cache
+C:\Users\1\Desktop\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\obj\x64\Debug\en\Laser Chamfering System.resources.dll
+C:\Users\1\Desktop\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\obj\x64\Debug\vi\Laser Chamfering System.resources.dll
+C:\Users\1\Desktop\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\obj\x64\Debug\Laser Chamfering System.exe
+C:\Users\1\Desktop\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\obj\x64\Debug\Laser Chamfering System.xml
+C:\Users\1\Desktop\VN_E62_4H_Trimming_LaserSource_20220116_수정완료\Laser Chamfering System\obj\x64\Debug\Laser Chamfering System.pdb
+E:\【01】 PROJECT\[2022] PROJECT\[P00] DS000020_VH 대구경 Trimming 신작 3대\[01] SOURCE\MAIN\VN_E62_4H_Trimming_LaserSource_20220116_수정완료 (2)\Laser Chamfering System\obj\x64\Debug\Laser Chamfering System.vbprojAssemblyReference.cache
+E:\【01】 PROJECT\[2022] PROJECT\[P00] DS000020_VH 대구경 Trimming 신작 3대\[01] SOURCE\MAIN\VN_E62_4H_Trimming_LaserSource_20220116_수정완료 (2)\Laser Chamfering System\obj\x64\Debug\Laser Chamfering System.vbproj.ResolveComReference.cache
+E:\【01】 PROJECT\[2022] PROJECT\[P00] DS000020_VH 대구경 Trimming 신작 3대\[01] SOURCE\MAIN\VN_E62_4H_Trimming_LaserSource_20220116_수정완료 (2)\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.AlignMarkWnd.resources
+E:\【01】 PROJECT\[2022] PROJECT\[P00] DS000020_VH 대구경 Trimming 신작 3대\[01] SOURCE\MAIN\VN_E62_4H_Trimming_LaserSource_20220116_수정완료 (2)\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmAlarmLog.resources
+E:\【01】 PROJECT\[2022] PROJECT\[P00] DS000020_VH 대구경 Trimming 신작 3대\[01] SOURCE\MAIN\VN_E62_4H_Trimming_LaserSource_20220116_수정완료 (2)\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmAlignMarkSetting.resources
+E:\【01】 PROJECT\[2022] PROJECT\[P00] DS000020_VH 대구경 Trimming 신작 3대\[01] SOURCE\MAIN\VN_E62_4H_Trimming_LaserSource_20220116_수정완료 (2)\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmAutoFocus.resources
+E:\【01】 PROJECT\[2022] PROJECT\[P00] DS000020_VH 대구경 Trimming 신작 3대\[01] SOURCE\MAIN\VN_E62_4H_Trimming_LaserSource_20220116_수정완료 (2)\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmCamResolution.resources
+E:\【01】 PROJECT\[2022] PROJECT\[P00] DS000020_VH 대구경 Trimming 신작 3대\[01] SOURCE\MAIN\VN_E62_4H_Trimming_LaserSource_20220116_수정완료 (2)\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmEmpty.resources
+E:\【01】 PROJECT\[2022] PROJECT\[P00] DS000020_VH 대구경 Trimming 신작 3대\[01] SOURCE\MAIN\VN_E62_4H_Trimming_LaserSource_20220116_수정완료 (2)\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmInit.resources
+E:\【01】 PROJECT\[2022] PROJECT\[P00] DS000020_VH 대구경 Trimming 신작 3대\[01] SOURCE\MAIN\VN_E62_4H_Trimming_LaserSource_20220116_수정완료 (2)\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmLaserAutoFucusCheck.resources
+E:\【01】 PROJECT\[2022] PROJECT\[P00] DS000020_VH 대구경 Trimming 신작 3대\[01] SOURCE\MAIN\VN_E62_4H_Trimming_LaserSource_20220116_수정완료 (2)\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmLog.resources
+E:\【01】 PROJECT\[2022] PROJECT\[P00] DS000020_VH 대구경 Trimming 신작 3대\[01] SOURCE\MAIN\VN_E62_4H_Trimming_LaserSource_20220116_수정완료 (2)\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmLogIn.resources
+E:\【01】 PROJECT\[2022] PROJECT\[P00] DS000020_VH 대구경 Trimming 신작 3대\[01] SOURCE\MAIN\VN_E62_4H_Trimming_LaserSource_20220116_수정완료 (2)\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmMachine.resources
+E:\【01】 PROJECT\[2022] PROJECT\[P00] DS000020_VH 대구경 Trimming 신작 3대\[01] SOURCE\MAIN\VN_E62_4H_Trimming_LaserSource_20220116_수정완료 (2)\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmMarkChangeMSG.resources
+E:\【01】 PROJECT\[2022] PROJECT\[P00] DS000020_VH 대구경 Trimming 신작 3대\[01] SOURCE\MAIN\VN_E62_4H_Trimming_LaserSource_20220116_수정완료 (2)\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmMarkDataEditer.resources
+E:\【01】 PROJECT\[2022] PROJECT\[P00] DS000020_VH 대구경 Trimming 신작 3대\[01] SOURCE\MAIN\VN_E62_4H_Trimming_LaserSource_20220116_수정완료 (2)\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmMSG.resources
+E:\【01】 PROJECT\[2022] PROJECT\[P00] DS000020_VH 대구경 Trimming 신작 3대\[01] SOURCE\MAIN\VN_E62_4H_Trimming_LaserSource_20220116_수정완료 (2)\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmRecipe.resources
+E:\【01】 PROJECT\[2022] PROJECT\[P00] DS000020_VH 대구경 Trimming 신작 3대\[01] SOURCE\MAIN\VN_E62_4H_Trimming_LaserSource_20220116_수정완료 (2)\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmRunStatus.resources
+E:\【01】 PROJECT\[2022] PROJECT\[P00] DS000020_VH 대구경 Trimming 신작 3대\[01] SOURCE\MAIN\VN_E62_4H_Trimming_LaserSource_20220116_수정완료 (2)\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmSequence.resources
+E:\【01】 PROJECT\[2022] PROJECT\[P00] DS000020_VH 대구경 Trimming 신작 3대\[01] SOURCE\MAIN\VN_E62_4H_Trimming_LaserSource_20220116_수정완료 (2)\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmSeqVision.resources
+E:\【01】 PROJECT\[2022] PROJECT\[P00] DS000020_VH 대구경 Trimming 신작 3대\[01] SOURCE\MAIN\VN_E62_4H_Trimming_LaserSource_20220116_수정완료 (2)\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmSetting.resources
+E:\【01】 PROJECT\[2022] PROJECT\[P00] DS000020_VH 대구경 Trimming 신작 3대\[01] SOURCE\MAIN\VN_E62_4H_Trimming_LaserSource_20220116_수정완료 (2)\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmSimulTest.resources
+E:\【01】 PROJECT\[2022] PROJECT\[P00] DS000020_VH 대구경 Trimming 신작 3대\[01] SOURCE\MAIN\VN_E62_4H_Trimming_LaserSource_20220116_수정완료 (2)\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmSubMark.resources
+E:\【01】 PROJECT\[2022] PROJECT\[P00] DS000020_VH 대구경 Trimming 신작 3대\[01] SOURCE\MAIN\VN_E62_4H_Trimming_LaserSource_20220116_수정완료 (2)\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmTopMenu.resources
+E:\【01】 PROJECT\[2022] PROJECT\[P00] DS000020_VH 대구경 Trimming 신작 3대\[01] SOURCE\MAIN\VN_E62_4H_Trimming_LaserSource_20220116_수정완료 (2)\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmVision.resources
+E:\【01】 PROJECT\[2022] PROJECT\[P00] DS000020_VH 대구경 Trimming 신작 3대\[01] SOURCE\MAIN\VN_E62_4H_Trimming_LaserSource_20220116_수정완료 (2)\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmVisionLightParam.resources
+E:\【01】 PROJECT\[2022] PROJECT\[P00] DS000020_VH 대구경 Trimming 신작 3대\[01] SOURCE\MAIN\VN_E62_4H_Trimming_LaserSource_20220116_수정완료 (2)\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmVisonSetting.resources
+E:\【01】 PROJECT\[2022] PROJECT\[P00] DS000020_VH 대구경 Trimming 신작 3대\[01] SOURCE\MAIN\VN_E62_4H_Trimming_LaserSource_20220116_수정완료 (2)\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.LiveImageWnd.resources
+E:\【01】 PROJECT\[2022] PROJECT\[P00] DS000020_VH 대구경 Trimming 신작 3대\[01] SOURCE\MAIN\VN_E62_4H_Trimming_LaserSource_20220116_수정완료 (2)\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.MilImageWnd.resources
+E:\【01】 PROJECT\[2022] PROJECT\[P00] DS000020_VH 대구경 Trimming 신작 3대\[01] SOURCE\MAIN\VN_E62_4H_Trimming_LaserSource_20220116_수정완료 (2)\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmAlarm.resources
+E:\【01】 PROJECT\[2022] PROJECT\[P00] DS000020_VH 대구경 Trimming 신작 3대\[01] SOURCE\MAIN\VN_E62_4H_Trimming_LaserSource_20220116_수정완료 (2)\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmDigitalIO.resources
+E:\【01】 PROJECT\[2022] PROJECT\[P00] DS000020_VH 대구경 Trimming 신작 3대\[01] SOURCE\MAIN\VN_E62_4H_Trimming_LaserSource_20220116_수정완료 (2)\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmSettingModigm.resources
+E:\【01】 PROJECT\[2022] PROJECT\[P00] DS000020_VH 대구경 Trimming 신작 3대\[01] SOURCE\MAIN\VN_E62_4H_Trimming_LaserSource_20220116_수정완료 (2)\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.frmAlignDataView.resources
+E:\【01】 PROJECT\[2022] PROJECT\[P00] DS000020_VH 대구경 Trimming 신작 3대\[01] SOURCE\MAIN\VN_E62_4H_Trimming_LaserSource_20220116_수정완료 (2)\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.MDI_MAIN.resources
+E:\【01】 PROJECT\[2022] PROJECT\[P00] DS000020_VH 대구경 Trimming 신작 3대\[01] SOURCE\MAIN\VN_E62_4H_Trimming_LaserSource_20220116_수정완료 (2)\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.setLan.resources
+E:\【01】 PROJECT\[2022] PROJECT\[P00] DS000020_VH 대구경 Trimming 신작 3대\[01] SOURCE\MAIN\VN_E62_4H_Trimming_LaserSource_20220116_수정완료 (2)\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.ctlUseLightTimeData.resources
+E:\【01】 PROJECT\[2022] PROJECT\[P00] DS000020_VH 대구경 Trimming 신작 3대\[01] SOURCE\MAIN\VN_E62_4H_Trimming_LaserSource_20220116_수정완료 (2)\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.ctrlDisplacePart.resources
+E:\【01】 PROJECT\[2022] PROJECT\[P00] DS000020_VH 대구경 Trimming 신작 3대\[01] SOURCE\MAIN\VN_E62_4H_Trimming_LaserSource_20220116_수정완료 (2)\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.ctrlPLCBit.resources
+E:\【01】 PROJECT\[2022] PROJECT\[P00] DS000020_VH 대구경 Trimming 신작 3대\[01] SOURCE\MAIN\VN_E62_4H_Trimming_LaserSource_20220116_수정완료 (2)\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.ctrlPlcBitdata.resources
+E:\【01】 PROJECT\[2022] PROJECT\[P00] DS000020_VH 대구경 Trimming 신작 3대\[01] SOURCE\MAIN\VN_E62_4H_Trimming_LaserSource_20220116_수정완료 (2)\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.ctrlPcBitdata.resources
+E:\【01】 PROJECT\[2022] PROJECT\[P00] DS000020_VH 대구경 Trimming 신작 3대\[01] SOURCE\MAIN\VN_E62_4H_Trimming_LaserSource_20220116_수정완료 (2)\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.ctrlRecipeAlignMark.resources
+E:\【01】 PROJECT\[2022] PROJECT\[P00] DS000020_VH 대구경 Trimming 신작 3대\[01] SOURCE\MAIN\VN_E62_4H_Trimming_LaserSource_20220116_수정완료 (2)\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.ctrlRecipeMarkEditor_Old.resources
+E:\【01】 PROJECT\[2022] PROJECT\[P00] DS000020_VH 대구경 Trimming 신작 3대\[01] SOURCE\MAIN\VN_E62_4H_Trimming_LaserSource_20220116_수정완료 (2)\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.ctrlSelection.resources
+E:\【01】 PROJECT\[2022] PROJECT\[P00] DS000020_VH 대구경 Trimming 신작 3대\[01] SOURCE\MAIN\VN_E62_4H_Trimming_LaserSource_20220116_수정완료 (2)\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.ctrlSettingCalib.resources
+E:\【01】 PROJECT\[2022] PROJECT\[P00] DS000020_VH 대구경 Trimming 신작 3대\[01] SOURCE\MAIN\VN_E62_4H_Trimming_LaserSource_20220116_수정완료 (2)\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.ctrlDisplace.resources
+E:\【01】 PROJECT\[2022] PROJECT\[P00] DS000020_VH 대구경 Trimming 신작 3대\[01] SOURCE\MAIN\VN_E62_4H_Trimming_LaserSource_20220116_수정완료 (2)\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.ctrlSettingLaser.resources
+E:\【01】 PROJECT\[2022] PROJECT\[P00] DS000020_VH 대구경 Trimming 신작 3대\[01] SOURCE\MAIN\VN_E62_4H_Trimming_LaserSource_20220116_수정완료 (2)\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.ctrlSettingPlcInterface.resources
+E:\【01】 PROJECT\[2022] PROJECT\[P00] DS000020_VH 대구경 Trimming 신작 3대\[01] SOURCE\MAIN\VN_E62_4H_Trimming_LaserSource_20220116_수정완료 (2)\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.ctrlSettingSysParam.resources
+E:\【01】 PROJECT\[2022] PROJECT\[P00] DS000020_VH 대구경 Trimming 신작 3대\[01] SOURCE\MAIN\VN_E62_4H_Trimming_LaserSource_20220116_수정완료 (2)\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.Resources.resources
+E:\【01】 PROJECT\[2022] PROJECT\[P00] DS000020_VH 대구경 Trimming 신작 3대\[01] SOURCE\MAIN\VN_E62_4H_Trimming_LaserSource_20220116_수정완료 (2)\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.ctrlAlignMarkSetting.resources
+E:\【01】 PROJECT\[2022] PROJECT\[P00] DS000020_VH 대구경 Trimming 신작 3대\[01] SOURCE\MAIN\VN_E62_4H_Trimming_LaserSource_20220116_수정완료 (2)\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.ctrlRecipeAlign.resources
+E:\【01】 PROJECT\[2022] PROJECT\[P00] DS000020_VH 대구경 Trimming 신작 3대\[01] SOURCE\MAIN\VN_E62_4H_Trimming_LaserSource_20220116_수정완료 (2)\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.ctrlRecipeMarkEditor.resources
+E:\【01】 PROJECT\[2022] PROJECT\[P00] DS000020_VH 대구경 Trimming 신작 3대\[01] SOURCE\MAIN\VN_E62_4H_Trimming_LaserSource_20220116_수정완료 (2)\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.ctrlOneVision.resources
+E:\【01】 PROJECT\[2022] PROJECT\[P00] DS000020_VH 대구경 Trimming 신작 3대\[01] SOURCE\MAIN\VN_E62_4H_Trimming_LaserSource_20220116_수정완료 (2)\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.ctrlRecipeMarking.resources
+E:\【01】 PROJECT\[2022] PROJECT\[P00] DS000020_VH 대구경 Trimming 신작 3대\[01] SOURCE\MAIN\VN_E62_4H_Trimming_LaserSource_20220116_수정완료 (2)\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.ctrlSettingScanner.resources
+E:\【01】 PROJECT\[2022] PROJECT\[P00] DS000020_VH 대구경 Trimming 신작 3대\[01] SOURCE\MAIN\VN_E62_4H_Trimming_LaserSource_20220116_수정완료 (2)\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.ctrlSeqVision.resources
+E:\【01】 PROJECT\[2022] PROJECT\[P00] DS000020_VH 대구경 Trimming 신작 3대\[01] SOURCE\MAIN\VN_E62_4H_Trimming_LaserSource_20220116_수정완료 (2)\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.setLan.en.resources
+E:\【01】 PROJECT\[2022] PROJECT\[P00] DS000020_VH 대구경 Trimming 신작 3대\[01] SOURCE\MAIN\VN_E62_4H_Trimming_LaserSource_20220116_수정완료 (2)\Laser Chamfering System\obj\x64\Debug\Laser_Chamfering_System.setLan.vi.resources
+E:\【01】 PROJECT\[2022] PROJECT\[P00] DS000020_VH 대구경 Trimming 신작 3대\[01] SOURCE\MAIN\VN_E62_4H_Trimming_LaserSource_20220116_수정완료 (2)\Laser Chamfering System\obj\x64\Debug\Laser Chamfering System.vbproj.GenerateResource.cache
+E:\【01】 PROJECT\[2022] PROJECT\[P00] DS000020_VH 대구경 Trimming 신작 3대\[01] SOURCE\MAIN\VN_E62_4H_Trimming_LaserSource_20220116_수정완료 (2)\Laser Chamfering System\obj\x64\Debug\Laser Chamfering System.vbproj.CoreCompileInputs.cache
+E:\【01】 PROJECT\[2022] PROJECT\[P00] DS000020_VH 대구경 Trimming 신작 3대\[01] SOURCE\MAIN\VN_E62_4H_Trimming_LaserSource_20220116_수정완료 (2)\Laser Chamfering System\obj\x64\Debug\Laser Chamfering System.exe
+E:\【01】 PROJECT\[2022] PROJECT\[P00] DS000020_VH 대구경 Trimming 신작 3대\[01] SOURCE\MAIN\VN_E62_4H_Trimming_LaserSource_20220116_수정완료 (2)\Laser Chamfering System\obj\x64\Debug\Laser Chamfering System.xml
+E:\【01】 PROJECT\[2022] PROJECT\[P00] DS000020_VH 대구경 Trimming 신작 3대\[01] SOURCE\MAIN\VN_E62_4H_Trimming_LaserSource_20220116_수정완료 (2)\Laser Chamfering System\obj\x64\Debug\Laser Chamfering System.pdb

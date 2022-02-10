@@ -1,0 +1,78 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+LaserChamferingSystem
+</name>
+</assembly>
+<members>
+<member name="P:Laser_Chamfering_System.My.Resources.Resources.ResourceManager">
+	<summary>
+  이 클래스에서 사용하는 캐시된 ResourceManager 인스턴스를 반환합니다.
+</summary>
+</member><member name="P:Laser_Chamfering_System.My.Resources.Resources.Culture">
+	<summary>
+  이 강력한 형식의 리소스 클래스를 사용하여 모든 리소스 조회에 대한 현재 스레드의 CurrentUICulture
+  속성을 재정의합니다.
+</summary>
+</member><member name="T:Laser_Chamfering_System.My.Resources.Resources">
+	<summary>
+  지역화된 문자열 등을 찾기 위한 강력한 형식의 리소스 클래스입니다.
+</summary>
+</member><member name="M:Laser_Chamfering_System.MilImageProcessor.DrawMarkCenter(Matrox.MatroxImagingLibrary.MIL_ID,System.Drawing.Point,System.Drawing.Color)">
+//////////////////////////////////////////////////////////////
+@author	:LG.PRI.WOOCHUL
+@brief	: 이미지상에 주어진 기준점위치를 십자마크로 Drawing하는 함수
+- MilLibrary의 Migra.. 함수를 사용하며 그리며, 선폭 파라미터를 설정하기가 어려우므로 여러번 중첩시켜 Drawing 함.
+- 우선은 Passivation의 Dotting위치를 이미지상에 디스플레이하여 작업자가 제대로 보정이 이루어졌는지 확인하기 위하여 표시함.
+@param	MIL_ID srcImage: Drawing 할 Image Buffer, CPoint ptRef: Drawing할 기준점의 위치
+@return	BOOL 연산 실패여부 반환
+@see	:
+@date	:2009.3.11
+//////////////////////////////////////////////////////////////
+
+</member><member name="M:Laser_Chamfering_System.MilImageProcessor.DrawText(Matrox.MatroxImagingLibrary.MIL_ID,System.Drawing.Point,System.Collections.Generic.List{System.String}@,System.Drawing.Color)">
+//////////////////////////////////////////////////////////////
+@author	:LG.PRI.WOOCHUL
+@brief	: 이미지상에 주어진 TEXT를 쓰는 함수 
+- FONT 는 M_FONT_DEFAULT_MEDIUM 로 설정함.
+- 
+@param	MIL_ID srcImage: Drawing 할 Image Buffer, CPoint ptLeftTop: Drawing할 기준점의 Left-Top 위치, szArray:Drawing할 Text의 Array값
+@return	BOOL 연산 실패여부 반환
+@see	
+@date	:2009.3.11
+//////////////////////////////////////////////////////////////
+
+</member><member name="M:Laser_Chamfering_System.MilImageProcessor.DrawMarkBoundary(Matrox.MatroxImagingLibrary.MIL_ID,System.Int32,System.Drawing.Point[],System.Drawing.Color)">
+//////////////////////////////////////////////////////////////
+@author	:LG.PRI.WOOCHUL
+@brief	: 이미지상에 주어진 Edge Chain Code들을 그리는 함수
+- MilLibrary의 Migra.. 함수를 사용하며 그림.
+@return	BOOL 연산 실패여부 반환
+@see	:
+@date	:2010.11.18
+//////////////////////////////////////////////////////////////
+
+</member><member name="M:Laser_Chamfering_System.MilImageProcessor.DrawCircleBoundary(Matrox.MatroxImagingLibrary.MIL_ID,System.Drawing.Point,System.Int32,System.Drawing.Color)">
+//////////////////////////////////////////////////////////////
+@author	:LG.PRI.INSIK
+@brief	: 이미지상에 주어진 Edge Chain Code들을 그리는 함수
+- MilLibrary의 Migra.. 함수를 사용하며 그림.
+@return	BOOL 연산 실패여부 반환
+@see	:
+@date	:2011.3.12
+//////////////////////////////////////////////////////////////
+
+</member><member name="M:Laser_Chamfering_System.MilImageProcessor.DrawRect(Matrox.MatroxImagingLibrary.MIL_ID,System.Drawing.Rectangle,System.Drawing.Color)">
+//////////////////////////////////////////////////////////////
+@author	:LG.PRI.WOOCHUL
+@brief	: 이미지상에 RECT그리는 함수
+- MilLibrary의 Migra.. 함수를 사용하며 그림.
+@return	BOOL 연산 실패여부 반환
+@see	:
+@date	:2010.11.18
+//////////////////////////////////////////////////////////////
+
+</member>
+</members>
+</doc>

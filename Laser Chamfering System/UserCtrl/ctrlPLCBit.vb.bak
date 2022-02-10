@@ -1,0 +1,297 @@
+﻿Public Class ctrlPLCBit
+
+    Dim nBoardIdPC As Integer
+    Dim nBoardIdPLC As Integer
+    Dim nBoardIdPCWord As Integer
+    Dim nBoardIdPLCWord As Integer
+
+    Private lWriteBits As New List(Of PlcBitMemoryModel)
+    Private lReadBits As New List(Of PlcBitMemoryModel)
+    Private lWriteWords As New List(Of PlcWordMemoryModel)
+    Private lReadWords As New List(Of PlcWordMemoryModel)
+
+    Private Sub ctrlPLCBit_Load(sender As Object, e As System.EventArgs) Handles Me.Load
+
+        AddPCBitData(0)
+        AddPLCBitData(0)
+
+        nBoardIdPC = 1
+        nBoardIdPLC = 1
+
+        nBoardIdPCWord = 0
+        nBoardIdPLCWord = 0
+
+    End Sub
+
+    Private Sub fnBtnSelect(ByVal nType As Integer, ByVal nIndex As Integer)
+
+        Select Case nType
+
+            Case 0
+                Select Case nIndex
+
+                    Case 0
+                        btnPLCBit.BackColor = Color.Lime
+                        btnPLCWord.BackColor = Color.White
+                    Case 1
+                        btnPLCBit.BackColor = Color.White
+                        btnPLCWord.BackColor = Color.Lime
+                End Select
+            Case 1
+                Select Case nIndex
+
+                    Case 0
+                        btnPCBit.BackColor = Color.Lime
+                        btnPCWord.BackColor = Color.White
+                    Case 1
+                        btnPCBit.BackColor = Color.White
+                        btnPCWord.BackColor = Color.Lime
+                End Select
+
+        End Select
+    End Sub
+
+    Private Function AddPCBitData(nIndex As Integer) As Boolean
+        On Error GoTo SysErr
+
+        lWriteBits = pMXComponent.GetWriteBits
+        dgvPCBitData.RowCount = lWriteBits.Count
+
+        For i As Integer = 0 To dgvPCBitData.RowCount - 1
+            dgvPCBitData.Rows(i).Cells(0).Value = Hex(lWriteBits.Item(i).nAddress)
+            dgvPCBitData.Rows(i).Cells(1).Value = lWriteBits.Item(i).strComment
+            dgvPCBitData.Rows(i).Cells(2).Value = ""
+            dgvPCBitData.Rows(i).Cells(2).ReadOnly = True
+        Next
+
+        nBoardIdPC = nIndex + 1
+        btnPCBit.Text = "PC_Bit"
+        fnBtnSelect(1, 0)
+
+        Return True
+
+        Exit Function
+SysErr:
+        Return False
+    End Function
+
+    Private Function AddPLCBitData(nIndex As Integer) As Boolean
+        On Error GoTo SysErr
+
+        lReadBits = pMXComponent.GetReadBits()
+        dgvPLCBitData.RowCount = lReadBits.Count
+
+        For i As Integer = 0 To dgvPLCBitData.RowCount - 1
+            dgvPLCBitData.Rows(i).Cells(0).Value = Hex(lReadBits.Item(i).nAddress)
+            dgvPLCBitData.Rows(i).Cells(1).Value = lReadBits.Item(i).strComment
+            dgvPLCBitData.Rows(i).Cells(2).Value = ""
+        Next
+
+        nBoardIdPLC = nIndex + 1
+        btnPLCBit.Text = "PLC_Bit"
+        fnBtnSelect(0, 0)
+
+        Return True
+
+        Exit Function
+SysErr:
+        Return False
+    End Function
+
+    Private Function AddPCWordData(nIndex As Integer) As Boolean
+        On Error GoTo SysErr
+
+        'dgvPCBitData.RowCount = pCurPCWordData.nTotalCnt
+
+        'For i As Integer = 0 To dgvPCBitData.RowCount - 1
+        '    dgvPCBitData.Rows(i).Cells(0).Value = pCurPCWordData.strIONo(nIndex, i)
+        '    dgvPCBitData.Rows(i).Cells(1).Value = pCurPCWordData.strIODescription(nIndex, i)
+        '    dgvPCBitData.Rows(i).Cells(2).Style.BackColor = Color.White
+        '    dgvPCBitData.Rows(i).Cells(2).Value = ""
+        '    dgvPCBitData.Rows(i).Cells(2).ReadOnly = False
+        'Next
+        'nBoardIdPCWord = nIndex + 1
+        'btnPCWord.Text = "PC_Word" & (nIndex + 1).ToString
+        'fnBtnSelect(1, 1)
+
+        Return True
+
+        Exit Function
+SysErr:
+        Return False
+    End Function
+
+    Private Function AddPLCWordData(nIndex As Integer) As Boolean
+        On Error GoTo SysErr
+
+        'dgvPLCBitData.RowCount = pCurPLCWordData.nTotalCnt
+
+        'For i As Integer = 0 To dgvPLCBitData.RowCount - 1
+        '    dgvPLCBitData.Rows(i).Cells(0).Value = pCurPLCWordData.strIONo(nIndex, i)
+        '    dgvPLCBitData.Rows(i).Cells(1).Value = pCurPLCWordData.strIODescription(nIndex, i)
+        '    dgvPLCBitData.Rows(i).Cells(2).Style.BackColor = Color.White
+        '    dgvPLCBitData.Rows(i).Cells(2).Value = ""
+        'Next
+        'nBoardIdPLCWord = nIndex + 1
+        'btnPLCWord.Text = "PLC_Word" & (nIndex + 1).ToString
+        'fnBtnSelect(0, 1)
+
+        Return True
+
+        Exit Function
+SysErr:
+        Return False
+    End Function
+
+    Private Sub btnPCBit_Click(sender As System.Object, e As System.EventArgs) Handles btnPCBit.Click
+        'If nBoardIdPC <= mPCBit_BoardCnt Then
+        '    AddPCBitData(nBoardIdPC)
+        'Else
+        '    nBoardIdPC = 0
+        '    AddPCBitData(nBoardIdPC)
+        'End If
+        
+    End Sub
+
+    Private Sub btnPLCBit_Click(sender As System.Object, e As System.EventArgs) Handles btnPLCBit.Click
+        'If nBoardIdPLC <= mPLCBit_BoardCnt Then
+        '    AddPLCBitData(nBoardIdPLC)
+        'Else
+        '    nBoardIdPLC = 0
+        '    AddPLCBitData(nBoardIdPLC)
+        'End If
+
+    End Sub
+
+    Private Sub btnPLCWord_Click(sender As System.Object, e As System.EventArgs) Handles btnPLCWord.Click
+        'If nBoardIdPLCWord <= mPLCWord_BoardCnt Then
+        '    AddPLCWordData(nBoardIdPLCWord)
+        'Else
+        '    nBoardIdPLCWord = 0
+        '    AddPLCWordData(nBoardIdPLCWord)
+        'End If
+    End Sub
+
+    Private Sub btnPCWord_Click(sender As System.Object, e As System.EventArgs) Handles btnPCWord.Click
+        'If nBoardIdPCWord <= mPCWord_BoardCnt Then
+        '    AddPCWordData(nBoardIdPCWord)
+        'Else
+        '    nBoardIdPCWord = 0
+        '    AddPCWordData(nBoardIdPCWord)
+        'End If
+
+    End Sub
+
+    Private Sub dgvPCBitData_CellMouseDoubleClick(sender As Object, e As System.Windows.Forms.DataGridViewCellMouseEventArgs) Handles dgvPCBitData.CellMouseDoubleClick
+        Dim numPCBit As Integer
+        Dim PCWordNo As Integer
+        Dim PCWordData As String
+
+        If bLogInAdmin = True Then
+            If btnPCBit.BackColor = Color.Lime Then
+                If dgvPCBitData.Rows(e.RowIndex).Cells(0).Value <> "PC_BitNo" Then
+                    If dgvPCBitData.Rows(e.RowIndex).Cells(2).Style.BackColor = Color.White Then
+                        Dim nRet As Integer = -1
+                        nRet = MsgBox(dgvPCBitData.Rows(e.RowIndex).Cells(0).Value & " Bit Set?", MsgBoxStyle.YesNo, "PLC Bit")
+
+                        If nRet = 7 Then
+                            Return
+                        End If
+                        numPCBit = "&H" & Mid(dgvPCBitData.Rows(e.RowIndex).Cells(0).Value, 2, 4)
+                        pMelsec.Set_Bit(numPCBit)
+                        dgvPCBitData.Rows(e.RowIndex).Cells(2).Style.BackColor = Color.Lime
+
+                    ElseIf dgvPCBitData.Rows(e.RowIndex).Cells(2).Style.BackColor = Color.Lime Then
+                        Dim nRet As Integer = -1
+                        nRet = MsgBox(dgvPCBitData.Rows(e.RowIndex).Cells(0).Value & " Bit ReSet?", MsgBoxStyle.YesNo, "PLC Bit")
+
+                        If nRet = 7 Then
+                            Return
+                        End If
+                        numPCBit = "&H" & Mid(dgvPCBitData.Rows(e.RowIndex).Cells(0).Value, 2, 4)
+                        pMelsec.Reset_Bit(numPCBit)
+                        dgvPCBitData.Rows(e.RowIndex).Cells(2).Style.BackColor = Color.White
+                    End If
+
+                    dgvPCBitData.Update()
+                End If
+            ElseIf btnPCWord.BackColor = Color.Lime Then
+                If dgvPCBitData.Rows(e.RowIndex).Cells(0).Value <> "PC_WordNo" Then
+                    PCWordNo = "&H" & Mid(dgvPCBitData.Rows(e.RowIndex).Cells(0).Value, 2, 4)
+                    PCWordData = dgvPCBitData.Rows(e.RowIndex).Cells(2).Value
+                    Dim nRet As Integer = -1
+                    nRet = MsgBox("Word Number : " & dgvPCBitData.Rows(e.RowIndex).Cells(0).Value & Chr(13) & "Word Data : " & dgvPCBitData.Rows(e.RowIndex).Cells(2).Value, MsgBoxStyle.YesNo, "PC Word")
+
+                    If nRet = 7 Then
+                        Return
+                    End If
+                    pMelsec.SendDataWord_TEST(PCWordNo, PCWordData)
+                End If
+            End If
+            
+
+        End If
+
+    End Sub
+
+    Private Sub Timer1_Tick(sender As System.Object, e As System.EventArgs) Handles Timer1.Tick
+        On Error GoTo SysErr
+        Dim PCBit_First As Integer
+        Dim PCBit_Second As Integer
+        Dim PLCBit_First As Integer
+        Dim PLCBit_Second As Integer
+        Dim BitNo_check As String
+        Dim PCWord As Integer
+        Dim PLCWord As Integer
+
+        For i As Integer = 0 To dgvPCBitData.RowCount - 1
+            If btnPCBit.BackColor = Color.Lime Then
+                If dgvPCBitData.Rows(i).Cells(0).Value = "PC_BitNo" Then
+                    dgvPCBitData.Rows(i).Cells(2).Style.BackColor = Color.White
+                Else
+                    PCBit_First = "&H" & Mid(dgvPCBitData.Rows(i).Cells(0).Value, 4, 1)
+                    PCBit_Second = "&H" & Mid(dgvPCBitData.Rows(i).Cells(0).Value, 5, 1)
+                    If pMelsec.pPC_Bit(PCBit_First, PCBit_Second) = 1 Then
+                        dgvPCBitData.Rows(i).Cells(2).Style.BackColor = Color.Lime
+                    Else
+                        dgvPCBitData.Rows(i).Cells(2).Style.BackColor = Color.White
+                    End If
+                End If
+            ElseIf btnPCWord.BackColor = Color.Lime Then
+                If dgvPCBitData.Rows(i).Cells(0).Value = "PC_WordNo" Then
+                    dgvPCBitData.Rows(i).Cells(2).Value = ""
+                Else
+                    PCWord = "&H" & Mid(dgvPCBitData.Rows(i).Cells(0).Value, 4, 2)
+                    dgvPCBitData.Rows(i).Cells(2).Value = pMelsec.pPC_Word(PCWord)
+                End If
+            End If
+            
+        Next
+        For i As Integer = 0 To dgvPLCBitData.RowCount - 1
+            If btnPLCBit.BackColor = Color.Lime Then
+                If dgvPLCBitData.Rows(i).Cells(0).Value = "PLC_BitNo" Then
+                    dgvPLCBitData.Rows(i).Cells(2).Style.BackColor = Color.White
+                Else
+                    PLCBit_First = "&H" & Mid(dgvPLCBitData.Rows(i).Cells(0).Value, 4, 1)
+                    PLCBit_Second = "&H" & Mid(dgvPLCBitData.Rows(i).Cells(0).Value, 5, 1)
+                    If pMelsec.pPLC_Bit(PLCBit_First, PLCBit_Second) = 1 Then
+                        dgvPLCBitData.Rows(i).Cells(2).Style.BackColor = Color.Lime
+                    Else
+                        dgvPLCBitData.Rows(i).Cells(2).Style.BackColor = Color.White
+                    End If
+                End If
+            ElseIf btnPLCWord.BackColor = Color.Lime Then
+                If dgvPLCBitData.Rows(i).Cells(0).Value = "PLC_WordNo" Then
+                    dgvPLCBitData.Rows(i).Cells(2).Value = ""
+                Else
+                    PLCWord = "&H" & Mid(dgvPLCBitData.Rows(i).Cells(0).Value, 4, 2)
+                    dgvPLCBitData.Rows(i).Cells(2).Value = pMelsec.pPLC_Word(PLCWord)
+                End If
+            End If
+
+        Next
+SysErr:
+    End Sub
+
+
+End Class

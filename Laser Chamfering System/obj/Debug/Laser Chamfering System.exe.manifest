@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns="urn:schemas-microsoft-com:asm.v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <assemblyIdentity name="Laser Chamfering System.exe" version="1.0.0.0" type="win32" />
+  <file name="CvsInSightDisplay.ocx" asmv2:size="374784">
+    <hash xmlns="urn:schemas-microsoft-com:asm.v2">
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>ZPf5TxmUaq14Tl+N0F4+AlSyaoI=</dsig:DigestValue>
+    </hash>
+    <typelib tlbid="{5026778f-5e71-466c-b034-ef038aed4258}" version="1.0" helpdir="" resourceid="0" flags="CONTROL,HASDISKIMAGE" />
+    <comClass clsid="{86012278-f05d-4c41-a313-51ce65032312}" threadingModel="Apartment" tlbid="{5026778f-5e71-466c-b034-ef038aed4258}" progid="Cognex.CvsInSightDisplay.1" description="Cognex  In-Sight Display Control" />
+    <comClass clsid="{50fdeae0-f676-489e-bbeb-16ac1628a3cc}" threadingModel="Apartment" tlbid="{5026778f-5e71-466c-b034-ef038aed4258}" progid="Cognex.CvsFilmstrip.1" description="Cognex  In-Sight Filmstrip Control" />
+  </file>
+</assembly>
